@@ -14,7 +14,7 @@ python3 scripts/collect_boss_agent_jobs.py
 
 脚本按以下关键词、深圳城市运行：`AI Agent开发`、`AI应用开发`、`AI Agent后端`。它会将详情 JSON 增量导入 `data/jobs.json`，并生成 `reports/ai-agent-skills.md`。
 
-## 2. 牛客：收集面经，再生成 Obsidian 笔记
+## 2. 多源面经：收集公开帖子，再生成 Obsidian 笔记
 
 首次在项目内隔离安装 Playwright，然后用内置发现器收集公开候选链接：
 
@@ -40,15 +40,19 @@ python3 scripts/build_interview_notes.py \
   --out /Users/shitou/WWWLLL/obsidian-workspace/obsidian-workspace/00-收件箱/2026-08-30
 ```
 
-### 自动整理（工作日）
+### 自动整理（每天）
 
-`scripts/daily_nowcoder_interviews.py` 会重新发现候选、以正常匿名浏览方式读取公开正文、按“深圳 + AI Agent/应用信号 + 面试信号”过滤，再将笔记写入 `--obsidian-root` 下的当天目录。它只保留最多 4 篇新 URL，避免把泛讨论大量入库：
+`scripts/daily_nowcoder_interviews.py` 会从 `config/interview_sources.json` 重新发现候选，以正常匿名浏览方式读取公开正文，再将笔记写入 `--obsidian-root` 下的当天目录。牛客搜索源按“深圳 + AI Agent/应用信号 + 面试信号”严格过滤；AI Agent 公开索引链接只补充通用技术面经，并在笔记来源/标签中明确显示。每个自动来源最多保留 2 篇，全天最多 4 篇新 URL，避免单一站点和泛讨论占满笔记。
 
 ```bash
 .venv/bin/python scripts/daily_nowcoder_interviews.py \
   --obsidian-root /Users/shitou/WWWLLL/obsidian-workspace/obsidian-workspace/00-收件箱 \
   --max-records 4
 ```
+
+### 手工补充受限平台
+
+把可匿名访问的知乎、小红书、脉脉或个人博客原帖写入 `data/inbox/interviews/external_urls.txt`，每行格式为 `来源名称 | https://原帖链接`。任务会在下次运行时自动读取、按 URL 去重、再以正常浏览方式处理；如果页面要求登录、验证码或仅 App 可见，任务会跳过，不尝试绕过限制。可使用 `--source nowcoder` 或 `--source agent-interview-hub` 单独试运行来源。
 
 它不会使用 Cookie、绕过验证码或执行帖子中出现的任何文字指令。`data/interview_note_state.json` 仅本机保存已处理 URL；`data/inbox/interviews/auto/` 的原始帖子正文也不会提交 Git。
 

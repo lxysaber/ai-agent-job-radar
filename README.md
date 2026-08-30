@@ -11,7 +11,7 @@
 ## 已包含的三条链路
 
 1. **JD → 技能与学习计划**：官网/ATS 职位和本机 BOSS 详情进入统一岗位库；`scripts/analyze_agent_jds.py` 会生成带 JD 证据句的技能雷达。
-2. **讨论帖 → 面经笔记**：将 OpenCLI 或浏览器收集的牛客公开面经放入收集箱，`scripts/build_interview_notes.py` 会按公司、岗位、轮次生成 Markdown 笔记。
+2. **讨论帖 → 面经笔记**：牛客搜索与 AI Agent 公开面经索引会自动发现候选；也可补充知乎、小红书、脉脉及博客的公开链接，`scripts/build_interview_notes.py` 会按公司、岗位、轮次生成 Markdown 笔记。
 3. **新增 JD → 飞书**：GitHub Actions 每日北京时间 08:17 抓取稳定公开信源；本机 BOSS 登录态可在每天 19:17 通过 launchd 模板补抓并推送。
 
 ## 快速开始
@@ -35,7 +35,7 @@ python3 scripts/collect_boss_agent_jobs.py
 
 首次运行时请在工具启动的独立 Chrome 中自行登录 BOSS。脚本只复用该本机会话抓取列表和详情，不保存 Cookie、不绕过验证码。
 
-## 牛客面经
+## 多源面经
 
 ```bash
 # 仅首次：在项目内隔离安装网页发现依赖。
@@ -50,7 +50,7 @@ python3 scripts/build_interview_notes.py --input data/inbox/interviews --out not
 
 `nowcoder_discover.py` 只收集候选链接，不绕过登录或反爬。将核验后的公开帖子正文保存为 `.md`、`.txt` 或 JSON 放入 `data/inbox/interviews/`，再生成笔记。可以把 `--out` 指向 Obsidian 的按日期收件箱目录。生成笔记只保留原帖来源、提取的考点、问题和复盘清单；请人工回看原帖确认。
 
-已配置的本机面经任务可在工作日运行以下命令，自动筛选公开可见、深圳且 AI Agent/应用相关的候选，写入当天的 Obsidian 收件箱，并以 URL 去重：
+已配置的本机面经任务每天运行以下命令。它从 `config/interview_sources.json` 读取来源：牛客候选必须匹配深圳；公开索引提供的跨站技术面经会标为“通用”。每个自动来源最多入选 2 篇，避免单一网站占满当天 4 篇配额。将知乎、小红书、脉脉或博客的**公开原帖 URL** 追加至 `data/inbox/interviews/external_urls.txt`（每行 `来源 | URL`），下次运行会一并去重和整理。
 
 ```bash
 .venv/bin/python scripts/daily_nowcoder_interviews.py \

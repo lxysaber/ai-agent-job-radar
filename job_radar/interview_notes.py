@@ -140,6 +140,7 @@ def _slug(value: str, fallback: str) -> str:
 def note_markdown(record: InterviewRecord) -> str:
     topics = topics_for(record)
     questions = questions_for(record)
+    city_tag = "深圳" if "深圳" in f"{record.title} {record.content}" else "通用"
     lines = [
         "---",
         f"company: {record.company}",
@@ -147,7 +148,7 @@ def note_markdown(record: InterviewRecord) -> str:
         f"round: {record.round_name}",
         f"source: {record.source}",
         f"url: {record.url}",
-        "tags: [面经, AI-Agent, 深圳]",
+        f"tags: [面经, AI-Agent, {city_tag}]",
         "---",
         "",
         f"# {record.company}｜{record.role}｜{record.round_name} 面经",

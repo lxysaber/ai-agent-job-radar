@@ -1,0 +1,44 @@
+{
+  "auto_sources": [
+    {
+      "id": "nowcoder",
+      "name": "牛客公开面经",
+      "kind": "nowcoder_search",
+      "enabled": true,
+      "city_required": true,
+      "max_records": 2,
+      "keywords": [
+        "深圳 AI Agent 面经",
+        "深圳 AI应用开发 面经",
+        "深圳 大模型应用开发 面经",
+        "深圳 RAG 面经",
+        "深圳 MCP 面经"
+      ]
+    },
+    {
+      "id": "agent-interview-hub",
+      "name": "AI Agent 面经公开索引",
+      "kind": "github_markdown_index",
+      "enabled": true,
+      "city_required": false,
+      "max_records": 2,
+      "url": "https://raw.githubusercontent.com/Zchary1106/agent-interview-hub/main/%E9%80%9A%E7%94%A8%E7%9F%A5%E8%AF%86/%E6%9C%80%E6%96%B0AI-Agent%E9%9D%A2%E7%BB%8F%E7%B4%A2%E5%BC%95.md",
+      "allowed_hosts": [
+        "www.nowcoder.com",
+        "blog.csdn.net",
+        "gitcode.csdn.net",
+        "devpress.csdn.net",
+        "www.cnblogs.com",
+        "juejin.cn",
+        "www.zhihu.com",
+        "www.blanked.work"
+      ]
+    }
+  ],
+  "manual_url_sources": [
+    "知乎公开帖",
+    "小红书公开帖",
+    "脉脉公开帖",
+    "个人博客或公众号公开文章"
+  ]
+}
