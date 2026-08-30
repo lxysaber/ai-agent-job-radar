@@ -42,12 +42,11 @@ python3 scripts/build_interview_notes.py \
 
 ### 自动整理（每天）
 
-`scripts/daily_nowcoder_interviews.py` 会从 `config/interview_sources.json` 重新发现候选，以正常匿名浏览方式读取公开正文，再将笔记写入 `--obsidian-root` 下的当天目录。牛客搜索源按“深圳 + AI Agent/应用信号 + 面试信号”严格过滤；AI Agent 公开索引链接只补充通用技术面经，并在笔记来源/标签中明确显示。每个自动来源最多保留 2 篇，全天最多 4 篇新 URL，避免单一站点和泛讨论占满笔记。
+`scripts/daily_nowcoder_interviews.py` 会从 `config/interview_sources.json` 重新发现候选，以正常匿名浏览方式读取公开正文，再将笔记写入 `--obsidian-root` 下的当天目录。面经不限制城市，只按 AI Agent/应用关键词和面试信号筛选；高频题/题库会与真实面经写入同一目录，并通过资料类型和标签区分。每个自动来源最多保留 5 篇，不设每日总上限。
 
 ```bash
 .venv/bin/python scripts/daily_nowcoder_interviews.py \
-  --obsidian-root /Users/shitou/WWWLLL/obsidian-workspace/obsidian-workspace/00-收件箱 \
-  --max-records 4
+  --obsidian-root /Users/shitou/WWWLLL/obsidian-workspace/obsidian-workspace/00-收件箱
 ```
 
 ### 手工补充受限平台

@@ -30,10 +30,9 @@ SOURCES_PATH = ROOT / "config" / "interview_sources.json"
 MANUAL_URLS_PATH = ROOT / "data" / "inbox" / "interviews" / "external_urls.txt"
 
 AGENT_SIGNAL = re.compile(r"ai.?agent|\bagent\b|智能体|ai.?应用|大模型应用|llm|rag|检索增强|mcp|tool calling|function calling", re.I)
-INTERVIEW_SIGNAL = re.compile(r"面经|一面|二面|三面|终面|笔试|机考|技术面", re.I)
-SHENZHEN_SIGNAL = re.compile(r"深圳|base\s*深圳", re.I)
+INTERVIEW_SIGNAL = re.compile(r"面经|面试|一面|二面|三面|终面|笔试|机考|技术面", re.I)
 NOISE_SIGNAL = re.compile(r"求问|求助|求拷打|简历求|offer比较|offer帮选|去哪个|怎么选|投递记录", re.I)
-# 这些是复习资料而非个人面经；保留在公开索引中供人查阅，但不自动写成“面经笔记”。
+# 高频题和题库会与面经一并整理，但在笔记中标为“高频题/题库”。
 REFERENCE_SIGNAL = re.compile(r"面试题|题库|高频题|汇总|宝典|参考解答|知识图谱|真题整理", re.I)
 PHONE = re.compile(r"(?<!\d)(?:\+?86[- ]?)?1[3-9]\d{9}(?!\d)")
 EMAIL = re.compile(r"\b[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}\b")
@@ -84,12 +83,8 @@ def rank_candidate(row: dict[str, Any]) -> tuple[int, str]:
         score += 8
     if INTERVIEW_SIGNAL.search(title):
         score += 6
-    if SHENZHEN_SIGNAL.search(title):
-        score += 4
     if NOISE_SIGNAL.search(title):
         score -= 12
-    if row.get("city_required"):
-        score += 2
     return score, title
 
 
@@ -120,16 +115,14 @@ def discover_github_index(source: dict[str, Any]) -> list[dict[str, Any]]:
         clean_title = re.sub(r"\s+", " ", title).strip()
         if not (AGENT_SIGNAL.search(clean_title) or INTERVIEW_SIGNAL.search(clean_title)):
             continue
-        if REFERENCE_SIGNAL.search(clean_title):
-            continue
         rows.append({
             "url": target,
             "title": clean_title,
             "quality": 8,
             "source_id": str(source.get("id") or "公开索引"),
             "source_name": f"{source.get('name', source.get('id', '公开索引'))} → {PLATFORM_NAMES.get(host, host)}",
-            "city_required": bool(source.get("city_required")),
-            "max_from_source": int(source.get("max_records", 2)),
+            "material_type": "高频题/题库" if REFERENCE_SIGNAL.search(clean_title) else "面经",
+            "max_from_source": int(source.get("max_records", 5)),
         })
     return rows
 
@@ -160,8 +153,7 @@ def manual_url_rows(path: Path) -> list[dict[str, Any]]:
             "quality": 99,
             "source_id": "manual-urls",
             "source_name": source_name,
-            "city_required": False,
-            "max_from_source": 99,
+            "max_from_source": None,
         })
     return rows
 
@@ -181,8 +173,8 @@ def discover_all_sources(sources: list[dict[str, Any]], limit_per_keyword: int,
             for row in discovered:
                 row["source_id"] = str(source.get("id") or "nowcoder")
                 row["source_name"] = source.get("name", "牛客公开面经")
-                row["city_required"] = bool(source.get("city_required"))
-                row["max_from_source"] = int(source.get("max_records", 2))
+                row["material_type"] = "面经"
+                row["max_from_source"] = int(source.get("max_records", 5))
             rows.extend(discovered)
         elif kind == "github_markdown_index":
             rows.extend(discover_github_index(source))
@@ -197,21 +189,24 @@ def discover_all_sources(sources: list[dict[str, Any]], limit_per_keyword: int,
     return list(unique.values())
 
 
-def choose_candidates(rows: list[dict[str, Any]], max_records: int) -> list[dict[str, Any]]:
-    """按相关性排序，同时限制每个自动来源的入选数，保证来源多样性。"""
+def choose_candidates(rows: list[dict[str, Any]], max_records: int | None = None) -> list[dict[str, Any]]:
+    """按相关性排序；只限制每个自动来源的入选数，不设默认每日总上限。"""
+    if max_records is not None and max_records <= 0:
+        return []
     counts: dict[str, int] = {}
     chosen: list[dict[str, Any]] = []
     for row in sorted(rows, key=rank_candidate, reverse=True):
         source_id = str(row.get("source_id") or row.get("source_name") or "未知来源")
         try:
-            cap = max(1, int(row.get("max_from_source", max_records)))
+            raw_cap = row.get("max_from_source", 5)
+            cap = None if raw_cap is None else max(1, int(raw_cap))
         except (TypeError, ValueError):
-            cap = max_records
-        if counts.get(source_id, 0) >= cap:
+            cap = 5
+        if cap is not None and counts.get(source_id, 0) >= cap:
             continue
         chosen.append(row)
         counts[source_id] = counts.get(source_id, 0) + 1
-        if len(chosen) >= max(0, max_records):
+        if max_records is not None and len(chosen) >= max_records:
             break
     return chosen
 
@@ -255,17 +250,15 @@ def fetch_public_records(rows: list[dict[str, Any]], delay_ms: int, verbose: boo
                 print(f"跳过无法读取的页面：{url} ({type(exc).__name__})")
                 continue
 
-            # 牛客搜索源严格要求深圳；跨站公开索引允许补充通用技术面经，来源会明确标注。
+            # 面经不按城市过滤；只保留 AI Agent/应用方向且带面试信号的公开内容。
             evidence = f"{title}\n{content}"
             signals = {
                 "agent": bool(AGENT_SIGNAL.search(evidence)),
                 "interview": bool(INTERVIEW_SIGNAL.search(evidence)),
-                "shenzhen": bool(SHENZHEN_SIGNAL.search(evidence)),
             }
             if verbose:
                 print(f"候选诊断：len={len(content)} signals={signals} title={title}")
-            city_ok = signals["shenzhen"] or not bool(row.get("city_required"))
-            if len(content) < 300 or not (signals["agent"] and signals["interview"] and city_ok):
+            if len(content) < 300 or not (signals["agent"] and signals["interview"]):
                 print(f"跳过低相关候选：{title}")
                 continue
             records.append(InterviewRecord(
@@ -275,6 +268,9 @@ def fetch_public_records(rows: list[dict[str, Any]], delay_ms: int, verbose: boo
                 company="未知公司",
                 role="AI Agent / AI 应用开发",
                 source=f"{row.get('source_name', '公开页面')}（自动收集，待复核）",
+                material_type=str(row.get("material_type") or (
+                    "高频题/题库" if REFERENCE_SIGNAL.search(title) else "面经"
+                )),
             ))
         browser.close()
     return records
@@ -283,7 +279,7 @@ def fetch_public_records(rows: list[dict[str, Any]], delay_ms: int, verbose: boo
 def write_raw(records: list[InterviewRecord], date: str) -> Path:
     output_dir = RAW_ROOT / date
     output_dir.mkdir(parents=True, exist_ok=True)
-    path = output_dir / "nowcoder-auto.json"
+    path = output_dir / "interviews-auto.json"
     payload = [
         {
             "title": record.title,
@@ -292,6 +288,7 @@ def write_raw(records: list[InterviewRecord], date: str) -> Path:
             "company": record.company,
             "role": record.role,
             "source": record.source,
+            "material_type": record.material_type,
         }
         for record in records
     ]
@@ -306,8 +303,7 @@ def explicit_rows(urls: list[str]) -> list[dict[str, Any]]:
         "quality": 99,
         "source_id": "manual-urls",
         "source_name": "手动公开链接",
-        "city_required": False,
-        "max_from_source": 99,
+        "max_from_source": None,
     } for url in urls]
 
 
@@ -317,7 +313,8 @@ def main() -> None:
     parser.add_argument("--obsidian-root", default=str(ROOT / "notes" / "interviews"),
                         help="Obsidian 收件箱根目录；当天日期目录会自动创建。")
     parser.add_argument("--limit-per-keyword", type=int, default=4)
-    parser.add_argument("--max-records", type=int, default=4)
+    parser.add_argument("--max-records", type=int,
+                        help="可选的单次总上限；默认不限制总数，每个自动来源按配置最多 5 篇。")
     parser.add_argument("--delay-ms", type=int, default=2200)
     parser.add_argument("--url", action="append", default=[], help="跳过发现，直接处理一个公开候选链接；可重复。")
     parser.add_argument("--sources-file", default=str(SOURCES_PATH), help="来源清单 JSON。")
@@ -351,7 +348,7 @@ def main() -> None:
 
     records = fetch_public_records(candidates, args.delay_ms, args.verbose)
     if not records:
-        print("没有通过深圳 AI Agent 面经相关性校验的公开帖子。")
+        print("没有通过 AI Agent 面经/高频题相关性校验的公开帖子。")
         return
     if args.dry_run:
         for record in records:

@@ -28,6 +28,7 @@ class InterviewRecord:
     role: str = "AI Agent/AI 应用开发"
     round_name: str = "未标注轮次"
     source: str = "牛客/公开讨论"
+    material_type: str = "面经"
 
 
 def _value(row: dict, *keys: str) -> str:
@@ -65,6 +66,7 @@ def _records_from_json(path: Path) -> list[InterviewRecord]:
             role=_value(row, "role", "position", "job_title") or "AI Agent/AI 应用开发",
             round_name=_value(row, "round", "stage") or _round_from_text(title + " " + content),
             source=_value(row, "source", "platform") or "牛客/公开讨论",
+            material_type=_value(row, "material_type", "资料类型", "type") or "面经",
         ))
     return records
 
@@ -79,7 +81,7 @@ def _records_from_text(path: Path) -> list[InterviewRecord]:
     if not text or text.startswith("# 请将"):
         return []
     meta = {}
-    for key, value in re.findall(r"(?m)^(公司|岗位|轮次|来源|链接|URL)\s*[:：]\s*(.+)$", text):
+    for key, value in re.findall(r"(?m)^(公司|岗位|轮次|来源|类型|链接|URL)\s*[:：]\s*(.+)$", text):
         meta[key.lower()] = value.strip()
     url = meta.get("链接") or meta.get("url") or _first_url(text)
     title = next((line.lstrip("# ").strip() for line in text.splitlines() if line.strip().startswith("#")), path.stem)
@@ -91,6 +93,7 @@ def _records_from_text(path: Path) -> list[InterviewRecord]:
         role=meta.get("岗位", "AI Agent/AI 应用开发"),
         round_name=meta.get("轮次") or _round_from_text(text),
         source=meta.get("来源", "牛客/公开讨论"),
+        material_type=meta.get("类型", "面经"),
     )]
 
 
@@ -140,7 +143,13 @@ def _slug(value: str, fallback: str) -> str:
 def note_markdown(record: InterviewRecord) -> str:
     topics = topics_for(record)
     questions = questions_for(record)
-    city_tag = "深圳" if "深圳" in f"{record.title} {record.content}" else "通用"
+    tags = ["AI-Agent", record.material_type]
+    if "深圳" in f"{record.title} {record.content}":
+        tags.append("深圳")
+    heading_parts = [record.company, record.role]
+    if record.material_type == "面经":
+        heading_parts.append(record.round_name)
+    heading_parts.append(record.material_type)
     lines = [
         "---",
         f"company: {record.company}",
@@ -148,10 +157,11 @@ def note_markdown(record: InterviewRecord) -> str:
         f"round: {record.round_name}",
         f"source: {record.source}",
         f"url: {record.url}",
-        f"tags: [面经, AI-Agent, {city_tag}]",
+        f"material_type: {record.material_type}",
+        f"tags: [{', '.join(tags)}]",
         "---",
         "",
-        f"# {record.company}｜{record.role}｜{record.round_name} 面经",
+        f"# {'｜'.join(heading_parts)}",
         "",
         "## 来源",
         "",
@@ -187,7 +197,7 @@ def write_notes(records: Iterable[InterviewRecord], output_dir: Path) -> list[Pa
     written = []
     existing_count = len(list(output_dir.glob("*.md")))
     for index, record in enumerate(records, existing_count + 1):
-        filename = f"{index:02d}-{_slug(record.company, '未知公司')}-{_slug(record.role, 'AI-Agent')}-面经.md"
+        filename = f"{index:02d}-{_slug(record.company, '未知公司')}-{_slug(record.role, 'AI-Agent')}-{_slug(record.material_type, '面经')}.md"
         path = output_dir / filename
         path.write_text(note_markdown(record), encoding="utf-8")
         written.append(path)
