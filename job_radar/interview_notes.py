@@ -184,7 +184,8 @@ def note_markdown(record: InterviewRecord) -> str:
 def write_notes(records: Iterable[InterviewRecord], output_dir: Path) -> list[Path]:
     output_dir.mkdir(parents=True, exist_ok=True)
     written = []
-    for index, record in enumerate(records, 1):
+    existing_count = len(list(output_dir.glob("*.md")))
+    for index, record in enumerate(records, existing_count + 1):
         filename = f"{index:02d}-{_slug(record.company, '未知公司')}-{_slug(record.role, 'AI-Agent')}-面经.md"
         path = output_dir / filename
         path.write_text(note_markdown(record), encoding="utf-8")

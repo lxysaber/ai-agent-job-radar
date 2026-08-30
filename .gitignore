@@ -20,3 +20,10 @@ scratch/
 # data/ 由 GitHub Actions 生成并 commit；source_state/notify_state 属于运行状态，可保留。
 
 .ssh/
+
+# 原始公开帖子正文和本机 BOSS 导出仅用于本地整理；不提交到公开仓库。
+data/inbox/boss/
+data/inbox/interviews/auto/
+data/interview_note_state.json
+data/import_preview*.html
+notes/

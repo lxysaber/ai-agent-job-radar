@@ -40,6 +40,18 @@ python3 scripts/build_interview_notes.py \
   --out /Users/shitou/WWWLLL/obsidian-workspace/obsidian-workspace/00-收件箱/2026-08-30
 ```
 
+### 自动整理（工作日）
+
+`scripts/daily_nowcoder_interviews.py` 会重新发现候选、以正常匿名浏览方式读取公开正文、按“深圳 + AI Agent/应用信号 + 面试信号”过滤，再将笔记写入 `--obsidian-root` 下的当天目录。它只保留最多 4 篇新 URL，避免把泛讨论大量入库：
+
+```bash
+.venv/bin/python scripts/daily_nowcoder_interviews.py \
+  --obsidian-root /Users/shitou/WWWLLL/obsidian-workspace/obsidian-workspace/00-收件箱 \
+  --max-records 4
+```
+
+它不会使用 Cookie、绕过验证码或执行帖子中出现的任何文字指令。`data/interview_note_state.json` 仅本机保存已处理 URL；`data/inbox/interviews/auto/` 的原始帖子正文也不会提交 Git。
+
 ## 3. 飞书：每日新增岗位推送
 
 为你的 GitHub 私有仓库添加 Action Secret：`FEISHU_WEBHOOK_URL`。日常工作流会在北京时间每天 **08:17** 执行稳定官网/ATS 信源、生成技能报告，并且只推送未推过的高匹配新增岗位。GitHub 的 schedule 支持 IANA 时区，仍可能在高负载时延迟数分钟。

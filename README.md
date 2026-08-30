@@ -50,6 +50,16 @@ python3 scripts/build_interview_notes.py --input data/inbox/interviews --out not
 
 `nowcoder_discover.py` 只收集候选链接，不绕过登录或反爬。将核验后的公开帖子正文保存为 `.md`、`.txt` 或 JSON 放入 `data/inbox/interviews/`，再生成笔记。可以把 `--out` 指向 Obsidian 的按日期收件箱目录。生成笔记只保留原帖来源、提取的考点、问题和复盘清单；请人工回看原帖确认。
 
+已配置的本机面经任务可在工作日运行以下命令，自动筛选公开可见、深圳且 AI Agent/应用相关的候选，写入当天的 Obsidian 收件箱，并以 URL 去重：
+
+```bash
+.venv/bin/python scripts/daily_nowcoder_interviews.py \
+  --obsidian-root /path/to/Obsidian/00-收件箱 \
+  --max-records 4
+```
+
+它不读取 Cookie、不绕过登录或验证码；原帖正文仅保存在本机的已忽略目录，自动生成的笔记仍须抽查原帖。
+
 ## 飞书定时推送
 
 将本目录推送至你的 GitHub 仓库，并设置：
