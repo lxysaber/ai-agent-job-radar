@@ -38,15 +38,21 @@ python3 scripts/collect_boss_agent_jobs.py
 ## 牛客面经
 
 ```bash
-opencli nowcoder search "AI Agent 面经 深圳" --type post --limit 20 -f json > data/inbox/interviews/nowcoder-ai-agent.json
+# 仅首次：在项目内隔离安装网页发现依赖。
+python3 -m venv .venv
+.venv/bin/pip install playwright
+.venv/bin/playwright install chromium
+
+# 发现公开的候选帖子链接；随后人工打开原帖核验并保存正文。
+.venv/bin/python scripts/nowcoder_discover.py --include-discussion --limit-per-keyword 6 --pages 1 --replace
 python3 scripts/build_interview_notes.py --input data/inbox/interviews --out notes/interviews
 ```
 
-可以把 `--out` 指向 Obsidian 的按日期收件箱目录。生成笔记只保留原帖来源、提取的考点、问题和复盘清单；请人工回看原帖确认。
+`nowcoder_discover.py` 只收集候选链接，不绕过登录或反爬。将核验后的公开帖子正文保存为 `.md`、`.txt` 或 JSON 放入 `data/inbox/interviews/`，再生成笔记。可以把 `--out` 指向 Obsidian 的按日期收件箱目录。生成笔记只保留原帖来源、提取的考点、问题和复盘清单；请人工回看原帖确认。
 
 ## 飞书定时推送
 
-将本目录推送至你自己的**私有 GitHub 仓库**，并设置：
+将本目录推送至你的 GitHub 仓库，并设置：
 
 - GitHub Actions Secret：`FEISHU_WEBHOOK_URL`
 - 可选 GitHub Actions Variable：`WORKBENCH_URL`

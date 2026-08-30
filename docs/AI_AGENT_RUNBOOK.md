@@ -16,10 +16,18 @@ python3 scripts/collect_boss_agent_jobs.py
 
 ## 2. 牛客：收集面经，再生成 Obsidian 笔记
 
-OpenCLI 已有牛客职位、搜索和面经命令。示例：
+首次在项目内隔离安装 Playwright，然后用内置发现器收集公开候选链接：
 
 ```bash
-opencli nowcoder search "AI Agent 面经 深圳" --type post --limit 20 -f json > data/inbox/interviews/nowcoder-ai-agent.json
+python3 -m venv .venv
+.venv/bin/pip install playwright
+.venv/bin/playwright install chromium
+.venv/bin/python scripts/nowcoder_discover.py --include-discussion --limit-per-keyword 6 --pages 1 --replace
+```
+
+发现器只输出候选标题和 URL，不绕过登录、验证码或站点限制。人工打开原帖核验后，将公开正文保存为 `.md`、`.txt` 或 JSON 放进 `data/inbox/interviews/`，然后运行：
+
+```bash
 python3 scripts/build_interview_notes.py --input data/inbox/interviews --out notes/interviews
 ```
 
