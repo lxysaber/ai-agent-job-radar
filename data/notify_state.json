@@ -1,4 +1,35 @@
 {
   "version": 1,
-  "pushed_keys": {}
+  "pushed_keys": {
+    "9b9725e76c0ab5c2": {
+      "pushed_at": "2026-08-30T04:44:27.284273+00:00",
+      "first_seen": "2026-08-30T04:40:28.075358+00:00",
+      "company": "腾讯",
+      "title": "QQ-AI数据科学家",
+      "source_id": "cn-tencent"
+    },
+    "5282834b289e94fd": {
+      "pushed_at": "2026-08-30T04:44:27.284273+00:00",
+      "first_seen": "2026-08-30T04:40:28.075358+00:00",
+      "company": "腾讯",
+      "title": "AI协作工具- AI Agent研发工程师",
+      "source_id": "cn-tencent"
+    },
+    "eca1e5f479701267": {
+      "pushed_at": "2026-08-30T04:44:27.284273+00:00",
+      "first_seen": "2026-08-30T04:40:28.075358+00:00",
+      "company": "字节跳动",
+      "title": "大模型策略产品经理-AI应用与创新",
+      "source_id": "cn-bytedance"
+    },
+    "b3026f08b39f621f": {
+      "pushed_at": "2026-08-30T04:44:27.284273+00:00",
+      "first_seen": "2026-08-30T04:40:28.075358+00:00",
+      "company": "字节跳动",
+      "title": "内容安全算法工程师-TikTok业务风控",
+      "source_id": "cn-bytedance"
+    }
+  },
+  "last_marked_at": "2026-08-30T04:44:27.284273+00:00",
+  "last_marked_count": 4
 }
