@@ -1,0 +1,6 @@
+{
+  "ai_agent": ["AI Agent", "Agent开发", "智能体", "AI应用", "大模型应用", "LLM应用", "RAG", "检索增强", "MCP", "LangChain", "LangGraph"],
+  "backend": ["Python后端", "FastAPI", "微服务", "模型服务", "向量数据库", "Function Calling", "Tool Calling"],
+  "campus_cycle": ["2027", "2027届", "提前批", "校招", "秋招", "春招", "暑期实习", "可转正"],
+  "iguopin_extra": ["人工智能", "大模型", "智能体", "软件开发", "后端开发"]
+}

@@ -1,0 +1,49 @@
+{
+  "ai-agent-shenzhen": {
+    "profile_name": "深圳 · AI Agent / AI 应用开发",
+    "target_roles": [
+      "AI Agent开发工程师",
+      "AI Agent后端开发工程师",
+      "AI应用开发工程师",
+      "大模型应用开发工程师",
+      "LLM应用开发工程师",
+      "智能体开发工程师",
+      "AI平台后端工程师",
+      "AI算法应用工程师",
+      "Python后端开发工程师"
+    ],
+    "must_keywords": [
+      "AI Agent", "Agent开发", "智能体", "大模型应用", "LLM", "RAG",
+      "检索增强", "向量数据库", "Embedding", "Prompt", "Function Calling",
+      "MCP", "Tool Calling", "Python", "FastAPI", "LangChain", "LangGraph",
+      "LlamaIndex", "多智能体", "工作流", "后端"
+    ],
+    "nice_keywords": [
+      "OpenAI API", "模型服务", "vLLM", "SGLang", "Docker", "Kubernetes",
+      "Redis", "PostgreSQL", "MySQL", "Elasticsearch", "Milvus", "Qdrant",
+      "Chroma", "GraphRAG", "知识图谱", "评测", "RAGAS", "可观测性",
+      "Guardrails", "A/B测试", "微服务", "异步任务", "CI/CD", "云原生",
+      "TypeScript", "React", "Vue", "Golang", "Java"
+    ],
+    "negative_keywords": ["销售", "外包", "劳务派遣", "电话客服", "纯运营", "培训贷"],
+    "exclude_keywords": [
+      "司机", "焊工", "钳工", "电工", "普工", "操作工", "保安", "保洁",
+      "服务员", "仓管", "叉车", "流水线", "导购", "收银", "房产中介",
+      "医药代表", "理财顾问", "课程顾问", "电话销售", "地推"
+    ],
+    "exclude_roles": [
+      "人力资源", "招聘专员", "行政", "法务", "纯销售", "售前", "售后",
+      "机械", "模具", "工业设计", "硬件", "嵌入式", "测试员", "UI设计",
+      "平面设计", "主播", "剪辑", "教师", "护士", "会计", "审计"
+    ],
+    "target_org_types": ["tech", "internet"],
+    "target_industries": ["互联网/软件", "通信", "半导体/电子", "汽车/新能源车"],
+    "negative_industries": [],
+    "cities": ["深圳"],
+    "strict_city": true,
+    "city_mismatch_penalty": 250,
+    "offshore_penalty": 60,
+    "min_score_to_push": 65,
+    "notification_channels": ["feishu"]
+  }
+}
