@@ -12,7 +12,7 @@ KEYCHAIN_SERVICE="ai-agent-job-radar-feishu-webhook"
 
 if [[ -z "${FEISHU_WEBHOOK_URL:-}" ]]; then
   if ! FEISHU_WEBHOOK_URL="$(/usr/bin/security find-generic-password -a "$KEYCHAIN_ACCOUNT" -s "$KEYCHAIN_SERVICE" -w 2>/dev/null)"; then
-    echo "未找到飞书 Webhook：请将其保存到 macOS 钥匙串服务 $KEYCHAIN_SERVICE。" >&2
+    echo "未找到飞书 Webhook：请将其保存到 macOS 钥匙串服务 ${KEYCHAIN_SERVICE:-ai-agent-job-radar-feishu-webhook}。" >&2
     exit 1
   fi
   export FEISHU_WEBHOOK_URL
