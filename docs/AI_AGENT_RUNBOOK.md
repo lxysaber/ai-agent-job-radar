@@ -7,7 +7,8 @@
 安装 [boss-scripts](https://github.com/lx419394005-cloud/boss-scripts) 后，在它启动的独立 Chrome 中手动完成一次 BOSS 登录。该工具复用本机浏览器会话来抓职位列表和 JD 详情；本项目不保存 Cookie，也不绕过验证码。
 
 ```bash
-npm install -g @loong243/boss-scripts
+# 暂用 GitHub 主分支：npm 已发布包曾遗漏 shared/ 目录，导致模块找不到。
+npm install -g "git+https://github.com/lx419394005-cloud/boss-scripts.git#main"
 python3 scripts/collect_boss_agent_jobs.py
 ```
 
@@ -35,9 +36,16 @@ python3 scripts/build_interview_notes.py \
 
 为你的 GitHub 私有仓库添加 Action Secret：`FEISHU_WEBHOOK_URL`。日常工作流会在北京时间每天 **08:17** 执行稳定官网/ATS 信源、生成技能报告，并且只推送未推过的高匹配新增岗位。GitHub 的 schedule 支持 IANA 时区，仍可能在高负载时延迟数分钟。
 
-本机 BOSS 登录态不应该放入 GitHub Actions。若希望 BOSS 同样每天更新，可将 `launchd/ai-agent-job-radar.plist.example` 复制为用户 LaunchAgent，替换项目绝对路径和 webhook，然后由你手动加载。它的默认时间是每天 19:17。
+本机 BOSS 登录态不应该放入 GitHub Actions。若希望 BOSS 同样每天更新，可将 `launchd/ai-agent-job-radar.plist.example` 复制为用户 LaunchAgent，仅替换项目绝对路径后再加载。它的默认时间是每天 19:17。
 
-两条推送共同使用 `data/notify_state.json` 去重；如果云端和本机都运行，请将本机生成的数据同步到你的私有仓库，或只保留其中一条推送，避免两个状态文件分叉。
+飞书 Webhook 需要以钥匙串条目保存，避免写进 plist、环境文件或 Git：
+
+```bash
+# -w 放在最后会要求你在不可见输入框中粘贴 Webhook。
+security add-generic-password -a "ai-agent-job-radar" -s "ai-agent-job-radar-feishu-webhook" -U -w
+```
+
+`daily_local_sync.sh` 会从上述钥匙串读取 Webhook，并在成功后只提交标准化岗位、报告和 `notify_state.json` 到 `origin`；不会提交 `data/inbox/boss/` 的原始导出。这样 GitHub Actions 和本机任务共用去重状态，避免重复推送。
 
 ## 4. 日常产物
 

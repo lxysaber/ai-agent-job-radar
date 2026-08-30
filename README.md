@@ -28,7 +28,8 @@ python3 scripts/notify_preview.py --min-focus 110 --min-match 65
 ## BOSS 职位详情
 
 ```bash
-npm install -g @loong243/boss-scripts
+# 暂用 GitHub 主分支：npm 已发布包曾遗漏 shared/ 目录，导致模块找不到。
+npm install -g "git+https://github.com/lx419394005-cloud/boss-scripts.git#main"
 python3 scripts/collect_boss_agent_jobs.py
 ```
 
