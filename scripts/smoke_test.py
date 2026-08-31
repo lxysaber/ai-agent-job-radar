@@ -27,6 +27,7 @@ from job_radar.adapters.jsonld import parse_jobs
 from job_radar import keyword_config, sync
 from job_radar.adapters import list_adapters
 from job_radar.adapters.iguopin import _KEEP as IGUOPIN_KEEP
+from job_radar.adapters.nowcoder import _parse_ssr_cards
 from job_radar.quality_rules import LOW_QUALITY_TAGS, quality_tags
 from job_radar.eligibility_rules import evaluate
 
@@ -153,6 +154,18 @@ def test_employment_filter_offline() -> None:
     check("普通校招过滤", not evaluate(mk("AI Agent 校招", "面向 2027 届应届生"), profile).eligible)
     check("接受一年经验的校招保留", evaluate(mk("AI Agent 校招", "接受 1 年工作经验的候选人"), profile).eligible)
     check("实习过滤", not evaluate(mk("AI Agent 实习生", "经验不限"), profile).eligible)
+    check("牛客社招不按校招排除", evaluate(mk("Java后端开发", "1-3年 Java Spring Boot", "nk-social"), profile).eligible)
+    check("历史牛客校招仍排除", not evaluate(mk("Java开发工程师", "2026届应届毕业生", "nk-campus"), profile).eligible)
+
+
+def test_nowcoder_ssr_parser_offline() -> None:
+    print("\n[G] 牛客社招 SSR 卡片解析（离线）")
+    sample = '''<div class="job-card-item"><a class="job-message-boxs" href="https://www.nowcoder.com/jobs/detail/454097"><span class="job-name">agent算法工程师</span><span class="job-salary">30-60K·14薪</span><div class="job-info-item">杭州</div><div class="job-info-item">1-3年</div></a><a><span class="company-name">同花顺</span></a></div>'''
+    cards = _parse_ssr_cards(sample)
+    check("解析出一个公开职位卡片", len(cards) == 1, str(cards))
+    if cards:
+        card = cards[0]
+        check("职位、公司、经验字段正确", card["title"] == "agent算法工程师" and card["company"] == "同花顺" and "1-3年" in card["info"], str(card))
 
 
 # ---------- A. 真实抓取验证（网络，允许个别源失败）----------
@@ -187,6 +200,7 @@ if __name__ == "__main__":
     test_jsonld_offline()
     test_config_and_quality_offline()
     test_employment_filter_offline()
+    test_nowcoder_ssr_parser_offline()
     try:
         test_live_fetch()
         test_health_report()

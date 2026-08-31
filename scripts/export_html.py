@@ -405,7 +405,7 @@ const HEALTH = __HEALTH__;
 const BACKLOG = __BACKLOG__;
 const INBOX = __INBOX__;
 const GEN = "__GEN__";
-const CATS = ["国聘","实习平台","群推送","国家平台","高校","大厂官网","海外ATS","其他"];
+const CATS = ["国聘","牛客社招","实习平台","群推送","国家平台","高校","大厂官网","海外ATS","其他"];
 const REGION_ORDER = ["广东","浙江","江苏","上海","湖南","北京","远程/海外","其他"];
 let fCat=new Set(), fInd=new Set(), fMin=0, fSort="focus", fQ="", tab="station", rtab="all";
 const RENDER_CAP=400;

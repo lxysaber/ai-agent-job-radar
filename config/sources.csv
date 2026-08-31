@@ -65,9 +65,9 @@ gov-qyzp,中央企业招聘应届高校毕业生信息公开,soe,public_notice,g
 # ===== P3 央国企/公共招聘平台（差异化核心，多为 SPA/公告，需 AI 抽取）=====
 cn-iguopin,国聘,aggregator,aggregator,iguopin,https://www.iguopin.com/,1,api,no,全国,720,active,国聘公开职位 API·央国企/国企校招/实习/提前批
 #
-# ===== 学生向聚合平台（Playwright 渲染，绕反爬/字体加密）=====
+# ===== 牛客社招 + 学生向聚合平台 =====
 nk-intern,牛客网·实习,aggregator,community,nowcoder,https://www.nowcoder.com/jobs/intern/center,2,playwright,no,全国,720,active,牛客实习·浏览器渲染(含薪资/届别)
-nk-campus,牛客网·校招,aggregator,community,nowcoder,https://www.nowcoder.com/jobs/fulltime/center,2,playwright,no,全国,720,active,牛客校招/全职·浏览器渲染
+nk-social,牛客网·社招,aggregator,aggregator,nowcoder,https://www.nowcoder.com/jobs/fulltime/center,2,html,no,全国,720,active,牛客社招广场·公开 SSR 职位卡片（含城市/经验/薪资/详情链接）
 sxs-intern,实习僧,aggregator,community,shixiseng,https://www.shixiseng.com/interns,2,playwright,no,全国,720,active,实习僧·浏览器渲染(薪资字体加密略)
 cn-icbc,工商银行,finance,official,public_notice,https://job.icbc.com.cn/,2,html,no,全国,1440,blocked,公告/SPA，需 per-site 适配
 cn-sinopec,中国石化,soe,official,public_notice,https://job.sinopec.com/,3,html,no,全国,1440,blocked,公告类，需 AI 抽取

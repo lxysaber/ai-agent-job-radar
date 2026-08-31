@@ -16,7 +16,7 @@
 
 ## 已包含的三条链路
 
-1. **JD → 技能与学习计划**：官网/ATS 职位和本机 BOSS 详情进入统一岗位库；`scripts/analyze_agent_jds.py` 会生成带 JD 证据句的技能雷达。
+1. **JD → 技能与学习计划**：官网/ATS 职位、公开的牛客社招广场和本机 BOSS 详情进入统一岗位库；`scripts/analyze_agent_jds.py` 会生成带 JD 证据句的技能雷达。
 2. **讨论帖 → 面经笔记**：牛客搜索与 AI Agent 公开面经索引会自动发现候选；也可补充知乎、小红书、脉脉及博客的公开链接，`scripts/build_interview_notes.py` 会按公司、岗位、轮次生成 Markdown 笔记。
 3. **新增 JD → 飞书**：GitHub Actions 每日北京时间 08:17 抓取稳定公开信源；本机 BOSS 登录态可在每天 19:17 通过 launchd 模板补抓并推送。
 
@@ -29,7 +29,7 @@ python3 scripts/analyze_agent_jds.py
 python3 scripts/notify_preview.py --min-focus 110 --min-match 65
 ```
 
-上述命令依赖的 Playwright 仅用于牛客等 SPA 慢源；日常官网/ATS 快扫不需要它。
+牛客社招广场会优先读取公开 SSR 职位卡片（城市、经验、薪资和详情链接），并复用同一套社招 0–5 年筛选；页面结构变化时才回退 Playwright。实习源仍是慢源，日常快扫不需要 Playwright。
 
 ## BOSS 职位详情
 

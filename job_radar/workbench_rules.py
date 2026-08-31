@@ -58,7 +58,7 @@ def kind(sid: str, title: str, jd: str = "") -> str:
         return "校招"
     if any(k in t or k in tl for k in SOCIAL_KW):
         return "社招"
-    if sid in ("cn-bytedance", "cn-tencent", "cn-jd") or sid.startswith("wd-"):
+    if sid in ("cn-bytedance", "cn-tencent", "cn-jd", "nk-social") or sid.startswith("wd-"):
         return "社招"
     return "其他"
 
@@ -103,6 +103,8 @@ def is_2027_cycle(sid: str, job_kind: str, title: str, jd: str, publish: str, jo
 def category(sid: str) -> str:
     if sid == "cn-iguopin":
         return "国聘"
+    if sid == "nk-social":
+        return "牛客社招"
     if sid.startswith(("nk-", "sxs-")):
         return "实习平台"
     if sid.startswith("feed-"):
