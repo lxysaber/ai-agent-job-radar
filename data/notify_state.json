@@ -119,8 +119,29 @@
       "company": "清闲智能创新",
       "title": "AI agent 工程师【后端背景】(A189368)",
       "source_id": "boss-local"
+    },
+    "2db05fae16acb4c4": {
+      "pushed_at": "2026-08-31T05:32:28.885115+00:00",
+      "first_seen": "2026-08-31T05:28:58.185320+00:00",
+      "company": "腾讯",
+      "title": "智能体-运营产品经理-CodeBuddy/WorkBuddy",
+      "source_id": "cn-tencent"
+    },
+    "a431cbb9850dff32": {
+      "pushed_at": "2026-08-31T05:32:28.885115+00:00",
+      "first_seen": "2026-08-31T05:28:58.185320+00:00",
+      "company": "腾讯",
+      "title": "游戏- AI Agent开发-用研产品",
+      "source_id": "cn-tencent"
+    },
+    "daf8045a65cf79d3": {
+      "pushed_at": "2026-08-31T05:32:28.885115+00:00",
+      "first_seen": "2026-08-31T05:28:58.185320+00:00",
+      "company": "字节跳动",
+      "title": "AI安全防护治理专家 - 安全与风控",
+      "source_id": "cn-bytedance"
     }
   },
-  "last_marked_at": "2026-08-30T13:11:06.832557+00:00",
-  "last_marked_count": 13
+  "last_marked_at": "2026-08-31T05:32:28.885115+00:00",
+  "last_marked_count": 3
 }
