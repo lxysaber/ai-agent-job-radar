@@ -11,12 +11,6 @@ from typing import Dict, List
 from .models import Job
 from .normalize import normalize_city
 from .role_rules import employer_tier, has_target_role_signal, role_signal_score
-_C27_KW = ("2027届", "2027 届", "27届", "27 届", "2027校园", "2027校招", "二零二七")
-_ADVANCE_KW = ("提前批", "提前招", "预招聘", "预招", "开放日", "体验营", "训练营", "夏令营")
-_AUTUMN_KW = ("秋招", "秋季招聘", "秋季校园招聘", "正式批")
-_SPRING_KW = ("春招", "春季招聘", "补录", "补招")
-_SUMMER_KW = ("暑期实习", "暑期实践", "实习生", "intern")
-_CONVERT_KW = ("可转正", "转正机会", "转正实习", "留用", "return offer")
 
 
 # 风险关键词 → 扣分（规划第 4 章风险扣分项）
@@ -61,29 +55,6 @@ def score_job(job: Job, profile: Dict) -> ScoreResult:
     role_score, role_tags = role_signal_score(job.title, job.jd_text)
     score += role_score
     tags += role_tags
-
-    # 27届周期信号：提前批/秋招/春招/暑期实习是当前主线，适度加权但不压过岗位匹配。
-    cycle_text = (job.title + " " + job.jd_text).lower()
-    is_c27 = any(k.lower() in cycle_text for k in _C27_KW)
-    if is_c27:
-        score += 18
-        tags.append("27届")
-    has_advance = any(k.lower() in cycle_text for k in _ADVANCE_KW)
-    if has_advance:
-        score += 10
-        tags.append("提前批")
-    if not has_advance and any(k.lower() in cycle_text for k in _AUTUMN_KW):
-        score += 8
-        tags.append("秋招")
-    if any(k.lower() in cycle_text for k in _SPRING_KW):
-        score += 8
-        tags.append("春招/补录")
-    if any(k.lower() in cycle_text for k in _SUMMER_KW):
-        score += 6
-        tags.append("暑期实习")
-    if any(k.lower() in cycle_text for k in _CONVERT_KW):
-        score += 6
-        tags.append("可转正")
 
     # 行业匹配：偏好行业加分、回避行业减分（如"金融一般"→降权）
     if job.industry and job.industry in profile.get("target_industries", []):

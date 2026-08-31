@@ -1,6 +1,6 @@
 {
   "ai-agent-shenzhen": {
-    "profile_name": "深圳 · AI Agent / AI 应用开发",
+    "profile_name": "深圳 · AI Agent / AI 应用开发（社招 0-5 年）",
     "target_roles": [
       "AI Agent开发工程师",
       "AI Agent后端开发工程师",
@@ -44,6 +44,12 @@
     "city_mismatch_penalty": 250,
     "offshore_penalty": 60,
     "min_score_to_push": 65,
+    "employment_filter": {
+      "min_experience_years": 0,
+      "max_experience_years": 5,
+      "allow_unspecified_social_experience": false,
+      "allow_campus_with_up_to_years": 1
+    },
     "notification_channels": ["feishu"]
   }
 }

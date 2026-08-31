@@ -19,6 +19,7 @@ from typing import Dict, List, Optional
 
 from .adapters import get_adapter
 from .dedup import dedup
+from .eligibility_rules import filter_jobs
 from .industry import classify as classify_industry
 from .models import Job, RawJob, SOURCE_CONFIDENCE
 from .normalize import make_dedup_key
@@ -295,6 +296,8 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
     before = len(all_jobs)
     jobs = dedup(all_jobs)
     removed = before - len(jobs)
+    deduped_count = len(jobs)
+    jobs, excluded_by_profile = filter_jobs(jobs, profiles)
 
     # 规则粗分（规划 4.1）：对所有画像取得分最高者，应用其分数/标签；
     # 风险标记与去重阶段已有的（如 repeat_posting）合并，不覆盖。
@@ -315,7 +318,7 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
     # 增量合并入库（新增追加、下线移除、保留用户状态）
     scoped_ids = success_source_ids if preserve_unselected else None
 
-    if not jobs and scoped_ids is None and os.path.exists(jobs_path):
+    if not all_jobs and scoped_ids is None and os.path.exists(jobs_path):
         try:
             with open(jobs_path, encoding="utf-8") as f:
                 old_count = len(json.load(f))
@@ -338,8 +341,10 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
         "sources_catalog_total": len(sources),
         "preserve_unselected": preserve_unselected,
         "jobs_raw": before,
-        "snapshot_after_dedup": len(jobs),
+        "snapshot_after_dedup": deduped_count,
+        "eligible_after_profile": len(jobs),
         "duplicates_removed": removed,
+        "excluded_by_profile": len(excluded_by_profile),
         "store_total": len(merged["jobs"]),
         "new_this_run": merged["new"],
         "gone_total": merged["gone"],
@@ -353,7 +358,7 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
     _save_json(os.path.join(data_dir, "health_report.json"), report)
 
     if verbose:
-        print(f"\n本次快照 {len(jobs)} 条（去重掉 {removed}）"
+        print(f"\n本次快照 {deduped_count} 条（去重掉 {removed}，画像过滤 {len(excluded_by_profile)}）"
               f" → 入库累积 {len(merged['jobs'])} 条"
               f"（新增 {merged['new']}，在架 {merged['active']}，已下线 {merged['gone']}）")
         print(f"数据: {jobs_path}   健康报告: {os.path.join(data_dir, 'health_report.json')}")

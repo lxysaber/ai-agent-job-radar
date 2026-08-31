@@ -294,8 +294,8 @@ def from_inbox(path: str) -> list:
 
 def merge(raws: list, src: dict) -> tuple:
     """打分 + 加性并入 data/jobs.json（不动其它源），返回 (新增, 刷新, 总量)。"""
-    jobs = dedup(sync._to_jobs(src, raws))
     profiles = json.load(open(sync.PROFILES_JSON, encoding="utf-8"))
+    jobs, _ = sync.filter_jobs(dedup(sync._to_jobs(src, raws)), profiles)
     for j in jobs:
         best = max((score_job(j, p) for p in profiles.values()), key=lambda r: r.score)
         qtags, qrisks = quality_tags(j)
@@ -329,8 +329,8 @@ def merge(raws: list, src: dict) -> tuple:
 
 
 def score_raws(raws: list, src: dict):
-    jobs = dedup(sync._to_jobs(src, raws))
     profiles = json.load(open(sync.PROFILES_JSON, encoding="utf-8"))
+    jobs, _ = sync.filter_jobs(dedup(sync._to_jobs(src, raws)), profiles)
     for j in jobs:
         best = max((score_job(j, p) for p in profiles.values()), key=lambda r: r.score)
         qtags, qrisks = quality_tags(j)

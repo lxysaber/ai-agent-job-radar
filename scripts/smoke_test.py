@@ -27,6 +27,7 @@ from job_radar.adapters.jsonld import parse_jobs
 from job_radar import keyword_config, sync
 from job_radar.adapters import list_adapters
 from job_radar.quality_rules import LOW_QUALITY_TAGS, quality_tags
+from job_radar.eligibility_rules import evaluate
 
 PASS, FAIL = "✅ PASS", "❌ FAIL"
 failures = 0
@@ -126,6 +127,28 @@ def test_config_and_quality_offline() -> None:
     check("明显低质岗位会进入默认隐藏标签", bool(set(tags) & LOW_QUALITY_TAGS), str(tags))
 
 
+def test_employment_filter_offline() -> None:
+    print("\n[F] 社招 / 经验范围筛选")
+    profile = {
+        "employment_filter": {
+            "min_experience_years": 0,
+            "max_experience_years": 5,
+            "allow_unspecified_social_experience": False,
+            "allow_campus_with_up_to_years": 1,
+        }
+    }
+    def mk(title: str, jd: str, source_id: str = "boss-local") -> Job:
+        return Job(job_id=title, dedup_key=title, source_id=source_id, company_name="Acme AI", title=title, jd_text=jd)
+
+    check("社招 1-3 年保留", evaluate(mk("AI Agent 后端开发", "要求 1-3 年 Java 开发经验"), profile).eligible)
+    check("社招 5-10 年过滤", not evaluate(mk("AI Agent 后端开发", "要求 5-10 年开发经验"), profile).eligible)
+    check("社招 5 年以上过滤", not evaluate(mk("AI Agent 后端开发", "5 年以上 Java 开发经验"), profile).eligible)
+    check("经验不限社招保留", evaluate(mk("AI 应用开发", "经验不限，熟悉 RAG"), profile).eligible)
+    check("普通校招过滤", not evaluate(mk("AI Agent 校招", "面向 2027 届应届生"), profile).eligible)
+    check("接受一年经验的校招保留", evaluate(mk("AI Agent 校招", "接受 1 年工作经验的候选人"), profile).eligible)
+    check("实习过滤", not evaluate(mk("AI Agent 实习生", "经验不限"), profile).eligible)
+
+
 # ---------- A. 真实抓取验证（网络，允许个别源失败）----------
 def test_live_fetch() -> None:
     print("\n[A] 真实抓取（海外 ATS，网络）")
@@ -157,6 +180,7 @@ if __name__ == "__main__":
     test_dedup_offline()
     test_jsonld_offline()
     test_config_and_quality_offline()
+    test_employment_filter_offline()
     try:
         test_live_fetch()
         test_health_report()

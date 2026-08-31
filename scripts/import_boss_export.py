@@ -25,9 +25,7 @@ SOURCE = {
 }
 
 
-def score(jobs) -> None:
-    with open(sync.PROFILES_JSON, encoding="utf-8") as f:
-        profiles = json.load(f)
+def score(jobs, profiles) -> None:
     for job in jobs:
         best = max((score_job(job, profile) for profile in profiles.values()), key=lambda result: result.score)
         qtags, qrisks = quality_tags(job)
@@ -46,7 +44,10 @@ def main() -> None:
     if not raw_jobs:
         raise SystemExit("未从 JSON 识别到职位。请确认先完成 boss-scripts detail，并检查导出格式。")
     jobs = dedup(sync._to_jobs(SOURCE, raw_jobs))
-    score(jobs)
+    with open(sync.PROFILES_JSON, encoding="utf-8") as f:
+        profiles = json.load(f)
+    jobs, excluded = sync.filter_jobs(jobs, profiles)
+    score(jobs, profiles)
     now = sync._now()
     data_dir = os.path.abspath(args.data_dir)
     jobs_path = os.path.join(data_dir, "jobs.json")
@@ -55,7 +56,7 @@ def main() -> None:
     sync._save_json(jobs_path, merged["jobs"])
     sync._archive_gone(archive_path, merged.get("gone_jobs", []), now)
     export_html.main()
-    print(f"已导入 {len(jobs)} 条 BOSS 职位（新增 {merged['new']}）→ {jobs_path}")
+    print(f"已导入 {len(jobs)} 条符合画像的 BOSS 职位（过滤 {len(excluded)} 条，新增 {merged['new']}）→ {jobs_path}")
 
 
 if __name__ == "__main__":

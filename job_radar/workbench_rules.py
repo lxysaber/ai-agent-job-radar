@@ -45,8 +45,8 @@ def text_blob(*parts: str) -> str:
     return " ".join(p or "" for p in parts)
 
 
-def kind(sid: str, title: str) -> str:
-    t = title or ""
+def kind(sid: str, title: str, jd: str = "") -> str:
+    t = f"{title or ''} {jd or ''}"
     tl = t.lower()
     if any(k in t or k in tl for k in INTERN_KW):
         return "实习"

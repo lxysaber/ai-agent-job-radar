@@ -20,6 +20,7 @@ from zoneinfo import ZoneInfo
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from job_radar import sync  # noqa: E402
 from job_radar.models import Job  # noqa: E402
+from job_radar.eligibility_rules import filter_jobs  # noqa: E402
 from job_radar.quality_rules import quality_tags  # noqa: E402
 from job_radar.score import score_job  # noqa: E402
 from scripts import export_html  # noqa: E402
@@ -124,6 +125,7 @@ def rescore() -> None:
         rows = json.load(f)
     with open(sync.PROFILES_JSON, encoding="utf-8") as f:
         profiles = json.load(f)
+    rows, excluded = filter_jobs(rows, profiles)
 
     changed = 0
     for d in rows:
@@ -142,7 +144,7 @@ def rescore() -> None:
     rows.sort(key=lambda r: r.get("match_score", 0), reverse=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
-    print(f"✅ 重新打分 {len(rows)} 条，变化 {changed} 条")
+    print(f"✅ 重新打分 {len(rows)} 条，变化 {changed} 条，按画像过滤 {len(excluded)} 条")
     export_html.main()
 
 

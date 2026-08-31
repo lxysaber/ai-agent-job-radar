@@ -11,9 +11,12 @@ import datetime as dt
 import json
 import os
 import re
+import sys
 from collections import Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, ROOT)
+from job_radar.eligibility_rules import eligible_for_any_profile  # noqa: E402
 DATA_DIR = os.path.join(ROOT, "data")
 JOBS = os.path.join(DATA_DIR, "jobs.json")
 HEALTH = os.path.join(DATA_DIR, "health_report.json")
@@ -76,8 +79,6 @@ def focus_score(job: dict) -> int:
     score = int(job.get("match_score") or 0)
     role = primary_role(job)
     hay = text(job)
-    if is_2027(job):
-        score += 60
     if role == "AI Agent/应用":
         score += 100
     elif role == "产品/策略":
@@ -90,10 +91,6 @@ def focus_score(job: dict) -> int:
         score -= 70
     if not is_internet(job) and role in {"AI Agent/应用", "产品/策略", "数据"}:
         score += 25
-    if any(k in hay for k in ("可转正", "转正", "留用", "return offer")):
-        score += 18
-    if any(k in hay for k in ("提前批", "秋招")):
-        score += 12
     if WEAK.search(hay):
         score -= 120
     if LOW & tags(job):
@@ -248,7 +245,9 @@ def build(limit: int = 8, min_focus: int = 120, min_match: int = 50, mode: str =
           include_existing_due: bool = False, state_path: str = STATE,
           ignore_state: bool = False, workbench_url: str = DEFAULT_WORKBENCH_URL) -> tuple[str, list[dict]]:
     jobs = json.load(open(JOBS, encoding="utf-8"))
-    active = [j for j in jobs if not j.get("gone") and not (LOW & tags(j)) and not WEAK.search(text(j))]
+    profiles = json.load(open(os.path.join(ROOT, "config", "profiles.json"), encoding="utf-8"))
+    active = [j for j in jobs if not j.get("gone") and eligible_for_any_profile(j, profiles)
+              and not (LOW & tags(j)) and not WEAK.search(text(j))]
     latest = latest_first_seen(active)
     since_day = since or (latest[:10] if latest else dt.date.today().isoformat())
     state = load_state(state_path) if state_path and not ignore_state else {"pushed_keys": {}}
