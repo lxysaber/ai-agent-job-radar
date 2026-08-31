@@ -49,8 +49,18 @@ def keywords(*groups: str) -> List[str]:
 
 
 def role_focus_keywords() -> List[str]:
-    return keywords("intern", "data_algo")
+    """官网/API 的定向补抓词，优先覆盖 Agent、Java 后端和支付技术岗。
+
+    每个关键词型官网都会逐词翻页；限制为 18 个，既增加广东的召回面，
+    又避免日常同步因过多近义词而膨胀到不可控。
+    """
+    return (
+        keywords("ai_agent")[:7]
+        + keywords("backend")[:6]
+        + keywords("payments")[:5]
+    )
 
 
 def iguopin_keywords() -> List[str]:
-    return keywords("campus_cycle", "product", "decision", "data_algo", "iguopin_extra")
+    """国聘和大厂官网共用社招目标词，避免旧校招词耗尽结果上限。"""
+    return role_focus_keywords()

@@ -14,7 +14,10 @@ import subprocess
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
-QUERIES = ("AI Agent开发", "AI应用开发", "AI Agent后端")
+QUERIES = (
+    "AI Agent开发", "AI应用开发", "AI Agent后端",
+    "后端开发", "Java后端开发", "金融支付", "移动支付", "跨境支付",
+)
 
 
 def _slug(value: str) -> str:
@@ -33,10 +36,10 @@ def _rows(path: Path) -> list[dict]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="本机抓取深圳 AI Agent 岗位并导入 Job Radar。")
+    parser = argparse.ArgumentParser(description="本机抓取深圳 AI Agent、Java 后端和支付开发岗位并导入 Job Radar。")
     parser.add_argument("--city", default="深圳")
-    parser.add_argument("--query", action="append", dest="queries", help="可重复；默认使用 3 个 AI Agent 关键词")
-    parser.add_argument("--count", type=int, default=30, help="每个关键词的目标职位数")
+    parser.add_argument("--query", action="append", dest="queries", help="可重复；默认使用 AI Agent、Java 后端和支付方向关键词")
+    parser.add_argument("--count", type=int, default=10, help="每个关键词的目标职位数（默认总量与旧配置相近）")
     parser.add_argument("--delay", type=int, default=8000, help="每条详情的最小间隔（毫秒）")
     parser.add_argument("--output-dir", default=str(ROOT / "data" / "inbox" / "boss"))
     args = parser.parse_args()

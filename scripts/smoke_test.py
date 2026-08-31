@@ -26,6 +26,7 @@ from job_radar.normalize import make_dedup_key
 from job_radar.adapters.jsonld import parse_jobs
 from job_radar import keyword_config, sync
 from job_radar.adapters import list_adapters
+from job_radar.adapters.iguopin import _KEEP as IGUOPIN_KEEP
 from job_radar.quality_rules import LOW_QUALITY_TAGS, quality_tags
 from job_radar.eligibility_rules import evaluate
 
@@ -106,10 +107,15 @@ def test_jsonld_offline() -> None:
 # ---------- E. 配置化与质量规则（离线、必过、可复现）----------
 def test_config_and_quality_offline() -> None:
     print("\n[E] 配置化补抓 / adapter 自动发现 / 质量降噪")
-    kws = keyword_config.iguopin_keywords()
-    check("国聘补抓关键词含 2027 周期词", any(k in kws for k in ("2027", "27届")), str(kws[:8]))
-    check("国聘补抓关键词含算法/产品/决策方向", all(k in kws for k in ("算法", "AI产品", "战略分析")),
-          str(kws[:12]))
+    focus_kws = keyword_config.role_focus_keywords()
+    check("官网补抓覆盖 Agent、Java 后端和支付", all(k in focus_kws for k in ("AI Agent", "Java后端", "金融支付", "移动支付", "跨境支付")),
+          str(focus_kws))
+    check("官网补抓关键词数量受控", len(focus_kws) <= 18, str(len(focus_kws)))
+    check("国聘与官网共用社招目标词", keyword_config.iguopin_keywords() == focus_kws,
+          str(keyword_config.iguopin_keywords()))
+    check("国聘保留 Java/支付社招信号", all(IGUOPIN_KEEP.search(text) for text in (
+        "Java 后端开发工程师", "跨境支付清结算开发", "AI Agent 开发工程师",
+    )))
     adapters = set(list_adapters())
     check("adapter 自动发现包含国聘", "iguopin" in adapters, str(sorted(adapters)[:8]))
     check("adapter 自动发现包含央企公告", "gov_notice" in adapters, str(sorted(adapters)[:8]))

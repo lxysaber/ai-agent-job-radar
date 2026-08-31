@@ -3,7 +3,7 @@
 国聘是央国企/国企岗位的重要聚合源。React 首页本身只有壳，但公开 API 可直接查询：
     POST https://gp-api.iguopin.com/api/jobs/v1/list
 
-本 adapter 先按 27届/校招/提前批/数据/算法/实习等关键词多路搜索，保守抓取
+本 adapter 按用户画像的 Agent、Java 后端与支付方向关键词多路搜索，保守抓取
 与用户画像更相关的岗位，并保留 end_time 作为 deadline。
 """
 from __future__ import annotations
@@ -20,11 +20,13 @@ _API = "https://gp-api.iguopin.com/api/jobs/v1/list"
 _HEADERS = {"Referer": "https://www.iguopin.com/", "Origin": "https://www.iguopin.com"}
 MAX_RESULTS = 240
 _KEEP = re.compile(
-    r"(2027|27届|提前批|校招|校园招聘|实习|数据|算法|AI|人工智能|大模型|机器学习|统计|量化|风控|"
+    r"(AI|人工智能|大模型|智能体|LLM|RAG|MCP|Agent|后端|Java|Python|Spring|微服务|分布式|"
+    r"支付|金融科技|清结算|清分|对账|交易系统|跨境|风控|"
+    r"数据|算法|机器学习|统计|量化|"
     r"数据科学|数据挖掘|深度学习|推荐算法|搜索算法|NLP|CV|LLM|多模态|"
     r"产品|策略|需求|增长|用户|商业化|平台|AIGC|智能体|"
     r"战略|经营|商业分析|行业研究|产业研究|投研|投资分析|总裁办|管培|项目管理|数字化转型|决策|"
-    r"中国|国家|国投|中铁|中建|中交|中电|中航|航天|航空|央企|国企)"
+    r"中国|国家|国投|中铁|中建|中交|中电|中航|航天|航空|央企|国企)", re.I
 )
 _DROP = re.compile(r"(司机|保安|保洁|服务员|厨师|普工|操作工|销售代表|电话客服|主播|房产|置业)")
 

@@ -48,6 +48,8 @@ def primary_role(job: dict) -> str:
     hay = text(job)
     if "AI Agent/应用" in ts or re.search(r"ai.?agent|智能体|ai.?应用|大模型应用|llm.?应用|rag|检索增强", hay):
         return "AI Agent/应用"
+    if re.search(r"java|后端|spring|支付|金融科技|移动支付|跨境支付|清结算|交易系统", hay):
+        return "Java后端/支付"
     if ts & {"AI产品", "策略产品", "产品", "决策支持"}:
         return "产品/策略"
     if ts & {"数据科学", "数据挖掘"} or re.search(r"数据分析|商业分析|数据产品|数据科学|数据挖掘", hay):
@@ -81,6 +83,8 @@ def focus_score(job: dict) -> int:
     hay = text(job)
     if role == "AI Agent/应用":
         score += 100
+    elif role == "Java后端/支付":
+        score += 45
     elif role == "产品/策略":
         score += 90
     elif role == "数据":
@@ -110,6 +114,8 @@ def is_focus_job(job: dict, min_focus: int, min_match: int) -> bool:
     role = primary_role(job)
     if role == "AI Agent/应用":
         return focus_score(job) >= max(110, min_focus - 10)
+    if role == "Java后端/支付":
+        return focus_score(job) >= max(100, min_focus - 10)
     if role in {"产品/策略", "数据"}:
         return focus_score(job) >= min_focus
     if role == "算法":

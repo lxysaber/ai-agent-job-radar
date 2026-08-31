@@ -22,6 +22,7 @@
       "AI Agent",
       "Python",
       "后端",
+      "Java",
       "Redis",
       "MySQL",
       "Golang",
@@ -31,7 +32,7 @@
       "city_match",
       "缺截止"
     ],
-    "match_score": 135,
+    "match_score": 147,
     "source_confidence": 50,
     "risk_flags": [],
     "status": "new",
@@ -98,6 +99,7 @@
       "AI Agent",
       "Python",
       "后端",
+      "Java",
       "Redis",
       "MySQL",
       "Golang",
@@ -106,7 +108,7 @@
       "city_match",
       "缺截止"
     ],
-    "match_score": 119,
+    "match_score": 131,
     "source_confidence": 50,
     "risk_flags": [
       "repeat_posting"

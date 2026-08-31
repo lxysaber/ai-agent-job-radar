@@ -1,6 +1,6 @@
 # 深圳 AI Agent 求职雷达：运行手册
 
-本版本已固定画像为：`AI Agent开发`、`AI应用开发`、`AI Agent后端`；地点仅深圳、以社招经验 0–5 年为主；推送渠道为飞书。校招只有在正文明确接受约 1 年工作经验时才保留。
+本版本已固定画像为：`AI Agent开发`、`AI应用开发`、`AI Agent后端`，并扩展召回 `后端开发`、`Java后端`、`金融支付`、`移动支付`、`跨境支付`；地点仅深圳、以社招经验 0–5 年为主；推送渠道为飞书。AI Agent / AI 应用在推送中优先于 Java 后端/支付岗位。校招只有在正文明确接受约 1 年工作经验时才保留。
 
 筛选配置位于 `config/profiles.json` 的 `employment_filter`。默认保留“经验不限”及经验要求明确在 0–5 年内的社招；实习、普通校招、`5 年以上`、`5–10 年`和未标明经验的社招都会在入库前过滤。若你的求职阶段变化，只修改该字段，再运行 `python3 scripts/sync_plan.py rescore` 即可重新筛选已有岗位。
 
@@ -14,7 +14,7 @@ npm install -g "git+https://github.com/lx419394005-cloud/boss-scripts.git#main"
 python3 scripts/collect_boss_agent_jobs.py
 ```
 
-脚本按以下关键词、深圳城市运行：`AI Agent开发`、`AI应用开发`、`AI Agent后端`。它会将详情 JSON 增量导入 `data/jobs.json`，并生成 `reports/ai-agent-skills.md`。
+脚本默认按深圳城市运行以下关键词：`AI Agent开发`、`AI应用开发`、`AI Agent后端`、`后端开发`、`Java后端开发`、`金融支付`、`移动支付`、`跨境支付`。每个词默认抓 10 条详情，总量与旧版 3 个词各 30 条接近；可用重复的 `--query` 或 `--count` 自定义。它会将详情 JSON 增量导入 `data/jobs.json`，并生成 `reports/ai-agent-skills.md`。
 
 ## 2. 多源面经：收集公开帖子，再生成 Obsidian 笔记
 

@@ -1,6 +1,6 @@
 {
   "ai-agent-shenzhen": {
-    "profile_name": "深圳 · AI Agent / AI 应用开发（社招 0-5 年）",
+    "profile_name": "深圳 · AI Agent / Java 后端 / 支付开发（社招 0-5 年）",
     "target_roles": [
       "AI Agent开发工程师",
       "AI Agent后端开发工程师",
@@ -10,20 +10,29 @@
       "智能体开发工程师",
       "AI平台后端工程师",
       "AI算法应用工程师",
-      "Python后端开发工程师"
+      "Python后端开发工程师",
+      "后端开发工程师",
+      "Java后端开发工程师",
+      "Java开发工程师",
+      "支付后端开发工程师",
+      "金融科技后端开发工程师",
+      "跨境支付后端开发工程师",
+      "交易系统开发工程师"
     ],
     "must_keywords": [
       "AI Agent", "Agent开发", "智能体", "大模型应用", "LLM", "RAG",
       "检索增强", "向量数据库", "Embedding", "Prompt", "Function Calling",
       "MCP", "Tool Calling", "Python", "FastAPI", "LangChain", "LangGraph",
-      "LlamaIndex", "多智能体", "工作流", "后端"
+      "LlamaIndex", "多智能体", "工作流", "后端", "Java", "支付",
+      "金融科技", "移动支付", "跨境支付", "清结算", "交易系统"
     ],
     "nice_keywords": [
       "OpenAI API", "模型服务", "vLLM", "SGLang", "Docker", "Kubernetes",
       "Redis", "PostgreSQL", "MySQL", "Elasticsearch", "Milvus", "Qdrant",
       "Chroma", "GraphRAG", "知识图谱", "评测", "RAGAS", "可观测性",
       "Guardrails", "A/B测试", "微服务", "异步任务", "CI/CD", "云原生",
-      "TypeScript", "React", "Vue", "Golang", "Java"
+      "TypeScript", "React", "Vue", "Golang", "Spring Boot", "Spring Cloud",
+      "Dubbo", "MyBatis", "Kafka", "RocketMQ", "分布式", "高并发", "风控", "对账"
     ],
     "negative_keywords": ["销售", "外包", "劳务派遣", "电话客服", "纯运营", "培训贷"],
     "exclude_keywords": [
@@ -37,7 +46,7 @@
       "平面设计", "主播", "剪辑", "教师", "护士", "会计", "审计"
     ],
     "target_org_types": ["tech", "internet"],
-    "target_industries": ["互联网/软件", "通信", "半导体/电子", "汽车/新能源车"],
+    "target_industries": ["互联网/软件", "金融", "通信", "半导体/电子", "汽车/新能源车"],
     "negative_industries": [],
     "cities": ["深圳"],
     "strict_city": true,
