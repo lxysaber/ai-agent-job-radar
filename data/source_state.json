@@ -106,5 +106,23 @@
     "last_count": 20,
     "peak_count": 20,
     "alert": ""
+  },
+  "nk-intern": {
+    "consecutive_failures": 0,
+    "status": "active",
+    "last_success_at": "2026-09-02T06:27:57.766529+00:00",
+    "last_error": "",
+    "last_count": 20,
+    "peak_count": 20,
+    "alert": ""
+  },
+  "sxs-intern": {
+    "consecutive_failures": 0,
+    "status": "active",
+    "last_success_at": "2026-09-02T06:28:27.461890+00:00",
+    "last_error": "",
+    "last_count": 146,
+    "peak_count": 146,
+    "alert": ""
   }
 }
