@@ -1,6 +1,6 @@
-# Job Radar｜2026-09-07 新增机会
+# Job Radar｜2026-09-08 新增机会
 
-未推新增 7 条，其中 AI Agent/应用相关 0 条。
+未推新增 18 条，其中 AI Agent/应用相关 0 条。
 重点 AI Agent/应用岗位 0 条；非互联网 AI Agent/应用岗位 0 条；7天内截止 0 条。
 
 信息台：https://lxysaber.github.io/ai-agent-job-radar/
