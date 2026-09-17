@@ -140,8 +140,15 @@
       "company": "字节跳动",
       "title": "AI安全防护治理专家 - 安全与风控",
       "source_id": "cn-bytedance"
+    },
+    "9adfa5a4caa46804": {
+      "pushed_at": "2026-09-17T04:53:25.194727+00:00",
+      "first_seen": "2026-09-17T04:48:18.057512+00:00",
+      "company": "招商局海通贸易有限公司",
+      "title": "AI应用管理岗(J33757)",
+      "source_id": "cn-iguopin"
     }
   },
-  "last_marked_at": "2026-08-31T05:32:28.885115+00:00",
-  "last_marked_count": 3
+  "last_marked_at": "2026-09-17T04:53:25.194727+00:00",
+  "last_marked_count": 1
 }
