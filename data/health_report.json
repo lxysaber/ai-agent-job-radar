@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-20T07:05:17.615028+00:00",
-  "sources_total": 2,
+  "generated_at": "2026-09-21T04:50:28.263886+00:00",
+  "sources_total": 12,
   "sources_catalog_total": 45,
   "preserve_unselected": true,
-  "jobs_raw": 20,
-  "snapshot_after_dedup": 20,
-  "eligible_after_profile": 0,
-  "duplicates_removed": 0,
-  "excluded_by_profile": 20,
-  "store_total": 52,
-  "new_this_run": 0,
-  "gone_total": 0,
-  "archived_total": 0,
-  "active_total": 52,
+  "jobs_raw": 2401,
+  "snapshot_after_dedup": 2370,
+  "eligible_after_profile": 38,
+  "duplicates_removed": 31,
+  "excluded_by_profile": 2332,
+  "store_total": 41,
+  "new_this_run": 25,
+  "gone_total": 36,
+  "archived_total": 980,
+  "active_total": 41,
   "unhealthy": [
     {
       "source_id": "cn-alibaba",
@@ -49,34 +49,140 @@
     {
       "source_id": "sxs-intern",
       "alert": "抓取量跌为 0（历史峰值 154，疑似改版/失效）"
-    },
-    {
-      "source_id": "wd-nvidia",
-      "alert": "抓取量跌为 0（历史峰值 5，疑似改版/失效）"
     }
   ],
   "sources": [
     {
-      "source_id": "nk-intern",
-      "adapter": "nowcoder",
+      "source_id": "wd-nvidia",
+      "adapter": "workday",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-09-20T07:05:21.060288+00:00",
+      "last_success_at": "2026-09-21T04:50:31.489214+00:00",
+      "last_error": "",
+      "last_count": 2,
+      "peak_count": 5,
+      "alert": ""
+    },
+    {
+      "source_id": "cn-bytedance",
+      "adapter": "bytedance",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:52:10.074753+00:00",
+      "last_error": "",
+      "last_count": 717,
+      "peak_count": 724,
+      "alert": ""
+    },
+    {
+      "source_id": "cn-tencent",
+      "adapter": "tencent",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:52:37.940721+00:00",
+      "last_error": "",
+      "last_count": 369,
+      "peak_count": 378,
+      "alert": ""
+    },
+    {
+      "source_id": "cn-tencent-campus",
+      "adapter": "tencent_campus",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:52:46.782787+00:00",
+      "last_error": "",
+      "last_count": 800,
+      "peak_count": 800,
+      "alert": ""
+    },
+    {
+      "source_id": "cn-sensetime",
+      "adapter": "beisen",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:52:47.724801+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 0,
+      "alert": ""
+    },
+    {
+      "source_id": "edu-sysu",
+      "adapter": "uni_career",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:54:02.290741+00:00",
+      "last_error": "",
+      "last_count": 25,
+      "peak_count": 25,
+      "alert": ""
+    },
+    {
+      "source_id": "gov-ncss",
+      "adapter": "ncss",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:54:15.944603+00:00",
+      "last_error": "",
+      "last_count": 179,
+      "peak_count": 180,
+      "alert": ""
+    },
+    {
+      "source_id": "gov-sasac",
+      "adapter": "gov_notice",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:54:42.028271+00:00",
+      "last_error": "",
+      "last_count": 29,
+      "peak_count": 29,
+      "alert": ""
+    },
+    {
+      "source_id": "gov-qyzp",
+      "adapter": "gov_notice",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:55:09.406984+00:00",
       "last_error": "",
       "last_count": 20,
       "peak_count": 20,
       "alert": ""
     },
     {
-      "source_id": "sxs-intern",
-      "adapter": "shixiseng",
+      "source_id": "cn-iguopin",
+      "adapter": "iguopin",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-09-20T07:05:38.403299+00:00",
+      "last_success_at": "2026-09-21T04:55:43.950258+00:00",
+      "last_error": "",
+      "last_count": 240,
+      "peak_count": 240,
+      "alert": ""
+    },
+    {
+      "source_id": "nk-social",
+      "adapter": "nowcoder",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:55:47.691996+00:00",
+      "last_error": "",
+      "last_count": 20,
+      "peak_count": 20,
+      "alert": ""
+    },
+    {
+      "source_id": "cn-huawei-campus",
+      "adapter": "huawei",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-09-21T04:55:49.902961+00:00",
       "last_error": "",
       "last_count": 0,
-      "peak_count": 154,
-      "alert": "抓取量跌为 0（历史峰值 154，疑似改版/失效）"
+      "peak_count": 0,
+      "alert": ""
     },
     {
       "source_id": "ashby-posthog",
@@ -88,18 +194,6 @@
       "source_id": "gh-gitlab",
       "adapter": "greenhouse",
       "status": "active",
-      "not_run": true
-    },
-    {
-      "source_id": "wd-nvidia",
-      "adapter": "workday",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:50:37.575793+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 5,
-      "alert": "抓取量跌为 0（历史峰值 5，疑似改版/失效）",
       "not_run": true
     },
     {
@@ -151,42 +245,6 @@
       "not_run": true
     },
     {
-      "source_id": "cn-bytedance",
-      "adapter": "bytedance",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:52:03.092064+00:00",
-      "last_error": "",
-      "last_count": 719,
-      "peak_count": 724,
-      "alert": "",
-      "not_run": true
-    },
-    {
-      "source_id": "cn-tencent",
-      "adapter": "tencent",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:52:28.025806+00:00",
-      "last_error": "",
-      "last_count": 371,
-      "peak_count": 378,
-      "alert": "",
-      "not_run": true
-    },
-    {
-      "source_id": "cn-tencent-campus",
-      "adapter": "tencent_campus",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:52:38.296367+00:00",
-      "last_error": "",
-      "last_count": 800,
-      "peak_count": 800,
-      "alert": "",
-      "not_run": true
-    },
-    {
       "source_id": "cn-jd",
       "adapter": "jd",
       "status": "active",
@@ -202,18 +260,6 @@
       "source_id": "cn-nio",
       "adapter": "feishu",
       "status": "active",
-      "not_run": true
-    },
-    {
-      "source_id": "cn-sensetime",
-      "adapter": "beisen",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:52:39.278022+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 0,
-      "alert": "",
       "not_run": true
     },
     {
@@ -238,18 +284,6 @@
       "source_id": "cn-sgcc",
       "adapter": "public_notice",
       "status": "blocked",
-      "not_run": true
-    },
-    {
-      "source_id": "edu-sysu",
-      "adapter": "uni_career",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:53:51.285284+00:00",
-      "last_error": "",
-      "last_count": 25,
-      "peak_count": 25,
-      "alert": "",
       "not_run": true
     },
     {
@@ -307,41 +341,17 @@
       "not_run": true
     },
     {
-      "source_id": "gov-ncss",
-      "adapter": "ncss",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:54:05.882985+00:00",
-      "last_error": "",
-      "last_count": 180,
-      "peak_count": 180,
-      "alert": "",
-      "not_run": true
-    },
-    {
       "source_id": "gov-mohrss",
       "adapter": "mohrss",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "gov-sasac",
-      "adapter": "gov_notice",
+      "source_id": "nk-intern",
+      "adapter": "nowcoder",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-09-20T04:54:29.027376+00:00",
-      "last_error": "",
-      "last_count": 29,
-      "peak_count": 29,
-      "alert": "",
-      "not_run": true
-    },
-    {
-      "source_id": "gov-qyzp",
-      "adapter": "gov_notice",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:54:59.198073+00:00",
+      "last_success_at": "2026-09-20T07:05:21.060288+00:00",
       "last_error": "",
       "last_count": 20,
       "peak_count": 20,
@@ -349,27 +359,15 @@
       "not_run": true
     },
     {
-      "source_id": "cn-iguopin",
-      "adapter": "iguopin",
+      "source_id": "sxs-intern",
+      "adapter": "shixiseng",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-09-20T04:55:33.510915+00:00",
+      "last_success_at": "2026-09-20T07:05:38.403299+00:00",
       "last_error": "",
-      "last_count": 214,
-      "peak_count": 240,
-      "alert": "",
-      "not_run": true
-    },
-    {
-      "source_id": "nk-social",
-      "adapter": "nowcoder",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:55:37.182704+00:00",
-      "last_error": "",
-      "last_count": 19,
-      "peak_count": 20,
-      "alert": "",
+      "last_count": 0,
+      "peak_count": 154,
+      "alert": "抓取量跌为 0（历史峰值 154，疑似改版/失效）",
       "not_run": true
     },
     {
@@ -382,18 +380,6 @@
       "source_id": "cn-sinopec",
       "adapter": "public_notice",
       "status": "blocked",
-      "not_run": true
-    },
-    {
-      "source_id": "cn-huawei-campus",
-      "adapter": "huawei",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-09-20T04:55:39.377239+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 0,
-      "alert": "",
       "not_run": true
     },
     {
