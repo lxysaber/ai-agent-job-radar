@@ -1,5 +1,125 @@
 [
   {
+    "dedup_key": "6de5911e8e8cb8f6",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "产品经理",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/363056?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 47
+  },
+  {
+    "dedup_key": "f6dec96a6aa01f6d",
+    "source_id": "nk-social",
+    "company_name": "北京外企德科人力资源服务上海有限公司",
+    "title": "软件开发工程师",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/372984?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "7c40d2d9e4d9472f",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "前端工程师（线上面试）",
+    "location": "南京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310684?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "d65262be53f3a4eb",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "软件工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/395739?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-21T04:50:28.263886+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 52
+  },
+  {
+    "dedup_key": "fb287c840bc33bba",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（线上面试）",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310683?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "bcef24e1f3793f54",
+    "source_id": "nk-social",
+    "company_name": "链家地产",
+    "title": "上市公司直聘电商销售",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/173295?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "7ab374ce9b24e339",
+    "source_id": "nk-social",
+    "company_name": "沃孚信息科技（广州）有限公司",
+    "title": "Java服务端开发工程师",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/459677?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "e365fc4102f629d3",
+    "source_id": "nk-social",
+    "company_name": "沃孚信息科技（广州）有限公司",
+    "title": "搜广推算法工程师",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/459683?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "9d98246236653edd",
+    "source_id": "nk-social",
+    "company_name": "北京外企德科人力资源服务上海有限公司",
+    "title": "软件开发工程师",
+    "location": "东莞",
+    "official_url": "https://www.nowcoder.com/jobs/detail/372986?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-23T04:41:03.395964+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "b310893379a04c0a",
+    "source_id": "cn-iguopin",
+    "company_name": "海南城市职业技术学校",
+    "title": "人工智能教师",
+    "location": "海口-美兰区",
+    "official_url": "https://www.iguopin.com/job/detail?id=216459165466361863",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-09-24T04:43:51.075596+00:00",
+    "archived_at": "2026-09-25T04:52:46.303314+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "72dfb066f0829532",
     "source_id": "nk-social",
     "company_name": "北京外企德科人力资源服务上海有限公司",
@@ -538,18 +658,6 @@
     "last_seen": "2026-09-22T04:49:35.401647+00:00",
     "archived_at": "2026-09-23T04:41:03.395964+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "6de5911e8e8cb8f6",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "产品经理",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/363056?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-21T04:50:28.263886+00:00",
-    "last_seen": "2026-09-22T04:49:35.401647+00:00",
-    "archived_at": "2026-09-23T04:41:03.395964+00:00",
-    "match_score": 47
   },
   {
     "dedup_key": "0155af7fe36328c4",
@@ -1788,18 +1896,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "f6dec96a6aa01f6d",
-    "source_id": "nk-social",
-    "company_name": "北京外企德科人力资源服务上海有限公司",
-    "title": "软件开发工程师",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/372984?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-18T04:38:16.278547+00:00",
-    "last_seen": "2026-09-18T04:38:16.278547+00:00",
-    "archived_at": "2026-09-19T04:33:32.054232+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "3cd38eb8a77d46f5",
     "source_id": "cn-iguopin",
     "company_name": "中交雄安融资租赁有限公司",
@@ -2580,18 +2676,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "7c40d2d9e4d9472f",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "前端工程师（线上面试）",
-    "location": "南京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310684?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-17T04:48:18.057512+00:00",
-    "last_seen": "2026-09-17T04:48:18.057512+00:00",
-    "archived_at": "2026-09-18T04:38:16.278547+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "b6d79e1e2c8637a7",
     "source_id": "nk-social",
     "company_name": "科锐国际",
@@ -2650,18 +2734,6 @@
     "last_seen": "2026-09-17T04:48:18.057512+00:00",
     "archived_at": "2026-09-18T04:38:16.278547+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "d65262be53f3a4eb",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "软件工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/395739?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-14T04:50:32.338359+00:00",
-    "last_seen": "2026-09-16T04:45:19.498304+00:00",
-    "archived_at": "2026-09-17T04:48:18.057512+00:00",
-    "match_score": 52
   },
   {
     "dedup_key": "aa94de75ff7928e2",
@@ -4272,18 +4344,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "fb287c840bc33bba",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（线上面试）",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310683?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-13T04:41:46.124812+00:00",
-    "last_seen": "2026-09-13T04:41:46.124812+00:00",
-    "archived_at": "2026-09-14T04:50:32.338359+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "2f5b07e33366efa3",
     "source_id": "cn-iguopin",
     "company_name": "智能汽车制造产业链专项引才计划",
@@ -4518,18 +4578,6 @@
     "title": "Java开发工程师（线上面试）",
     "location": "杭州",
     "official_url": "https://www.nowcoder.com/jobs/detail/310679?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-13T04:41:46.124812+00:00",
-    "last_seen": "2026-09-13T04:41:46.124812+00:00",
-    "archived_at": "2026-09-14T04:50:32.338359+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "bcef24e1f3793f54",
-    "source_id": "nk-social",
-    "company_name": "链家地产",
-    "title": "上市公司直聘电商销售",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/173295?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-09-13T04:41:46.124812+00:00",
     "last_seen": "2026-09-13T04:41:46.124812+00:00",
     "archived_at": "2026-09-14T04:50:32.338359+00:00",
@@ -5304,18 +5352,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "7ab374ce9b24e339",
-    "source_id": "nk-social",
-    "company_name": "沃孚信息科技（广州）有限公司",
-    "title": "Java服务端开发工程师",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/459677?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-11T04:34:50.996476+00:00",
-    "last_seen": "2026-09-11T04:34:50.996476+00:00",
-    "archived_at": "2026-09-12T04:30:00.219652+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "46b05bb96c5d0fec",
     "source_id": "nk-social",
     "company_name": "图知天下",
@@ -5346,18 +5382,6 @@
     "title": "企业家学习顾问（TOB／高端人脉）",
     "location": "上海",
     "official_url": "https://www.nowcoder.com/jobs/detail/399814?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-11T04:34:50.996476+00:00",
-    "last_seen": "2026-09-11T04:34:50.996476+00:00",
-    "archived_at": "2026-09-12T04:30:00.219652+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "e365fc4102f629d3",
-    "source_id": "nk-social",
-    "company_name": "沃孚信息科技（广州）有限公司",
-    "title": "搜广推算法工程师",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/459683?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-09-11T04:34:50.996476+00:00",
     "last_seen": "2026-09-11T04:34:50.996476+00:00",
     "archived_at": "2026-09-12T04:30:00.219652+00:00",
@@ -6943,18 +6967,6 @@
     "location": "上海-浦东新区",
     "official_url": "https://www.iguopin.com/job/detail?id=216318704130982252",
     "first_seen": "2026-09-02T04:27:52.579808+00:00",
-    "last_seen": "2026-09-03T04:19:03.509466+00:00",
-    "archived_at": "2026-09-04T04:26:52.828740+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "9d98246236653edd",
-    "source_id": "nk-social",
-    "company_name": "北京外企德科人力资源服务上海有限公司",
-    "title": "软件开发工程师",
-    "location": "东莞",
-    "official_url": "https://www.nowcoder.com/jobs/detail/372986?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-03T04:19:03.509466+00:00",
     "last_seen": "2026-09-03T04:19:03.509466+00:00",
     "archived_at": "2026-09-04T04:26:52.828740+00:00",
     "match_score": 0
