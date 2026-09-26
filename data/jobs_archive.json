@@ -1,5 +1,41 @@
 [
   {
+    "dedup_key": "c992dc995ca2825e",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家房产交易有限公司",
+    "title": "地产服务员（底薪+奖金+绩效，包吃住，有社保）",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/393071?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-25T04:52:46.303314+00:00",
+    "last_seen": "2026-09-25T04:52:46.303314+00:00",
+    "archived_at": "2026-09-26T04:52:37.842416+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "40d0a2e8b8993167",
+    "source_id": "nk-social",
+    "company_name": "阿宇锦",
+    "title": "百度答题专员（可居家）",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/367027?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-25T04:52:46.303314+00:00",
+    "last_seen": "2026-09-25T04:52:46.303314+00:00",
+    "archived_at": "2026-09-26T04:52:37.842416+00:00",
+    "match_score": 30
+  },
+  {
+    "dedup_key": "0d7137f2573fe570",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家房产交易有限公司",
+    "title": "创业型门店店长",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/388251?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-25T04:52:46.303314+00:00",
+    "last_seen": "2026-09-25T04:52:46.303314+00:00",
+    "archived_at": "2026-09-26T04:52:37.842416+00:00",
+    "match_score": 18
+  },
+  {
     "dedup_key": "6de5911e8e8cb8f6",
     "source_id": "nk-social",
     "company_name": "元戎启行",
@@ -1639,18 +1675,6 @@
     "location": "上海",
     "official_url": "https://www.nowcoder.com/jobs/detail/406081?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-09-20T04:50:34.419012+00:00",
-    "last_seen": "2026-09-20T04:50:34.419012+00:00",
-    "archived_at": "2026-09-21T04:50:28.263886+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "c992dc995ca2825e",
-    "source_id": "nk-social",
-    "company_name": "深圳市乐有家房产交易有限公司",
-    "title": "地产服务员（底薪+奖金+绩效，包吃住，有社保）",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/393071?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-19T04:33:32.054232+00:00",
     "last_seen": "2026-09-20T04:50:34.419012+00:00",
     "archived_at": "2026-09-21T04:50:28.263886+00:00",
     "match_score": 0
