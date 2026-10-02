@@ -1,5 +1,77 @@
 [
   {
+    "dedup_key": "b310893379a04c0a",
+    "source_id": "cn-iguopin",
+    "company_name": "海南城市职业技术学校",
+    "title": "人工智能教师",
+    "location": "海口-美兰区",
+    "official_url": "https://www.iguopin.com/job/detail?id=216459165466361863",
+    "first_seen": "2026-10-01T05:46:23.584198+00:00",
+    "last_seen": "2026-10-01T05:46:23.584198+00:00",
+    "archived_at": "2026-10-02T05:30:51.870037+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "2f5b07e33366efa3",
+    "source_id": "cn-iguopin",
+    "company_name": "智能汽车制造产业链专项引才计划",
+    "title": "策略产品经理",
+    "location": "北京-东城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=217912322167932455",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-10-01T05:46:23.584198+00:00",
+    "archived_at": "2026-10-02T05:30:51.870037+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "57f8d7e74b72cf6d",
+    "source_id": "nk-social",
+    "company_name": "招商银行·招银网络科技",
+    "title": "产品经理",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/99949?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-01T05:46:23.584198+00:00",
+    "last_seen": "2026-10-01T05:46:23.584198+00:00",
+    "archived_at": "2026-10-02T05:30:51.870037+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "6796f05582073a73",
+    "source_id": "cn-iguopin",
+    "company_name": "北京医疗健康大模型有限公司",
+    "title": "前端开发工程师（匿名化工具项目）",
+    "location": "北京-西城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215954103686135997",
+    "first_seen": "2026-10-01T05:46:23.584198+00:00",
+    "last_seen": "2026-10-01T05:46:23.584198+00:00",
+    "archived_at": "2026-10-02T05:30:51.870037+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "e84168fb46dd9311",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家控股集团有限公司",
+    "title": "置业顾问/底薪7-9k+高提 成/可线上面试",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/461312?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-01T05:46:23.584198+00:00",
+    "last_seen": "2026-10-01T05:46:23.584198+00:00",
+    "archived_at": "2026-10-02T05:30:51.870037+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "1e9aa710bf163881",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
+    "title": "房产销售+底薪9000+分成+月休6天+福利",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/339246?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-01T05:46:23.584198+00:00",
+    "last_seen": "2026-10-01T05:46:23.584198+00:00",
+    "archived_at": "2026-10-02T05:30:51.870037+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "8091a21fcf7fb750",
     "source_id": "cn-iguopin",
     "company_name": "北京计算机技术及应用研究所",
@@ -426,18 +498,6 @@
     "title": "上市公司直聘电商销售",
     "location": "北京",
     "official_url": "https://www.nowcoder.com/jobs/detail/173295?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-26T04:52:37.842416+00:00",
-    "last_seen": "2026-09-26T04:52:37.842416+00:00",
-    "archived_at": "2026-09-27T05:14:11.000089+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "b310893379a04c0a",
-    "source_id": "cn-iguopin",
-    "company_name": "海南城市职业技术学校",
-    "title": "人工智能教师",
-    "location": "海口-美兰区",
-    "official_url": "https://www.iguopin.com/job/detail?id=216459165466361863",
     "first_seen": "2026-09-26T04:52:37.842416+00:00",
     "last_seen": "2026-09-26T04:52:37.842416+00:00",
     "archived_at": "2026-09-27T05:14:11.000089+00:00",
@@ -4692,18 +4752,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "2f5b07e33366efa3",
-    "source_id": "cn-iguopin",
-    "company_name": "智能汽车制造产业链专项引才计划",
-    "title": "策略产品经理",
-    "location": "北京-东城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=217912322167932455",
-    "first_seen": "2026-09-13T04:41:46.124812+00:00",
-    "last_seen": "2026-09-13T04:41:46.124812+00:00",
-    "archived_at": "2026-09-14T04:50:32.338359+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "b426c1b5992e1270",
     "source_id": "cn-iguopin",
     "company_name": "智能汽车制造产业链专项引才计划",
@@ -5310,18 +5358,6 @@
     "title": "3D建模师（次世代硬表面）",
     "location": "杭州",
     "official_url": "https://www.nowcoder.com/jobs/detail/467208?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-12T04:30:00.219652+00:00",
-    "last_seen": "2026-09-12T04:30:00.219652+00:00",
-    "archived_at": "2026-09-13T04:41:46.124812+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "57f8d7e74b72cf6d",
-    "source_id": "nk-social",
-    "company_name": "招商银行·招银网络科技",
-    "title": "产品经理",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/99949?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-09-12T04:30:00.219652+00:00",
     "last_seen": "2026-09-12T04:30:00.219652+00:00",
     "archived_at": "2026-09-13T04:41:46.124812+00:00",
@@ -7615,18 +7651,6 @@
     "location": "广州 / 深圳",
     "official_url": "https://www.iguopin.com/job/detail?id=216174514646548728",
     "first_seen": "2026-09-01T05:02:48.267310+00:00",
-    "last_seen": "2026-09-02T04:27:52.579808+00:00",
-    "archived_at": "2026-09-03T04:19:03.509466+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "6796f05582073a73",
-    "source_id": "cn-iguopin",
-    "company_name": "北京医疗健康大模型有限公司",
-    "title": "前端开发工程师（匿名化工具项目）",
-    "location": "北京-西城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215954103686135997",
-    "first_seen": "2026-08-30T04:40:28.075358+00:00",
     "last_seen": "2026-09-02T04:27:52.579808+00:00",
     "archived_at": "2026-09-03T04:19:03.509466+00:00",
     "match_score": 0
