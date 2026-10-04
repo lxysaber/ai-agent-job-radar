@@ -1,5 +1,65 @@
 [
   {
+    "dedup_key": "8ef660b8c0b27f4b",
+    "source_id": "cn-iguopin",
+    "company_name": "蚂蚁科技集团股份有限公司",
+    "title": "蚂蚁集团-算法工程师-应用算法",
+    "location": "杭州-拱墅区",
+    "official_url": "https://www.iguopin.com/job/detail?id=194290897054076059",
+    "first_seen": "2026-10-02T05:30:51.870037+00:00",
+    "last_seen": "2026-10-03T05:13:15.698593+00:00",
+    "archived_at": "2026-10-04T05:47:03.022611+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "8ec0ab5d8b33d78b",
+    "source_id": "cn-iguopin",
+    "company_name": "北京医疗健康大模型有限公司",
+    "title": "技术架构师（数据流通交易方向）",
+    "location": "北京-西城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215954103669424317",
+    "first_seen": "2026-10-03T05:13:15.698593+00:00",
+    "last_seen": "2026-10-03T05:13:15.698593+00:00",
+    "archived_at": "2026-10-04T05:47:03.022611+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "f86df4314d8f5178",
+    "source_id": "cn-iguopin",
+    "company_name": "国药集团新疆新特药业有限公司",
+    "title": "AI应用开发工程师",
+    "location": "乌鲁木齐",
+    "official_url": "https://www.iguopin.com/job/detail?id=218251716187915818",
+    "first_seen": "2026-10-03T05:13:15.698593+00:00",
+    "last_seen": "2026-10-03T05:13:15.698593+00:00",
+    "archived_at": "2026-10-04T05:47:03.022611+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "7760dd93bf8a31d5",
+    "source_id": "cn-iguopin",
+    "company_name": "北京医疗健康大模型有限公司",
+    "title": "前端开发工程师（数据标注平台项目）",
+    "location": "北京-西城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215954103669555389",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-10-03T05:13:15.698593+00:00",
+    "archived_at": "2026-10-04T05:47:03.022611+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "8cc02387cf5d774b",
+    "source_id": "cn-iguopin",
+    "company_name": "智能汽车制造产业链专项引才计划",
+    "title": "AI研发工程师",
+    "location": "北京-东城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=217909181691201063",
+    "first_seen": "2026-10-02T05:30:51.870037+00:00",
+    "last_seen": "2026-10-03T05:13:15.698593+00:00",
+    "archived_at": "2026-10-04T05:47:03.022611+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "22c76d34fbfb215c",
     "source_id": "nk-social",
     "company_name": "招商银行·招银网络科技",
@@ -144,18 +204,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "8ef660b8c0b27f4b",
-    "source_id": "cn-iguopin",
-    "company_name": "蚂蚁科技集团股份有限公司",
-    "title": "蚂蚁集团-算法工程师-应用算法",
-    "location": "杭州-拱墅区",
-    "official_url": "https://www.iguopin.com/job/detail?id=194290897054076059",
-    "first_seen": "2026-09-30T05:27:46.980162+00:00",
-    "last_seen": "2026-09-30T05:27:46.980162+00:00",
-    "archived_at": "2026-10-01T05:46:23.584198+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "f7a139decb1e6397",
     "source_id": "nk-social",
     "company_name": "西安几何数字信息技术有限公司",
@@ -198,18 +246,6 @@
     "title": "算法工程师工程师",
     "location": "成都",
     "official_url": "https://www.nowcoder.com/jobs/detail/300772?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-30T05:27:46.980162+00:00",
-    "last_seen": "2026-09-30T05:27:46.980162+00:00",
-    "archived_at": "2026-10-01T05:46:23.584198+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "8ec0ab5d8b33d78b",
-    "source_id": "cn-iguopin",
-    "company_name": "北京医疗健康大模型有限公司",
-    "title": "技术架构师（数据流通交易方向）",
-    "location": "北京-西城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215954103669424317",
     "first_seen": "2026-09-30T05:27:46.980162+00:00",
     "last_seen": "2026-09-30T05:27:46.980162+00:00",
     "archived_at": "2026-10-01T05:46:23.584198+00:00",
@@ -2071,18 +2107,6 @@
     "location": "北京-西城区",
     "official_url": "https://www.iguopin.com/job/detail?id=218803991855759642",
     "first_seen": "2026-09-19T04:33:32.054232+00:00",
-    "last_seen": "2026-09-20T04:50:34.419012+00:00",
-    "archived_at": "2026-09-21T04:50:28.263886+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "f86df4314d8f5178",
-    "source_id": "cn-iguopin",
-    "company_name": "国药集团新疆新特药业有限公司",
-    "title": "AI应用开发工程师",
-    "location": "乌鲁木齐",
-    "official_url": "https://www.iguopin.com/job/detail?id=218251716187915818",
-    "first_seen": "2026-09-18T04:38:16.278547+00:00",
     "last_seen": "2026-09-20T04:50:34.419012+00:00",
     "archived_at": "2026-09-21T04:50:28.263886+00:00",
     "match_score": 0
@@ -8311,18 +8335,6 @@
     "location": "成都-双流区",
     "official_url": "https://www.iguopin.com/job/detail?id=216137710518141124",
     "first_seen": "2026-08-31T05:28:58.185320+00:00",
-    "last_seen": "2026-08-31T05:28:58.185320+00:00",
-    "archived_at": "2026-09-01T05:02:48.267310+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "7760dd93bf8a31d5",
-    "source_id": "cn-iguopin",
-    "company_name": "北京医疗健康大模型有限公司",
-    "title": "前端开发工程师（数据标注平台项目）",
-    "location": "北京-西城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215954103669555389",
-    "first_seen": "2026-08-30T04:40:28.075358+00:00",
     "last_seen": "2026-08-31T05:28:58.185320+00:00",
     "archived_at": "2026-09-01T05:02:48.267310+00:00",
     "match_score": 0
