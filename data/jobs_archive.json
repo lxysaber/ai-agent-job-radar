@@ -1,5 +1,125 @@
 [
   {
+    "dedup_key": "2aae6f91ffb0ab3e",
+    "source_id": "nk-social",
+    "company_name": "dépow",
+    "title": "后端/IoT工程师（充电桩App）",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/449879?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-08T05:56:58.629133+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 94
+  },
+  {
+    "dedup_key": "8c0d07151ca00cfb",
+    "source_id": "nk-social",
+    "company_name": "dépow",
+    "title": "亚马逊运营（研产销一体/新能源充电桩）",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/449926?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-08T05:56:58.629133+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 58
+  },
+  {
+    "dedup_key": "a381a07f902bdb40",
+    "source_id": "cn-iguopin",
+    "company_name": "智能汽车制造产业链专项引才计划",
+    "title": "AI大模型专家",
+    "location": "北京-东城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=217911720503412263",
+    "first_seen": "2026-10-04T05:47:03.022611+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "d50fcd927e20badd",
+    "source_id": "nk-social",
+    "company_name": "华为软件技术有限公司",
+    "title": "软件测试工程师",
+    "location": "南京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/424826?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-08T05:56:58.629133+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "6b6af33b46c2caba",
+    "source_id": "cn-iguopin",
+    "company_name": "上海上班族数字科技有限公司",
+    "title": "AI开发工程师",
+    "location": "上海-静安区",
+    "official_url": "https://www.iguopin.com/job/detail?id=194290906818415771",
+    "first_seen": "2026-09-30T05:27:46.980162+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "2d33fe58b6c5a6c2",
+    "source_id": "cn-iguopin",
+    "company_name": "国家电投集团数字科技有限公司",
+    "title": "人工智能产品工程师（研发中心-直管）",
+    "location": "北京-昌平区",
+    "official_url": "https://www.iguopin.com/job/detail?id=219187589427495531",
+    "first_seen": "2026-09-30T05:27:46.980162+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "d246a15a42d08bc4",
+    "source_id": "nk-social",
+    "company_name": "北京小港科技",
+    "title": "初级产品经理",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/302292?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-09-17T04:48:18.057512+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "c1723483a96b28b8",
+    "source_id": "nk-social",
+    "company_name": "华为软件技术有限公司",
+    "title": "软件测试工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/424824?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-08T05:56:58.629133+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 90
+  },
+  {
+    "dedup_key": "5f3d9a238833c2ba",
+    "source_id": "cn-iguopin",
+    "company_name": "智能汽车制造产业链专项引才计划",
+    "title": "AI大模型算法",
+    "location": "北京-东城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=217909790687364647",
+    "first_seen": "2026-09-24T04:43:51.075596+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "2e2a199efef2bca3",
+    "source_id": "nk-social",
+    "company_name": "万宝盛华",
+    "title": "python开发",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/439727?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-08T05:56:58.629133+00:00",
+    "last_seen": "2026-10-08T05:56:58.629133+00:00",
+    "archived_at": "2026-10-09T06:03:07.429728+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "b3b8cc84dcc02888",
     "source_id": "nk-social",
     "company_name": "招商银行·招银网络科技",
@@ -82,30 +202,6 @@
     "last_seen": "2026-10-06T06:15:08.550795+00:00",
     "archived_at": "2026-10-07T05:53:02.947025+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "2aae6f91ffb0ab3e",
-    "source_id": "nk-social",
-    "company_name": "dépow",
-    "title": "后端/IoT工程师（充电桩App）",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/449879?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-06T06:15:08.550795+00:00",
-    "last_seen": "2026-10-06T06:15:08.550795+00:00",
-    "archived_at": "2026-10-07T05:53:02.947025+00:00",
-    "match_score": 94
-  },
-  {
-    "dedup_key": "8c0d07151ca00cfb",
-    "source_id": "nk-social",
-    "company_name": "dépow",
-    "title": "亚马逊运营（研产销一体/新能源充电桩）",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/449926?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-06T06:15:08.550795+00:00",
-    "last_seen": "2026-10-06T06:15:08.550795+00:00",
-    "archived_at": "2026-10-07T05:53:02.947025+00:00",
-    "match_score": 58
   },
   {
     "dedup_key": "035460d7b985a729",
@@ -420,18 +516,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "a381a07f902bdb40",
-    "source_id": "cn-iguopin",
-    "company_name": "智能汽车制造产业链专项引才计划",
-    "title": "AI大模型专家",
-    "location": "北京-东城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=217911720503412263",
-    "first_seen": "2026-09-24T04:43:51.075596+00:00",
-    "last_seen": "2026-10-02T05:30:51.870037+00:00",
-    "archived_at": "2026-10-03T05:13:15.698593+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "b310893379a04c0a",
     "source_id": "cn-iguopin",
     "company_name": "海南城市职业技术学校",
@@ -564,18 +648,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "d50fcd927e20badd",
-    "source_id": "nk-social",
-    "company_name": "华为软件技术有限公司",
-    "title": "软件测试工程师",
-    "location": "南京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/424826?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-28T05:17:55.357718+00:00",
-    "last_seen": "2026-09-29T05:39:31.448560+00:00",
-    "archived_at": "2026-09-30T05:27:46.980162+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "c9d5a3c22fc00be6",
     "source_id": "cn-iguopin",
     "company_name": "珠海金山办公软件有限公司",
@@ -690,18 +762,6 @@
     "title": "医疗大模型数据工程师",
     "location": "北京-西城区",
     "official_url": "https://www.iguopin.com/job/detail?id=215954103719821501",
-    "first_seen": "2026-09-24T04:43:51.075596+00:00",
-    "last_seen": "2026-09-28T05:17:55.357718+00:00",
-    "archived_at": "2026-09-29T05:39:31.448560+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "6b6af33b46c2caba",
-    "source_id": "cn-iguopin",
-    "company_name": "上海上班族数字科技有限公司",
-    "title": "AI开发工程师",
-    "location": "上海-静安区",
-    "official_url": "https://www.iguopin.com/job/detail?id=194290906818415771",
     "first_seen": "2026-09-24T04:43:51.075596+00:00",
     "last_seen": "2026-09-28T05:17:55.357718+00:00",
     "archived_at": "2026-09-29T05:39:31.448560+00:00",
@@ -1122,18 +1182,6 @@
     "title": "出版部记者",
     "location": "北京-朝阳区",
     "official_url": "https://www.iguopin.com/job/detail?id=219217968838476403",
-    "first_seen": "2026-09-22T04:49:35.401647+00:00",
-    "last_seen": "2026-09-23T04:41:03.395964+00:00",
-    "archived_at": "2026-09-24T04:43:51.075596+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "2d33fe58b6c5a6c2",
-    "source_id": "cn-iguopin",
-    "company_name": "国家电投集团数字科技有限公司",
-    "title": "人工智能产品工程师（研发中心-直管）",
-    "location": "北京-昌平区",
-    "official_url": "https://www.iguopin.com/job/detail?id=219187589427495531",
     "first_seen": "2026-09-22T04:49:35.401647+00:00",
     "last_seen": "2026-09-23T04:41:03.395964+00:00",
     "archived_at": "2026-09-24T04:43:51.075596+00:00",
@@ -3621,18 +3669,6 @@
     "first_seen": "2026-09-16T04:45:19.498304+00:00",
     "last_seen": "2026-09-16T04:45:19.498304+00:00",
     "archived_at": "2026-09-17T04:48:18.057512+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "d246a15a42d08bc4",
-    "source_id": "nk-social",
-    "company_name": "北京小港科技",
-    "title": "初级产品经理",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/302292?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-12T04:30:00.219652+00:00",
-    "last_seen": "2026-09-15T04:50:06.777401+00:00",
-    "archived_at": "2026-09-16T04:45:19.498304+00:00",
     "match_score": 0
   },
   {
@@ -6670,18 +6706,6 @@
     "last_seen": "2026-09-07T04:33:57.864836+00:00",
     "archived_at": "2026-09-08T04:30:14.639110+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "c1723483a96b28b8",
-    "source_id": "nk-social",
-    "company_name": "华为软件技术有限公司",
-    "title": "软件测试工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/424824?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-07T04:33:57.864836+00:00",
-    "last_seen": "2026-09-07T04:33:57.864836+00:00",
-    "archived_at": "2026-09-08T04:30:14.639110+00:00",
-    "match_score": 90
   },
   {
     "dedup_key": "0d9f5e93087dc0c4",
