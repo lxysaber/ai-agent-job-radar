@@ -1,5 +1,101 @@
 [
   {
+    "dedup_key": "8ec0ab5d8b33d78b",
+    "source_id": "cn-iguopin",
+    "company_name": "北京医疗健康大模型有限公司",
+    "title": "技术架构师（数据流通交易方向）",
+    "location": "北京-西城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215954103669424317",
+    "first_seen": "2026-10-11T05:40:44.840885+00:00",
+    "last_seen": "2026-10-11T05:40:44.840885+00:00",
+    "archived_at": "2026-10-12T05:50:43.035544+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "b3b8cc84dcc02888",
+    "source_id": "nk-social",
+    "company_name": "招商银行·招银网络科技",
+    "title": "前端软件开发工程师",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/99947?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-11T05:40:44.840885+00:00",
+    "last_seen": "2026-10-11T05:40:44.840885+00:00",
+    "archived_at": "2026-10-12T05:50:43.035544+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "22c76d34fbfb215c",
+    "source_id": "nk-social",
+    "company_name": "招商银行·招银网络科技",
+    "title": "Java软件开发工程师",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/84031?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-11T05:40:44.840885+00:00",
+    "last_seen": "2026-10-11T05:40:44.840885+00:00",
+    "archived_at": "2026-10-12T05:50:43.035544+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "8d9d8823c5ecb129",
+    "source_id": "nk-social",
+    "company_name": "TT语音",
+    "title": "Agent 应用开发工程师（AI 社交方向）",
+    "location": "广州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/466818?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-11T05:40:44.840885+00:00",
+    "last_seen": "2026-10-11T05:40:44.840885+00:00",
+    "archived_at": "2026-10-12T05:50:43.035544+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "f9320ce57b818c57",
+    "source_id": "nk-social",
+    "company_name": "杭州汐望信息咨询有限公司",
+    "title": "自然流新媒体文案",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/470311?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-11T05:40:44.840885+00:00",
+    "last_seen": "2026-10-11T05:40:44.840885+00:00",
+    "archived_at": "2026-10-12T05:50:43.035544+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "0b48bded645bf9b4",
+    "source_id": "nk-social",
+    "company_name": "TT语音",
+    "title": "流量策略产品（TT语音）",
+    "location": "广州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/467033?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-11T05:40:44.840885+00:00",
+    "last_seen": "2026-10-11T05:40:44.840885+00:00",
+    "archived_at": "2026-10-12T05:50:43.035544+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "3b566d0693513a20",
+    "source_id": "nk-social",
+    "company_name": "阿里巴巴控股集团",
+    "title": "阿里巴巴-百炼-AI infra-Post Training-算法/研发工程师 P6/7",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/457727?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-11T05:40:44.840885+00:00",
+    "last_seen": "2026-10-11T05:40:44.840885+00:00",
+    "archived_at": "2026-10-12T05:50:43.035544+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "a6fbdeb97fda435e",
+    "source_id": "nk-social",
+    "company_name": "杭州汐望信息咨询有限公司",
+    "title": "短视频编导",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/470309?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-11T05:40:44.840885+00:00",
+    "last_seen": "2026-10-11T05:40:44.840885+00:00",
+    "archived_at": "2026-10-12T05:50:43.035544+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "2aae6f91ffb0ab3e",
     "source_id": "nk-social",
     "company_name": "dépow",
@@ -130,18 +226,6 @@
     "last_seen": "2026-10-09T06:03:07.429728+00:00",
     "archived_at": "2026-10-10T05:46:08.121101+00:00",
     "match_score": 30
-  },
-  {
-    "dedup_key": "8ec0ab5d8b33d78b",
-    "source_id": "cn-iguopin",
-    "company_name": "北京医疗健康大模型有限公司",
-    "title": "技术架构师（数据流通交易方向）",
-    "location": "北京-西城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215954103669424317",
-    "first_seen": "2026-10-08T05:56:58.629133+00:00",
-    "last_seen": "2026-10-09T06:03:07.429728+00:00",
-    "archived_at": "2026-10-10T05:46:08.121101+00:00",
-    "match_score": 0
   },
   {
     "dedup_key": "7760dd93bf8a31d5",
@@ -360,18 +444,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "b3b8cc84dcc02888",
-    "source_id": "nk-social",
-    "company_name": "招商银行·招银网络科技",
-    "title": "前端软件开发工程师",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/99947?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-07T05:53:02.947025+00:00",
-    "last_seen": "2026-10-07T05:53:02.947025+00:00",
-    "archived_at": "2026-10-08T05:56:58.629133+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "fb287c840bc33bba",
     "source_id": "nk-social",
     "company_name": "上海科之锐人才咨询有限公司",
@@ -405,18 +477,6 @@
     "first_seen": "2026-10-07T05:53:02.947025+00:00",
     "last_seen": "2026-10-07T05:53:02.947025+00:00",
     "archived_at": "2026-10-08T05:56:58.629133+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "22c76d34fbfb215c",
-    "source_id": "nk-social",
-    "company_name": "招商银行·招银网络科技",
-    "title": "Java软件开发工程师",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/84031?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-06T06:15:08.550795+00:00",
-    "last_seen": "2026-10-06T06:15:08.550795+00:00",
-    "archived_at": "2026-10-07T05:53:02.947025+00:00",
     "match_score": 0
   },
   {
