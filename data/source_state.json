@@ -110,18 +110,18 @@
   "nk-intern": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-11T07:52:12.642265+00:00",
+    "last_success_at": "2026-10-14T06:44:42.250218+00:00",
     "last_error": "",
-    "last_count": 20,
+    "last_count": 19,
     "peak_count": 20,
     "alert": ""
   },
   "sxs-intern": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-11T07:52:39.905522+00:00",
+    "last_success_at": "2026-10-14T06:45:06.292696+00:00",
     "last_error": "",
-    "last_count": 148,
+    "last_count": 144,
     "peak_count": 155,
     "alert": ""
   }
