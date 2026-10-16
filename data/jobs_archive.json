@@ -1,5 +1,101 @@
 [
   {
+    "dedup_key": "a72103c925427fb7",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
+    "title": "房产置业顾问+无责底薪+月休6天+高分成",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/339205?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-15T04:31:48.713414+00:00",
+    "archived_at": "2026-10-16T04:25:32.271108+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "1e9aa710bf163881",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
+    "title": "房产销售+底薪9000+分成+月休6天+福利",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/339246?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-15T04:31:48.713414+00:00",
+    "archived_at": "2026-10-16T04:25:32.271108+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "84f4c68639f97fe7",
+    "source_id": "nk-social",
+    "company_name": "衡阳镭目科技",
+    "title": "电气工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/261343?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-15T04:31:48.713414+00:00",
+    "archived_at": "2026-10-16T04:25:32.271108+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "0f84b031d02fd742",
+    "source_id": "nk-social",
+    "company_name": "深圳乐有家龙吟二路分公司",
+    "title": "深圳新媒体助理9k（含销售性质）",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/429565?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-14T04:47:45.585743+00:00",
+    "last_seen": "2026-10-15T04:31:48.713414+00:00",
+    "archived_at": "2026-10-16T04:25:32.271108+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "aa94de75ff7928e2",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师",
+    "location": "西安",
+    "official_url": "https://www.nowcoder.com/jobs/detail/306884?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-15T04:31:48.713414+00:00",
+    "archived_at": "2026-10-16T04:25:32.271108+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "43edf0620196b605",
+    "source_id": "nk-social",
+    "company_name": "衡阳镭目科技",
+    "title": "高级电子工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/272098?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-15T04:31:48.713414+00:00",
+    "archived_at": "2026-10-16T04:25:32.271108+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "0f772f7f5db23c4c",
+    "source_id": "cn-iguopin",
+    "company_name": "河南省保时安科技股份有限公司",
+    "title": "亚马逊精品运营",
+    "location": "深圳-龙华区",
+    "official_url": "https://www.iguopin.com/job/detail?id=209796425481980199",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-15T04:31:48.713414+00:00",
+    "archived_at": "2026-10-16T04:25:32.271108+00:00",
+    "match_score": 50
+  },
+  {
+    "dedup_key": "be712a42d0047cb2",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "C/C++开发工程师",
+    "location": "武汉",
+    "official_url": "https://www.nowcoder.com/jobs/detail/361951?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-15T04:31:48.713414+00:00",
+    "archived_at": "2026-10-16T04:25:32.271108+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "6796f05582073a73",
     "source_id": "cn-iguopin",
     "company_name": "北京医疗健康大模型有限公司",
@@ -714,18 +810,6 @@
     "title": "销售助理+大学生团队+无责底薪",
     "location": "深圳",
     "official_url": "https://www.nowcoder.com/jobs/detail/338907?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-13T06:44:11.166732+00:00",
-    "last_seen": "2026-10-13T06:44:11.166732+00:00",
-    "archived_at": "2026-10-14T04:47:45.585743+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "a72103c925427fb7",
-    "source_id": "nk-social",
-    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
-    "title": "房产置业顾问+无责底薪+月休6天+高分成",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/339205?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-13T06:44:11.166732+00:00",
     "last_seen": "2026-10-13T06:44:11.166732+00:00",
     "archived_at": "2026-10-14T04:47:45.585743+00:00",
@@ -1485,18 +1569,6 @@
     "first_seen": "2026-10-07T05:53:02.947025+00:00",
     "last_seen": "2026-10-07T05:53:02.947025+00:00",
     "archived_at": "2026-10-08T05:56:58.629133+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "1e9aa710bf163881",
-    "source_id": "nk-social",
-    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
-    "title": "房产销售+底薪9000+分成+月休6天+福利",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/339246?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-05T05:32:56.162194+00:00",
-    "last_seen": "2026-10-06T06:15:08.550795+00:00",
-    "archived_at": "2026-10-07T05:53:02.947025+00:00",
     "match_score": 0
   },
   {
@@ -3480,18 +3552,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "84f4c68639f97fe7",
-    "source_id": "nk-social",
-    "company_name": "衡阳镭目科技",
-    "title": "电气工程师",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/261343?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-19T04:33:32.054232+00:00",
-    "last_seen": "2026-09-19T04:33:32.054232+00:00",
-    "archived_at": "2026-09-20T04:50:34.419012+00:00",
-    "match_score": 10
-  },
-  {
     "dedup_key": "c1655845637fb09b",
     "source_id": "nk-social",
     "company_name": "衡阳镭目科技",
@@ -3690,18 +3750,6 @@
     "title": "战略管理与行业分析岗",
     "location": "雄安新区-雄县",
     "official_url": "https://www.iguopin.com/job/detail?id=216425039535276554",
-    "first_seen": "2026-09-18T04:38:16.278547+00:00",
-    "last_seen": "2026-09-18T04:38:16.278547+00:00",
-    "archived_at": "2026-09-19T04:33:32.054232+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "0f84b031d02fd742",
-    "source_id": "nk-social",
-    "company_name": "深圳乐有家龙吟二路分公司",
-    "title": "深圳新媒体助理9k（含销售性质）",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/429565?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-09-18T04:38:16.278547+00:00",
     "last_seen": "2026-09-18T04:38:16.278547+00:00",
     "archived_at": "2026-09-19T04:33:32.054232+00:00",
@@ -4476,18 +4524,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "aa94de75ff7928e2",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师",
-    "location": "西安",
-    "official_url": "https://www.nowcoder.com/jobs/detail/306884?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-16T04:45:19.498304+00:00",
-    "last_seen": "2026-09-16T04:45:19.498304+00:00",
-    "archived_at": "2026-09-17T04:48:18.057512+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "5a3b51cc9f3a9b63",
     "source_id": "cn-iguopin",
     "company_name": "中国东方电气集团有限公司",
@@ -4750,18 +4786,6 @@
     "last_seen": "2026-09-15T04:50:06.777401+00:00",
     "archived_at": "2026-09-16T04:45:19.498304+00:00",
     "match_score": 72
-  },
-  {
-    "dedup_key": "43edf0620196b605",
-    "source_id": "nk-social",
-    "company_name": "衡阳镭目科技",
-    "title": "高级电子工程师",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/272098?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-15T04:50:06.777401+00:00",
-    "last_seen": "2026-09-15T04:50:06.777401+00:00",
-    "archived_at": "2026-09-16T04:45:19.498304+00:00",
-    "match_score": 10
   },
   {
     "dedup_key": "69a71edcbaf62b4b",
