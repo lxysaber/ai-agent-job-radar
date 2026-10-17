@@ -154,8 +154,15 @@
       "company": "飞亚达精密科技股份有限公司",
       "title": "AI应用算法工程师",
       "source_id": "cn-iguopin"
+    },
+    "256ab4832d3e56e9": {
+      "pushed_at": "2026-10-17T05:54:28.524675+00:00",
+      "first_seen": "2026-10-17T05:52:42.628119+00:00",
+      "company": "SenseTime",
+      "title": "java后端开发工程师",
+      "source_id": "boss-local"
     }
   },
-  "last_marked_at": "2026-09-29T05:43:36.392722+00:00",
+  "last_marked_at": "2026-10-17T05:54:28.524675+00:00",
   "last_marked_count": 1
 }
