@@ -1,5 +1,29 @@
 [
   {
+    "dedup_key": "1b9eb5c335cbb6ef",
+    "source_id": "cn-iguopin",
+    "company_name": "北京码博科技有限公司",
+    "title": "后端开发工程师",
+    "location": "北京",
+    "official_url": "https://www.iguopin.com/job/detail?id=211246618924550784",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-16T04:25:32.271108+00:00",
+    "archived_at": "2026-10-17T04:19:55.071340+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "e84302c933d749fc",
+    "source_id": "cn-iguopin",
+    "company_name": "河南省保时安科技股份有限公司",
+    "title": "独立站运营",
+    "location": "郑州-中原区",
+    "official_url": "https://www.iguopin.com/job/detail?id=209819064976017704",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-16T04:25:32.271108+00:00",
+    "archived_at": "2026-10-17T04:19:55.071340+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "a72103c925427fb7",
     "source_id": "nk-social",
     "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
