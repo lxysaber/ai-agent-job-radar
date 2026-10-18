@@ -1,5 +1,53 @@
 [
   {
+    "dedup_key": "a0ef121bd93664de",
+    "source_id": "cn-iguopin",
+    "company_name": "中国贸促会专利商标事务所有限公司",
+    "title": "IT开发/运维工程师(J10060)",
+    "location": "北京-西城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=210083381608712437",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-17T05:52:42.773365+00:00",
+    "archived_at": "2026-10-18T04:25:29.060370+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "c00abe3725cb6679",
+    "source_id": "cn-iguopin",
+    "company_name": "青岛中远海运航空货运代理有限公司",
+    "title": "客服操作",
+    "location": "烟台",
+    "official_url": "https://www.iguopin.com/job/detail?id=195585778355539663",
+    "first_seen": "2026-10-16T04:25:32.271108+00:00",
+    "last_seen": "2026-10-17T05:52:42.773365+00:00",
+    "archived_at": "2026-10-18T04:25:29.060370+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "f711355ec9b24492",
+    "source_id": "cn-iguopin",
+    "company_name": "中国汽车工业进出口有限公司",
+    "title": "国际物流高级经理（俄语）",
+    "location": "北京-海淀区",
+    "official_url": "https://www.iguopin.com/job/detail?id=210043943021185318",
+    "first_seen": "2026-10-17T04:19:55.071340+00:00",
+    "last_seen": "2026-10-17T05:52:42.773365+00:00",
+    "archived_at": "2026-10-18T04:25:29.060370+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "483c689e4e890170",
+    "source_id": "nk-social",
+    "company_name": "北京北归信息技术有限公司",
+    "title": "Java中级开发工程师",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/470551?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-17T05:52:42.773365+00:00",
+    "last_seen": "2026-10-17T05:52:42.773365+00:00",
+    "archived_at": "2026-10-18T04:25:29.060370+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "d65262be53f3a4eb",
     "source_id": "nk-social",
     "company_name": "元戎启行",

@@ -2,16 +2,16 @@
   "wd-nvidia": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:19:58.535667+00:00",
+    "last_success_at": "2026-10-18T04:25:32.544918+00:00",
     "last_error": "",
-    "last_count": 1,
+    "last_count": 0,
     "peak_count": 5,
-    "alert": ""
+    "alert": "抓取量跌为 0（历史峰值 5，疑似改版/失效）"
   },
   "cn-bytedance": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:21:24.582411+00:00",
+    "last_success_at": "2026-10-18T04:26:50.765746+00:00",
     "last_error": "",
     "last_count": 722,
     "peak_count": 725,
@@ -20,7 +20,7 @@
   "cn-tencent": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:21:49.158261+00:00",
+    "last_success_at": "2026-10-18T04:27:12.866011+00:00",
     "last_error": "",
     "last_count": 377,
     "peak_count": 383,
@@ -29,7 +29,7 @@
   "cn-tencent-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:21:58.092400+00:00",
+    "last_success_at": "2026-10-18T04:27:20.026174+00:00",
     "last_error": "",
     "last_count": 800,
     "peak_count": 800,
@@ -38,7 +38,7 @@
   "cn-sensetime": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:21:58.991365+00:00",
+    "last_success_at": "2026-10-18T04:27:21.005797+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -47,7 +47,7 @@
   "edu-sysu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:23:03.889932+00:00",
+    "last_success_at": "2026-10-18T04:28:19.358004+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -56,7 +56,7 @@
   "gov-ncss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:23:19.863246+00:00",
+    "last_success_at": "2026-10-18T04:28:33.413655+00:00",
     "last_error": "",
     "last_count": 180,
     "peak_count": 180,
@@ -65,7 +65,7 @@
   "gov-sasac": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:23:45.170499+00:00",
+    "last_success_at": "2026-10-18T04:28:54.636718+00:00",
     "last_error": "",
     "last_count": 29,
     "peak_count": 30,
@@ -74,7 +74,7 @@
   "gov-qyzp": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:24:24.162024+00:00",
+    "last_success_at": "2026-10-18T04:29:29.138734+00:00",
     "last_error": "",
     "last_count": 20,
     "peak_count": 21,
@@ -83,7 +83,7 @@
   "cn-iguopin": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:24:59.282456+00:00",
+    "last_success_at": "2026-10-18T04:30:02.735450+00:00",
     "last_error": "",
     "last_count": 240,
     "peak_count": 240,
@@ -92,18 +92,18 @@
   "cn-huawei-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-17T04:25:03.718646+00:00",
+    "last_success_at": "2026-10-18T04:30:08.331678+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
   },
   "nk-social": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-16T04:29:34.963169+00:00",
-    "last_error": "RuntimeError: 未安装 playwright；请运行 `pip install playwright && python -m playwright install chromium`",
-    "last_count": 20,
+    "last_success_at": "2026-10-18T04:30:06.269546+00:00",
+    "last_error": "",
+    "last_count": 19,
     "peak_count": 20,
     "alert": ""
   },
