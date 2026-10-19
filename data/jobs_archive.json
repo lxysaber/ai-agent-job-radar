@@ -1,5 +1,89 @@
 [
   {
+    "dedup_key": "a72103c925427fb7",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
+    "title": "房产置业顾问+无责底薪+月休6天+高分成",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/339205?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-17T05:52:42.773365+00:00",
+    "last_seen": "2026-10-18T04:25:29.060370+00:00",
+    "archived_at": "2026-10-19T04:34:22.682313+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "f1db7516e09c26b5",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
+    "title": "销售助理+大学生团队+无责底薪",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/338907?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-18T04:25:29.060370+00:00",
+    "last_seen": "2026-10-18T04:25:29.060370+00:00",
+    "archived_at": "2026-10-19T04:34:22.682313+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "8d9d8823c5ecb129",
+    "source_id": "nk-social",
+    "company_name": "TT语音",
+    "title": "Agent 应用开发工程师（AI 社交方向）",
+    "location": "广州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/466818?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-18T04:25:29.060370+00:00",
+    "last_seen": "2026-10-18T04:25:29.060370+00:00",
+    "archived_at": "2026-10-19T04:34:22.682313+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "1d14e0bd53d9a2a5",
+    "source_id": "nk-social",
+    "company_name": "TT语音",
+    "title": "电商运营",
+    "location": "广州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/468604?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-18T04:25:29.060370+00:00",
+    "last_seen": "2026-10-18T04:25:29.060370+00:00",
+    "archived_at": "2026-10-19T04:34:22.682313+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "385bc5cdd764f0d5",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合健康医疗大数据有限责任公司",
+    "title": "创新业务部新业务岗",
+    "location": "北京-西城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=210199641591908647",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-18T04:25:29.060370+00:00",
+    "archived_at": "2026-10-19T04:34:22.682313+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "2d7fd840c8cdbd51",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "Python【25届也可投，大厂高薪，周末双休】",
+    "location": "武汉",
+    "official_url": "https://www.nowcoder.com/jobs/detail/255846?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-18T04:25:29.060370+00:00",
+    "last_seen": "2026-10-18T04:25:29.060370+00:00",
+    "archived_at": "2026-10-19T04:34:22.682313+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "8462a2818c9e37b1",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "软件开发工程/大厂/双休",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/274800?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-18T04:25:29.060370+00:00",
+    "last_seen": "2026-10-18T04:25:29.060370+00:00",
+    "archived_at": "2026-10-19T04:34:22.682313+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "a0ef121bd93664de",
     "source_id": "cn-iguopin",
     "company_name": "中国贸促会专利商标事务所有限公司",
@@ -165,18 +249,6 @@
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
     "last_seen": "2026-10-16T04:25:32.271108+00:00",
     "archived_at": "2026-10-17T04:19:55.071340+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "a72103c925427fb7",
-    "source_id": "nk-social",
-    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
-    "title": "房产置业顾问+无责底薪+月休6天+高分成",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/339205?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-15T04:31:48.713414+00:00",
-    "archived_at": "2026-10-16T04:25:32.271108+00:00",
     "match_score": 0
   },
   {
@@ -960,18 +1032,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "f1db7516e09c26b5",
-    "source_id": "nk-social",
-    "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
-    "title": "销售助理+大学生团队+无责底薪",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/338907?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-13T06:44:11.166732+00:00",
-    "last_seen": "2026-10-13T06:44:11.166732+00:00",
-    "archived_at": "2026-10-14T04:47:45.585743+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "4775ac8aab9b653d",
     "source_id": "nk-social",
     "company_name": "元戎启行",
@@ -1410,18 +1470,6 @@
     "title": "Java软件开发工程师",
     "location": "杭州",
     "official_url": "https://www.nowcoder.com/jobs/detail/84031?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-11T05:40:44.840885+00:00",
-    "last_seen": "2026-10-11T05:40:44.840885+00:00",
-    "archived_at": "2026-10-12T05:50:43.035544+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "8d9d8823c5ecb129",
-    "source_id": "nk-social",
-    "company_name": "TT语音",
-    "title": "Agent 应用开发工程师（AI 社交方向）",
-    "location": "广州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/466818?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-11T05:40:44.840885+00:00",
     "last_seen": "2026-10-11T05:40:44.840885+00:00",
     "archived_at": "2026-10-12T05:50:43.035544+00:00",
@@ -2130,18 +2178,6 @@
     "title": "内容运营（TT语音PC端）",
     "location": "广州",
     "official_url": "https://www.nowcoder.com/jobs/detail/467037?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-27T05:14:11.000089+00:00",
-    "last_seen": "2026-09-27T05:14:11.000089+00:00",
-    "archived_at": "2026-09-28T05:17:55.357718+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "1d14e0bd53d9a2a5",
-    "source_id": "nk-social",
-    "company_name": "TT语音",
-    "title": "电商运营",
-    "location": "广州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/468604?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-09-27T05:14:11.000089+00:00",
     "last_seen": "2026-09-27T05:14:11.000089+00:00",
     "archived_at": "2026-09-28T05:17:55.357718+00:00",
