@@ -1,5 +1,113 @@
 [
   {
+    "dedup_key": "e820d7fbee42baf9",
+    "source_id": "nk-social",
+    "company_name": "上海亿普链信息科技有限公司",
+    "title": ".NET开发工程师",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/469948?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-19T04:34:22.682313+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "7804b120cb20c2e5",
+    "source_id": "nk-social",
+    "company_name": "数坤科技",
+    "title": "智能体应用开发工程师",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/438736?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-19T04:34:22.682313+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "008bab1fc3914a9a",
+    "source_id": "nk-social",
+    "company_name": "深圳市乐有家控股集团有限公司",
+    "title": "行政管培7.5K+五险一金",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/450123?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-19T04:34:22.682313+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 38
+  },
+  {
+    "dedup_key": "43f17c1860ba8909",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合健康医疗大数据有限责任公司",
+    "title": "数字身份事业部研发工程师",
+    "location": "北京-西城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=210199475984009511",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "4b5d9bad810505e3",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合健康医疗大数据有限责任公司",
+    "title": "数字身份事业部运维工程师",
+    "location": "北京-西城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=210199729017981169",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "07d60b1b20d3de21",
+    "source_id": "cn-iguopin",
+    "company_name": "中国黄金集团黄金珠宝股份有限公司",
+    "title": "财务会计专员",
+    "location": "北京-东城区 / 三亚 / 香港",
+    "official_url": "https://www.iguopin.com/job/detail?id=210394849097025783",
+    "first_seen": "2026-10-18T04:25:29.060370+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "c38aadefbfca2837",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "Java（接受无经验/导师带教/周末双休）",
+    "location": "南京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/451693?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-19T04:34:22.682313+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "a4d502bac5ca6ed1",
+    "source_id": "nk-social",
+    "company_name": "链家地产",
+    "title": "北京 上市公司 五险一金 多了一险一金出游多 招聘营销顾问",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/190631?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-19T04:34:22.682313+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "18c5b1842979cf1d",
+    "source_id": "nk-social",
+    "company_name": "链家地产",
+    "title": "北京上市公司直聘置业顾问",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/173314?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-19T04:34:22.682313+00:00",
+    "last_seen": "2026-10-19T04:34:22.682313+00:00",
+    "archived_at": "2026-10-20T04:43:05.826847+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "a72103c925427fb7",
     "source_id": "nk-social",
     "company_name": "深圳市乐有家房产交易有限公司下步庙分公司",
@@ -2011,18 +2119,6 @@
     "location": "南昌",
     "official_url": "https://www.iguopin.com/job/detail?id=209645077260142837",
     "first_seen": "2026-09-24T04:43:51.075596+00:00",
-    "last_seen": "2026-09-30T05:27:46.980162+00:00",
-    "archived_at": "2026-10-01T05:46:23.584198+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "e820d7fbee42baf9",
-    "source_id": "nk-social",
-    "company_name": "上海亿普链信息科技有限公司",
-    "title": ".NET开发工程师",
-    "location": "上海",
-    "official_url": "https://www.nowcoder.com/jobs/detail/469948?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-30T05:27:46.980162+00:00",
     "last_seen": "2026-09-30T05:27:46.980162+00:00",
     "archived_at": "2026-10-01T05:46:23.584198+00:00",
     "match_score": 0
@@ -8145,18 +8241,6 @@
     "first_seen": "2026-09-05T04:21:43.592594+00:00",
     "last_seen": "2026-09-05T04:21:43.592594+00:00",
     "archived_at": "2026-09-06T04:33:14.995424+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "7804b120cb20c2e5",
-    "source_id": "nk-social",
-    "company_name": "数坤科技",
-    "title": "智能体应用开发工程师",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/438736?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-04T04:26:52.828740+00:00",
-    "last_seen": "2026-09-04T04:26:52.828740+00:00",
-    "archived_at": "2026-09-05T04:21:43.592594+00:00",
     "match_score": 0
   },
   {
