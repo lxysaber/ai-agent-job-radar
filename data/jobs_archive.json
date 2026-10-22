@@ -1,5 +1,53 @@
 [
   {
+    "dedup_key": "145e492986c1e7f1",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "【华为云】大数据开发工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/384955?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "archived_at": "2026-10-22T04:37:01.400640+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "a0b28f0b0528bf15",
+    "source_id": "nk-social",
+    "company_name": "沃孚信息科技（广州）有限公司",
+    "title": "安卓客户端开发工程师",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/459681?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "archived_at": "2026-10-22T04:37:01.400640+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "f16edae9ed9cd2bf",
+    "source_id": "nk-social",
+    "company_name": "河北铁运人力资源服务集团有限公司",
+    "title": "招聘专员",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/408611?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "archived_at": "2026-10-22T04:37:01.400640+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "98742ada7e369b2a",
+    "source_id": "nk-social",
+    "company_name": "同花顺",
+    "title": "算法工程师",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/383528?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "archived_at": "2026-10-22T04:37:01.400640+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "8db579584c0bddc4",
     "source_id": "nk-social",
     "company_name": "西安几何数字信息技术有限公司",
@@ -1608,18 +1656,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "145e492986c1e7f1",
-    "source_id": "nk-social",
-    "company_name": "科锐国际",
-    "title": "【华为云】大数据开发工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/384955?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-12T05:50:43.035544+00:00",
-    "last_seen": "2026-10-12T05:50:43.035544+00:00",
-    "archived_at": "2026-10-13T06:44:11.166732+00:00",
-    "match_score": 64
-  },
-  {
     "dedup_key": "8ef660b8c0b27f4b",
     "source_id": "cn-iguopin",
     "company_name": "蚂蚁科技集团股份有限公司",
@@ -1914,18 +1950,6 @@
     "title": "前端开发工程师",
     "location": "西安",
     "official_url": "https://www.nowcoder.com/jobs/detail/306883?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-09T06:03:07.429728+00:00",
-    "last_seen": "2026-10-09T06:03:07.429728+00:00",
-    "archived_at": "2026-10-10T05:46:08.121101+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "a0b28f0b0528bf15",
-    "source_id": "nk-social",
-    "company_name": "沃孚信息科技（广州）有限公司",
-    "title": "安卓客户端开发工程师",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/459681?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-09T06:03:07.429728+00:00",
     "last_seen": "2026-10-09T06:03:07.429728+00:00",
     "archived_at": "2026-10-10T05:46:08.121101+00:00",
@@ -9151,18 +9175,6 @@
     "location": "北京-东城区",
     "official_url": "https://www.iguopin.com/job/detail?id=215584745457714769",
     "first_seen": "2026-09-01T05:02:48.267310+00:00",
-    "last_seen": "2026-09-02T04:27:52.579808+00:00",
-    "archived_at": "2026-09-03T04:19:03.509466+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "f16edae9ed9cd2bf",
-    "source_id": "nk-social",
-    "company_name": "河北铁运人力资源服务集团有限公司",
-    "title": "招聘专员",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/408611?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-02T04:27:52.579808+00:00",
     "last_seen": "2026-09-02T04:27:52.579808+00:00",
     "archived_at": "2026-09-03T04:19:03.509466+00:00",
     "match_score": 0

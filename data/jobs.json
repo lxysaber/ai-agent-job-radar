@@ -287,6 +287,50 @@
     }
   },
   {
+    "job_id": "nk-social:2aae6f91ffb0ab3e",
+    "dedup_key": "2aae6f91ffb0ab3e",
+    "source_id": "nk-social",
+    "company_name": "dépow",
+    "title": "后端/IoT工程师（充电桩App）",
+    "location": "深圳",
+    "org_type": "aggregator",
+    "industry": "汽车/新能源车",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/449879?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "backup_url": "",
+    "salary": "15-25K·12薪",
+    "employment_type": "FULL_TIME",
+    "identifier": "",
+    "jd_text": "后端/IoT工程师（充电桩App） 15-25K·12薪 深圳 1-3年 Java Python GO dépow 新能源 20-99人",
+    "tags": [
+      "行业:汽车/新能源车",
+      "Python",
+      "后端",
+      "Java",
+      "industry_match",
+      "硬科技",
+      "city_match",
+      "缺截止"
+    ],
+    "match_score": 94,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-10-22T04:37:01.400640+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "nowcoder",
+      "id": "449879",
+      "salary": "15-25K·12薪",
+      "employmentType": "FULL_TIME",
+      "crawl_mode": "ssr"
+    }
+  },
+  {
     "job_id": "boss-local:5ba24472fbbc2b8e",
     "dedup_key": "5ba24472fbbc2b8e",
     "source_id": "boss-local",
@@ -385,7 +429,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -394,48 +438,6 @@
       "nature": "社招",
       "category": "算法工程师",
       "needs_ai": false
-    }
-  },
-  {
-    "job_id": "nk-social:145e492986c1e7f1",
-    "dedup_key": "145e492986c1e7f1",
-    "source_id": "nk-social",
-    "company_name": "科锐国际",
-    "title": "【华为云】大数据开发工程师",
-    "location": "深圳",
-    "org_type": "aggregator",
-    "industry": "通信",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/384955?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "backup_url": "",
-    "salary": "15-35K·14薪",
-    "employment_type": "FULL_TIME",
-    "identifier": "",
-    "jd_text": "【华为云】大数据开发工程师 15-35K·14薪 深圳 1-3年 本科 Java Python Spark 科锐国际 企业服务 1000-9999人",
-    "tags": [
-      "行业:通信",
-      "Python",
-      "Java",
-      "industry_match",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 64,
-    "source_confidence": 50,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "nowcoder",
-      "id": "384955",
-      "salary": "15-35K·14薪",
-      "employmentType": "FULL_TIME",
-      "crawl_mode": "ssr"
     }
   },
   {
@@ -468,7 +470,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -510,7 +512,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-20T04:43:05.826847+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "nowcoder",
@@ -551,12 +553,130 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-20T04:43:05.826847+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "nowcoder",
       "id": "363056",
       "salary": "25-40K·14薪",
+      "employmentType": "FULL_TIME",
+      "crawl_mode": "ssr"
+    }
+  },
+  {
+    "job_id": "nk-social:462ddcaa25a267a1",
+    "dedup_key": "462ddcaa25a267a1",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "自动化测试测试",
+    "location": "深圳",
+    "org_type": "aggregator",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/240656?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "backup_url": "",
+    "salary": "20-40K·12薪",
+    "employment_type": "FULL_TIME",
+    "identifier": "",
+    "jd_text": "自动化测试测试 20-40K·12薪 深圳 3-5年 本科 自动化测试 Python 测试 科锐国际 企业服务 1000-9999人",
+    "tags": [
+      "行业:其他",
+      "Python",
+      "city_match",
+      "缺截止"
+    ],
+    "match_score": 32,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-10-22T04:37:01.400640+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "nowcoder",
+      "id": "240656",
+      "salary": "20-40K·12薪",
+      "employmentType": "FULL_TIME",
+      "crawl_mode": "ssr"
+    }
+  },
+  {
+    "job_id": "nk-social:c9b5a48251abccea",
+    "dedup_key": "c9b5a48251abccea",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "前端工程师开发工程师",
+    "location": "深圳",
+    "org_type": "aggregator",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/240655?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "backup_url": "",
+    "salary": "20-40K·15薪",
+    "employment_type": "FULL_TIME",
+    "identifier": "",
+    "jd_text": "前端工程师开发工程师 20-40K·15薪 深圳 3-5年 开源 计算机 JS 科锐国际 企业服务 1000-9999人",
+    "tags": [
+      "行业:其他",
+      "city_match",
+      "缺截止"
+    ],
+    "match_score": 20,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-10-22T04:37:01.400640+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "nowcoder",
+      "id": "240655",
+      "salary": "20-40K·15薪",
+      "employmentType": "FULL_TIME",
+      "crawl_mode": "ssr"
+    }
+  },
+  {
+    "job_id": "nk-social:73dd062f5ca1b8eb",
+    "dedup_key": "73dd062f5ca1b8eb",
+    "source_id": "nk-social",
+    "company_name": "dépow",
+    "title": "3D建模渲染师",
+    "location": "深圳",
+    "org_type": "aggregator",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/459266?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "backup_url": "",
+    "salary": "10-13K·13薪",
+    "employment_type": "FULL_TIME",
+    "identifier": "",
+    "jd_text": "3D建模渲染师 10-13K·13薪 深圳 1-3年 本科 设计 3D渲染 跨境电子商务 dépow 新能源 20-99人",
+    "tags": [
+      "行业:其他",
+      "city_match",
+      "缺截止"
+    ],
+    "match_score": 20,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-10-22T04:37:01.400640+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "nowcoder",
+      "id": "459266",
+      "salary": "10-13K·13薪",
       "employmentType": "FULL_TIME",
       "crawl_mode": "ssr"
     }
@@ -589,12 +709,88 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "nowcoder",
       "id": "367326",
       "salary": "7-15K·12薪",
+      "employmentType": "FULL_TIME",
+      "crawl_mode": "ssr"
+    }
+  },
+  {
+    "job_id": "nk-social:84f4c68639f97fe7",
+    "dedup_key": "84f4c68639f97fe7",
+    "source_id": "nk-social",
+    "company_name": "衡阳镭目科技",
+    "title": "电气工程师",
+    "location": "",
+    "org_type": "aggregator",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/261343?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "backup_url": "",
+    "salary": "10-15K·12薪",
+    "employment_type": "FULL_TIME",
+    "identifier": "",
+    "jd_text": "电气工程师 10-15K·12薪 衡阳 3-5年 本科 电气工程师 电气 电路基础 衡阳镭目科技 人工智能 500-999人 高新技术",
+    "tags": [
+      "行业:其他",
+      "缺截止"
+    ],
+    "match_score": 10,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-10-22T04:37:01.400640+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "nowcoder",
+      "id": "261343",
+      "salary": "10-15K·12薪",
+      "employmentType": "FULL_TIME",
+      "crawl_mode": "ssr"
+    }
+  },
+  {
+    "job_id": "nk-social:43edf0620196b605",
+    "dedup_key": "43edf0620196b605",
+    "source_id": "nk-social",
+    "company_name": "衡阳镭目科技",
+    "title": "高级电子工程师",
+    "location": "",
+    "org_type": "aggregator",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/272098?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "backup_url": "",
+    "salary": "25-30K·12薪",
+    "employment_type": "FULL_TIME",
+    "identifier": "",
+    "jd_text": "高级电子工程师 25-30K·12薪 衡阳 3-5年 硕士 电子工程师 模拟电路 模电 衡阳镭目科技 人工智能 500-999人 高新技术",
+    "tags": [
+      "行业:其他",
+      "缺截止"
+    ],
+    "match_score": 10,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-10-22T04:37:01.400640+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "nowcoder",
+      "id": "272098",
+      "salary": "25-30K·12薪",
       "employmentType": "FULL_TIME",
       "crawl_mode": "ssr"
     }
@@ -637,7 +833,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-01T05:02:48.267310+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "id": "7580285702679267589"
@@ -674,7 +870,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -715,7 +911,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -756,7 +952,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -796,7 +992,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -836,7 +1032,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -876,7 +1072,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -916,7 +1112,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -956,7 +1152,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -996,7 +1192,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1036,7 +1232,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1076,7 +1272,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1116,7 +1312,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1156,7 +1352,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1196,7 +1392,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1237,7 +1433,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1277,7 +1473,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1317,7 +1513,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1357,7 +1553,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1399,7 +1595,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1439,7 +1635,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1481,7 +1677,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1523,7 +1719,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1564,7 +1760,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1605,7 +1801,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1647,7 +1843,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1689,7 +1885,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1731,7 +1927,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1773,7 +1969,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1814,7 +2010,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1854,7 +2050,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1894,7 +2090,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1934,7 +2130,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -1974,7 +2170,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2014,7 +2210,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2054,7 +2250,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2094,7 +2290,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2136,7 +2332,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2176,7 +2372,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2216,7 +2412,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2256,7 +2452,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2296,7 +2492,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2336,7 +2532,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2376,7 +2572,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2416,7 +2612,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2456,7 +2652,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2496,7 +2692,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2537,7 +2733,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2578,7 +2774,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2619,7 +2815,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2659,7 +2855,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2699,7 +2895,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2739,7 +2935,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2779,7 +2975,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2819,7 +3015,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2859,7 +3055,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2899,7 +3095,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2939,7 +3135,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -2979,7 +3175,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3019,7 +3215,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3059,7 +3255,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3099,7 +3295,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3141,7 +3337,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3181,7 +3377,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3221,7 +3417,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3262,7 +3458,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3302,7 +3498,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3344,7 +3540,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3385,7 +3581,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-24T04:43:51.075596+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3427,7 +3623,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3467,7 +3663,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3509,7 +3705,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3550,7 +3746,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3591,7 +3787,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3632,7 +3828,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3672,7 +3868,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3712,7 +3908,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3752,7 +3948,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3792,7 +3988,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3832,7 +4028,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3873,7 +4069,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3916,7 +4112,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3956,7 +4152,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-14T04:47:45.585743+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -3996,7 +4192,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4036,7 +4232,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4076,7 +4272,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4117,7 +4313,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4158,7 +4354,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4199,7 +4395,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4242,7 +4438,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4282,7 +4478,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4324,7 +4520,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4365,7 +4561,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-20T04:43:05.826847+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4405,7 +4601,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4445,7 +4641,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-24T04:43:51.075596+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4487,7 +4683,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4527,7 +4723,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-24T04:43:51.075596+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4568,7 +4764,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4608,7 +4804,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4650,7 +4846,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4690,7 +4886,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4730,7 +4926,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4771,7 +4967,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4813,7 +5009,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4854,7 +5050,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4896,7 +5092,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4939,7 +5135,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-18T04:25:29.060370+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -4980,7 +5176,7 @@
     "status": "new",
     "seen_count": 2,
     "first_seen": "2026-10-18T04:25:29.060370+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5021,7 +5217,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5062,7 +5258,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5102,7 +5298,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5148,7 +5344,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5194,7 +5390,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5240,7 +5436,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5286,7 +5482,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5332,7 +5528,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5378,7 +5574,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5424,7 +5620,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5470,7 +5666,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5516,7 +5712,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5562,7 +5758,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5608,7 +5804,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5654,7 +5850,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5700,7 +5896,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5746,7 +5942,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5787,7 +5983,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-19T04:34:22.682313+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5828,7 +6024,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5870,7 +6066,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5912,7 +6108,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5954,7 +6150,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -5995,7 +6191,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6037,7 +6233,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6077,7 +6273,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6119,7 +6315,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6160,7 +6356,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6201,7 +6397,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6243,7 +6439,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6283,7 +6479,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-15T04:31:48.713414+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6323,7 +6519,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-20T04:43:05.826847+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -6332,45 +6528,6 @@
       "nature": "社招",
       "category": "货运代理专员",
       "needs_ai": false
-    }
-  },
-  {
-    "job_id": "nk-social:a0b28f0b0528bf15",
-    "dedup_key": "a0b28f0b0528bf15",
-    "source_id": "nk-social",
-    "company_name": "沃孚信息科技（广州）有限公司",
-    "title": "安卓客户端开发工程师",
-    "location": "北京",
-    "org_type": "aggregator",
-    "industry": "其他",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/459681?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "backup_url": "",
-    "salary": "30-45K·15薪",
-    "employment_type": "FULL_TIME",
-    "identifier": "",
-    "jd_text": "安卓客户端开发工程师 30-45K·15薪 北京 3-5年 本科 客户端 沃孚信息科技（广州）有限公司 互联网综合 20-99人",
-    "tags": [
-      "行业:其他",
-      "city_mismatch",
-      "缺截止"
-    ],
-    "match_score": 0,
-    "source_confidence": 50,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "nowcoder",
-      "id": "459681",
-      "salary": "30-45K·15薪",
-      "employmentType": "FULL_TIME",
-      "crawl_mode": "ssr"
     }
   },
   {
@@ -6403,93 +6560,12 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-18T04:25:29.060370+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
+    "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "gone": false,
     "extra": {
       "platform": "nowcoder",
       "id": "302292",
       "salary": "14-24K·15薪",
-      "employmentType": "FULL_TIME",
-      "crawl_mode": "ssr"
-    }
-  },
-  {
-    "job_id": "nk-social:98742ada7e369b2a",
-    "dedup_key": "98742ada7e369b2a",
-    "source_id": "nk-social",
-    "company_name": "同花顺",
-    "title": "算法工程师",
-    "location": "杭州",
-    "org_type": "aggregator",
-    "industry": "互联网/软件",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/383528?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "backup_url": "",
-    "salary": "20-30K·15薪",
-    "employment_type": "FULL_TIME",
-    "identifier": "",
-    "jd_text": "算法工程师 20-30K·15薪 杭州 1-3年 本科 软件工程 财经AI服务 AI应用产品 同花顺 金融 1000-9999人 HC充足榜",
-    "tags": [
-      "行业:互联网/软件",
-      "AI Agent/应用",
-      "算法/ML",
-      "industry_match",
-      "city_mismatch",
-      "缺截止"
-    ],
-    "match_score": 0,
-    "source_confidence": 50,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "nowcoder",
-      "id": "383528",
-      "salary": "20-30K·15薪",
-      "employmentType": "FULL_TIME",
-      "crawl_mode": "ssr"
-    }
-  },
-  {
-    "job_id": "nk-social:f16edae9ed9cd2bf",
-    "dedup_key": "f16edae9ed9cd2bf",
-    "source_id": "nk-social",
-    "company_name": "河北铁运人力资源服务集团有限公司",
-    "title": "招聘专员",
-    "location": "",
-    "org_type": "aggregator",
-    "industry": "其他",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/408611?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "backup_url": "",
-    "salary": "3-4K·12薪",
-    "employment_type": "FULL_TIME",
-    "identifier": "",
-    "jd_text": "招聘专员 3-4K·12薪 石家庄 1-3年 现场招聘 劳动关系 培训与开发 河北铁运人力资源服务集团有限公司 研究所 0-20人",
-    "tags": [
-      "行业:其他",
-      "非目标岗",
-      "缺截止"
-    ],
-    "match_score": 0,
-    "source_confidence": 50,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-21T04:39:46.127301+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "nowcoder",
-      "id": "408611",
-      "salary": "3-4K·12薪",
       "employmentType": "FULL_TIME",
       "crawl_mode": "ssr"
     }
