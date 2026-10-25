@@ -110,19 +110,19 @@
   "nk-intern": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-21T06:37:33.888583+00:00",
+    "last_success_at": "2026-10-25T06:56:58.697600+00:00",
     "last_error": "",
-    "last_count": 20,
+    "last_count": 19,
     "peak_count": 20,
     "alert": ""
   },
   "sxs-intern": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-21T06:37:51.131950+00:00",
+    "last_success_at": "2026-10-25T06:57:23.220595+00:00",
     "last_error": "",
-    "last_count": 0,
+    "last_count": 153,
     "peak_count": 155,
-    "alert": "抓取量跌为 0（历史峰值 155，疑似改版/失效）"
+    "alert": ""
   }
 }
