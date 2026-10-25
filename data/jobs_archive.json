@@ -1,5 +1,65 @@
 [
   {
+    "dedup_key": "b9703512ca2a2395",
+    "source_id": "nk-social",
+    "company_name": "齐博法律贵州分公司",
+    "title": "贷后管理专员",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/452180?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-24T04:30:20.277172+00:00",
+    "last_seen": "2026-10-24T04:30:20.277172+00:00",
+    "archived_at": "2026-10-25T04:35:00.072362+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "3209b6ff23fdaad8",
+    "source_id": "nk-social",
+    "company_name": "链家地产",
+    "title": "上市公司网络销售 ，工作长期稳定高薪资",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/239937?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-24T04:30:20.277172+00:00",
+    "last_seen": "2026-10-24T04:30:20.277172+00:00",
+    "archived_at": "2026-10-25T04:35:00.072362+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "941754f2562a99dc",
+    "source_id": "cn-iguopin",
+    "company_name": "行云数聚（北京）科技有限公司",
+    "title": "中级java研发工程师",
+    "location": "深圳-南山区",
+    "official_url": "https://www.iguopin.com/job/detail?id=211097528647551124",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-24T04:30:20.277172+00:00",
+    "archived_at": "2026-10-25T04:35:00.072362+00:00",
+    "match_score": 62
+  },
+  {
+    "dedup_key": "59b53d775508248d",
+    "source_id": "nk-social",
+    "company_name": "河南帮邻科技服务有限公司",
+    "title": "移动app开发工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/471690?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-23T04:43:16.855087+00:00",
+    "last_seen": "2026-10-24T04:30:20.277172+00:00",
+    "archived_at": "2026-10-25T04:35:00.072362+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "0cf21a98fccb13d2",
+    "source_id": "cn-iguopin",
+    "company_name": "广东航天七零六信息科技有限公司",
+    "title": "安全测试工程师",
+    "location": "广州-黄埔区",
+    "official_url": "https://www.iguopin.com/job/detail?id=211101539828238482",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-10-24T04:30:20.277172+00:00",
+    "archived_at": "2026-10-25T04:35:00.072362+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "e6419ba3dcba753b",
     "source_id": "nk-social",
     "company_name": "河北铁运人力资源服务集团有限公司",
@@ -672,36 +732,12 @@
     "match_score": 0
   },
   {
-    "dedup_key": "b9703512ca2a2395",
-    "source_id": "nk-social",
-    "company_name": "齐博法律贵州分公司",
-    "title": "贷后管理专员",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/452180?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-16T04:25:32.271108+00:00",
-    "last_seen": "2026-10-16T04:25:32.271108+00:00",
-    "archived_at": "2026-10-17T05:52:42.773365+00:00",
-    "match_score": 10
-  },
-  {
     "dedup_key": "04d33fc44633a25b",
     "source_id": "nk-social",
     "company_name": "上海科之锐人才咨询有限公司",
     "title": "前后端开发/测试（年薪20-40W！！线上面试）",
     "location": "长沙",
     "official_url": "https://www.nowcoder.com/jobs/detail/350465?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-16T04:25:32.271108+00:00",
-    "last_seen": "2026-10-16T04:25:32.271108+00:00",
-    "archived_at": "2026-10-17T05:52:42.773365+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "3209b6ff23fdaad8",
-    "source_id": "nk-social",
-    "company_name": "链家地产",
-    "title": "上市公司网络销售 ，工作长期稳定高薪资",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/239937?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-16T04:25:32.271108+00:00",
     "last_seen": "2026-10-16T04:25:32.271108+00:00",
     "archived_at": "2026-10-17T05:52:42.773365+00:00",
