@@ -1,5 +1,101 @@
 [
   {
+    "dedup_key": "d65262be53f3a4eb",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "软件工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/395739?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-10-26T04:40:13.675493+00:00",
+    "archived_at": "2026-10-27T04:57:38.608135+00:00",
+    "match_score": 52
+  },
+  {
+    "dedup_key": "c83098cd9958f108",
+    "source_id": "nk-social",
+    "company_name": "志源",
+    "title": "电源工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/367326?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-25T04:35:00.072362+00:00",
+    "last_seen": "2026-10-26T04:40:13.675493+00:00",
+    "archived_at": "2026-10-27T04:57:38.608135+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "c9b5a48251abccea",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "前端工程师开发工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/240655?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-10-26T04:40:13.675493+00:00",
+    "archived_at": "2026-10-27T04:57:38.608135+00:00",
+    "match_score": 20
+  },
+  {
+    "dedup_key": "f6122bfe9806f552",
+    "source_id": "nk-social",
+    "company_name": "图知天下",
+    "title": "项目经理",
+    "location": "济南",
+    "official_url": "https://www.nowcoder.com/jobs/detail/464592?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-10-26T04:40:13.675493+00:00",
+    "archived_at": "2026-10-27T04:57:38.608135+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "46b05bb96c5d0fec",
+    "source_id": "nk-social",
+    "company_name": "图知天下",
+    "title": "销售经理（能源电力方向）",
+    "location": "西安",
+    "official_url": "https://www.nowcoder.com/jobs/detail/377436?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-10-26T04:40:13.675493+00:00",
+    "archived_at": "2026-10-27T04:57:38.608135+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "c1578010185e1564",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "Java开发工程师",
+    "location": "武汉",
+    "official_url": "https://www.nowcoder.com/jobs/detail/271998?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-10-26T04:40:13.675493+00:00",
+    "archived_at": "2026-10-27T04:57:38.608135+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "540d7954bbb712e5",
+    "source_id": "nk-social",
+    "company_name": "深圳甄才智能科技有限公司",
+    "title": "医疗器械生产/质量管理",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/471843?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-10-26T04:40:13.675493+00:00",
+    "archived_at": "2026-10-27T04:57:38.608135+00:00",
+    "match_score": 20
+  },
+  {
+    "dedup_key": "9cfc8380ca87a220",
+    "source_id": "cn-iguopin",
+    "company_name": "山东宏桥新型材料有限公司",
+    "title": "开发工程师",
+    "location": "滨州-邹平市",
+    "official_url": "https://www.iguopin.com/job/detail?id=211382309625006851",
+    "first_seen": "2026-10-18T04:25:29.060370+00:00",
+    "last_seen": "2026-10-26T04:40:13.675493+00:00",
+    "archived_at": "2026-10-27T04:57:38.608135+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "15fc9dcba5f34a2e",
     "source_id": "nk-social",
     "company_name": "上海科之锐人才咨询有限公司",
@@ -312,18 +408,6 @@
     "match_score": 10
   },
   {
-    "dedup_key": "d65262be53f3a4eb",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "软件工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/395739?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-20T04:43:05.826847+00:00",
-    "last_seen": "2026-10-23T04:43:16.855087+00:00",
-    "archived_at": "2026-10-24T04:30:20.277172+00:00",
-    "match_score": 52
-  },
-  {
     "dedup_key": "6de5911e8e8cb8f6",
     "source_id": "nk-social",
     "company_name": "元戎启行",
@@ -456,18 +540,6 @@
     "match_score": 32
   },
   {
-    "dedup_key": "c83098cd9958f108",
-    "source_id": "nk-social",
-    "company_name": "志源",
-    "title": "电源工程师",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/367326?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-21T04:39:46.127301+00:00",
-    "last_seen": "2026-10-22T04:37:01.400640+00:00",
-    "archived_at": "2026-10-23T04:43:16.855087+00:00",
-    "match_score": 10
-  },
-  {
     "dedup_key": "2aae6f91ffb0ab3e",
     "source_id": "nk-social",
     "company_name": "dépow",
@@ -486,18 +558,6 @@
     "title": "3D建模渲染师",
     "location": "深圳",
     "official_url": "https://www.nowcoder.com/jobs/detail/459266?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-22T04:37:01.400640+00:00",
-    "last_seen": "2026-10-22T04:37:01.400640+00:00",
-    "archived_at": "2026-10-23T04:43:16.855087+00:00",
-    "match_score": 20
-  },
-  {
-    "dedup_key": "c9b5a48251abccea",
-    "source_id": "nk-social",
-    "company_name": "科锐国际",
-    "title": "前端工程师开发工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/240655?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-22T04:37:01.400640+00:00",
     "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "archived_at": "2026-10-23T04:43:16.855087+00:00",
@@ -7476,18 +7536,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "f6122bfe9806f552",
-    "source_id": "nk-social",
-    "company_name": "图知天下",
-    "title": "项目经理",
-    "location": "济南",
-    "official_url": "https://www.nowcoder.com/jobs/detail/464592?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-11T04:34:50.996476+00:00",
-    "last_seen": "2026-09-11T04:34:50.996476+00:00",
-    "archived_at": "2026-09-12T04:30:00.219652+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "5a8440ea567806a9",
     "source_id": "nk-social",
     "company_name": "深圳市才硕企业管理顾问有限公司",
@@ -7506,18 +7554,6 @@
     "title": "企业咨询大客户经理+入职即享15天超长带薪年假+提供住宿",
     "location": "上海",
     "official_url": "https://www.nowcoder.com/jobs/detail/447267?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-11T04:34:50.996476+00:00",
-    "last_seen": "2026-09-11T04:34:50.996476+00:00",
-    "archived_at": "2026-09-12T04:30:00.219652+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "46b05bb96c5d0fec",
-    "source_id": "nk-social",
-    "company_name": "图知天下",
-    "title": "销售经理（能源电力方向）",
-    "location": "西安",
-    "official_url": "https://www.nowcoder.com/jobs/detail/377436?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-09-11T04:34:50.996476+00:00",
     "last_seen": "2026-09-11T04:34:50.996476+00:00",
     "archived_at": "2026-09-12T04:30:00.219652+00:00",
@@ -8262,18 +8298,6 @@
     "title": "科技管理部信息化运维岗",
     "location": "乌鲁木齐-头屯河区",
     "official_url": "https://www.iguopin.com/job/detail?id=217190328988337134",
-    "first_seen": "2026-09-08T04:30:14.639110+00:00",
-    "last_seen": "2026-09-08T04:30:14.639110+00:00",
-    "archived_at": "2026-09-09T04:36:50.699488+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "c1578010185e1564",
-    "source_id": "nk-social",
-    "company_name": "科锐国际",
-    "title": "Java开发工程师",
-    "location": "武汉",
-    "official_url": "https://www.nowcoder.com/jobs/detail/271998?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-09-08T04:30:14.639110+00:00",
     "last_seen": "2026-09-08T04:30:14.639110+00:00",
     "archived_at": "2026-09-09T04:36:50.699488+00:00",
