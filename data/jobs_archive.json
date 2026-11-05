@@ -1,5 +1,77 @@
 [
   {
+    "dedup_key": "6de5911e8e8cb8f6",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "产品经理",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/363056?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-02T05:55:49.197974+00:00",
+    "last_seen": "2026-11-04T06:08:55.983851+00:00",
+    "archived_at": "2026-11-05T06:37:55.110069+00:00",
+    "match_score": 47
+  },
+  {
+    "dedup_key": "bfd724c74b3ebdaf",
+    "source_id": "cn-iguopin",
+    "company_name": "上海中远海运资讯科技有限公司",
+    "title": "架构设计与项目开发岗（AI平台架构师）",
+    "location": "上海-静安区",
+    "official_url": "https://www.iguopin.com/job/detail?id=212663505063510147",
+    "first_seen": "2026-11-04T06:08:55.983851+00:00",
+    "last_seen": "2026-11-04T06:08:55.983851+00:00",
+    "archived_at": "2026-11-05T06:37:55.110069+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "0b4c468f0d497c23",
+    "source_id": "cn-iguopin",
+    "company_name": "上海中远海运资讯科技有限公司",
+    "title": "数据科学家 （大模型方向）",
+    "location": "上海-静安区",
+    "official_url": "https://www.iguopin.com/job/detail?id=212655494832062585",
+    "first_seen": "2026-11-04T06:08:55.983851+00:00",
+    "last_seen": "2026-11-04T06:08:55.983851+00:00",
+    "archived_at": "2026-11-05T06:37:55.110069+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "03152c1a82101028",
+    "source_id": "cn-iguopin",
+    "company_name": "国投（北京）科技创新有限公司",
+    "title": "IM即时通讯开发工程师（深圳）",
+    "location": "深圳-福田区",
+    "official_url": "https://www.iguopin.com/job/detail?id=212663198543773825",
+    "first_seen": "2026-10-27T04:57:38.608135+00:00",
+    "last_seen": "2026-11-04T06:08:55.983851+00:00",
+    "archived_at": "2026-11-05T06:37:55.110069+00:00",
+    "match_score": 50
+  },
+  {
+    "dedup_key": "835af31189ba0d33",
+    "source_id": "cn-iguopin",
+    "company_name": "中电科海洋信息技术研究院有限公司",
+    "title": "后端开发工程师",
+    "location": "陵水 / 海口-美兰区",
+    "official_url": "https://www.iguopin.com/job/detail?id=212693413051498827",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-11-04T06:08:55.983851+00:00",
+    "archived_at": "2026-11-05T06:37:55.110069+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "9b866b1d06544529",
+    "source_id": "cn-iguopin",
+    "company_name": "中电科海洋信息技术研究院有限公司",
+    "title": "前端开发工程师",
+    "location": "陵水 / 海口-美兰区",
+    "official_url": "https://www.iguopin.com/job/detail?id=212693473415922026",
+    "first_seen": "2026-10-28T05:33:44.975556+00:00",
+    "last_seen": "2026-11-04T06:08:55.983851+00:00",
+    "archived_at": "2026-11-05T06:37:55.110069+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "bb6c5f2b4b7599c5",
     "source_id": "cn-iguopin",
     "company_name": "中国数联物流信息有限公司",
@@ -574,18 +646,6 @@
     "last_seen": "2026-10-31T05:33:00.865508+00:00",
     "archived_at": "2026-11-01T05:56:13.600090+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "6de5911e8e8cb8f6",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "产品经理",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/363056?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-26T04:40:13.675493+00:00",
-    "last_seen": "2026-10-30T05:40:57.942716+00:00",
-    "archived_at": "2026-10-31T05:33:00.865508+00:00",
-    "match_score": 47
   },
   {
     "dedup_key": "c5ad499205d1750e",
@@ -4435,30 +4495,6 @@
     "location": "上海",
     "official_url": "https://www.iguopin.com/job/detail?id=217301495979181215",
     "first_seen": "2026-09-21T04:50:28.263886+00:00",
-    "last_seen": "2026-09-21T04:50:28.263886+00:00",
-    "archived_at": "2026-09-22T04:49:35.401647+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "bfd724c74b3ebdaf",
-    "source_id": "cn-iguopin",
-    "company_name": "上海中远海运资讯科技有限公司",
-    "title": "架构设计与项目开发岗（AI平台架构师）",
-    "location": "上海-静安区",
-    "official_url": "https://www.iguopin.com/job/detail?id=212663505063510147",
-    "first_seen": "2026-09-19T04:33:32.054232+00:00",
-    "last_seen": "2026-09-21T04:50:28.263886+00:00",
-    "archived_at": "2026-09-22T04:49:35.401647+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "0b4c468f0d497c23",
-    "source_id": "cn-iguopin",
-    "company_name": "上海中远海运资讯科技有限公司",
-    "title": "数据科学家 （大模型方向）",
-    "location": "上海-静安区",
-    "official_url": "https://www.iguopin.com/job/detail?id=212655494832062585",
-    "first_seen": "2026-09-19T04:33:32.054232+00:00",
     "last_seen": "2026-09-21T04:50:28.263886+00:00",
     "archived_at": "2026-09-22T04:49:35.401647+00:00",
     "match_score": 0
