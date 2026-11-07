@@ -1,5 +1,17 @@
 [
   {
+    "dedup_key": "54c15b87137d4847",
+    "source_id": "cn-iguopin",
+    "company_name": "中国东方电气集团有限公司",
+    "title": "机器学习与数值模拟工程师",
+    "location": "杭州-余杭区",
+    "official_url": "https://www.iguopin.com/job/detail?id=191496182520875885",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-11-06T06:33:51.565861+00:00",
+    "archived_at": "2026-11-07T05:52:57.380858+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "e08ed34093897980",
     "source_id": "cn-iguopin",
     "company_name": "中国数联物流信息有限公司",
