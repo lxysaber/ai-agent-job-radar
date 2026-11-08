@@ -1,5 +1,113 @@
 [
   {
+    "dedup_key": "bb6c5f2b4b7599c5",
+    "source_id": "cn-iguopin",
+    "company_name": "中国数联物流信息有限公司",
+    "title": "综合组员工岗",
+    "location": "天津",
+    "official_url": "https://www.iguopin.com/job/detail?id=209208149700248475",
+    "first_seen": "2026-11-05T06:37:55.110069+00:00",
+    "last_seen": "2026-11-07T05:52:57.380858+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "4775ac8aab9b653d",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "感知算法工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/354326?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-06T06:33:51.565861+00:00",
+    "last_seen": "2026-11-06T06:33:51.565861+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 62
+  },
+  {
+    "dedup_key": "73dd062f5ca1b8eb",
+    "source_id": "nk-social",
+    "company_name": "dépow",
+    "title": "3D建模渲染师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/459266?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-06T06:33:51.565861+00:00",
+    "last_seen": "2026-11-06T06:33:51.565861+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 20
+  },
+  {
+    "dedup_key": "8c0d07151ca00cfb",
+    "source_id": "nk-social",
+    "company_name": "dépow",
+    "title": "亚马逊运营（研产销一体/新能源充电桩）",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/449926?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-06T06:33:51.565861+00:00",
+    "last_seen": "2026-11-06T06:33:51.565861+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 58
+  },
+  {
+    "dedup_key": "8da77832c09f462f",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "急招Java开发（年薪20-50W线上面试）",
+    "location": "成都",
+    "official_url": "https://www.nowcoder.com/jobs/detail/328470?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-06T06:33:51.565861+00:00",
+    "last_seen": "2026-11-06T06:33:51.565861+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "7cb38c96d5bb2155",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "端到端算法工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/463486?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-06T06:33:51.565861+00:00",
+    "last_seen": "2026-11-06T06:33:51.565861+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 62
+  },
+  {
+    "dedup_key": "cf6ac945f4974053",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "python开发",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/468504?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-06T06:33:51.565861+00:00",
+    "last_seen": "2026-11-06T06:33:51.565861+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "70c7bb8db4acb51e",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司北京分公司",
+    "title": "软件开发工程师",
+    "location": "成都",
+    "official_url": "https://www.nowcoder.com/jobs/detail/397606?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-06T06:33:51.565861+00:00",
+    "last_seen": "2026-11-06T06:33:51.565861+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "44f4788f97c98809",
+    "source_id": "cn-iguopin",
+    "company_name": "中国东方电气集团有限公司",
+    "title": "机电及机械一体化研发工程师",
+    "location": "杭州-余杭区",
+    "official_url": "https://www.iguopin.com/job/detail?id=191494245473848186",
+    "first_seen": "2026-10-15T04:31:48.713414+00:00",
+    "last_seen": "2026-11-07T05:52:57.380858+00:00",
+    "archived_at": "2026-11-08T05:54:56.313959+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "54c15b87137d4847",
     "source_id": "cn-iguopin",
     "company_name": "中国东方电气集团有限公司",
@@ -261,18 +369,6 @@
     "first_seen": "2026-10-28T05:33:44.975556+00:00",
     "last_seen": "2026-11-04T06:08:55.983851+00:00",
     "archived_at": "2026-11-05T06:37:55.110069+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "bb6c5f2b4b7599c5",
-    "source_id": "cn-iguopin",
-    "company_name": "中国数联物流信息有限公司",
-    "title": "综合组员工岗",
-    "location": "天津",
-    "official_url": "https://www.iguopin.com/job/detail?id=209208149700248475",
-    "first_seen": "2026-11-03T06:41:27.174681+00:00",
-    "last_seen": "2026-11-03T06:41:27.174681+00:00",
-    "archived_at": "2026-11-04T06:08:55.983851+00:00",
     "match_score": 0
   },
   {
@@ -972,18 +1068,6 @@
     "match_score": 72
   },
   {
-    "dedup_key": "4775ac8aab9b653d",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "感知算法工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/354326?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-27T04:57:38.608135+00:00",
-    "last_seen": "2026-10-28T05:33:44.975556+00:00",
-    "archived_at": "2026-10-29T05:41:25.819502+00:00",
-    "match_score": 62
-  },
-  {
     "dedup_key": "7ab374ce9b24e339",
     "source_id": "nk-social",
     "company_name": "沃孚信息科技（广州）有限公司",
@@ -1498,18 +1582,6 @@
     "last_seen": "2026-10-22T04:37:01.400640+00:00",
     "archived_at": "2026-10-23T04:43:16.855087+00:00",
     "match_score": 94
-  },
-  {
-    "dedup_key": "73dd062f5ca1b8eb",
-    "source_id": "nk-social",
-    "company_name": "dépow",
-    "title": "3D建模渲染师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/459266?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-22T04:37:01.400640+00:00",
-    "last_seen": "2026-10-22T04:37:01.400640+00:00",
-    "archived_at": "2026-10-23T04:43:16.855087+00:00",
-    "match_score": 20
   },
   {
     "dedup_key": "145e492986c1e7f1",
@@ -3048,18 +3120,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "8c0d07151ca00cfb",
-    "source_id": "nk-social",
-    "company_name": "dépow",
-    "title": "亚马逊运营（研产销一体/新能源充电桩）",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/449926?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-10T05:46:08.121101+00:00",
-    "last_seen": "2026-10-10T05:46:08.121101+00:00",
-    "archived_at": "2026-10-11T05:40:44.840885+00:00",
-    "match_score": 58
-  },
-  {
     "dedup_key": "84450268dd762e1a",
     "source_id": "cn-iguopin",
     "company_name": "凯盛数智信息技术科技（上海）有限公司",
@@ -3561,18 +3621,6 @@
     "first_seen": "2026-09-28T05:17:55.357718+00:00",
     "last_seen": "2026-09-28T05:17:55.357718+00:00",
     "archived_at": "2026-09-29T05:39:31.448560+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "8da77832c09f462f",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "急招Java开发（年薪20-50W线上面试）",
-    "location": "成都",
-    "official_url": "https://www.nowcoder.com/jobs/detail/328470?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-27T05:14:11.000089+00:00",
-    "last_seen": "2026-09-27T05:14:11.000089+00:00",
-    "archived_at": "2026-09-28T05:17:55.357718+00:00",
     "match_score": 0
   },
   {
@@ -7918,18 +7966,6 @@
     "last_seen": "2026-09-11T04:34:50.996476+00:00",
     "archived_at": "2026-09-12T04:30:00.219652+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "7cb38c96d5bb2155",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "端到端算法工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/463486?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-11T04:34:50.996476+00:00",
-    "last_seen": "2026-09-11T04:34:50.996476+00:00",
-    "archived_at": "2026-09-12T04:30:00.219652+00:00",
-    "match_score": 62
   },
   {
     "dedup_key": "e6b50e5ba3b8b233",
