@@ -1,5 +1,101 @@
 [
   {
+    "dedup_key": "d246a15a42d08bc4",
+    "source_id": "nk-social",
+    "company_name": "北京小港科技",
+    "title": "初级产品经理",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/302292?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-08T05:54:56.313959+00:00",
+    "last_seen": "2026-11-08T05:54:56.313959+00:00",
+    "archived_at": "2026-11-09T06:16:33.519847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "8d9d8823c5ecb129",
+    "source_id": "nk-social",
+    "company_name": "TT语音",
+    "title": "Agent 应用开发工程师（AI 社交方向）",
+    "location": "广州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/466818?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-08T05:54:56.313959+00:00",
+    "last_seen": "2026-11-08T05:54:56.313959+00:00",
+    "archived_at": "2026-11-09T06:16:33.519847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "fb287c840bc33bba",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（线上面试）",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310683?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-08T05:54:56.313959+00:00",
+    "last_seen": "2026-11-08T05:54:56.313959+00:00",
+    "archived_at": "2026-11-09T06:16:33.519847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "035460d7b985a729",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（线上面试）",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310682?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-08T05:54:56.313959+00:00",
+    "last_seen": "2026-11-08T05:54:56.313959+00:00",
+    "archived_at": "2026-11-09T06:16:33.519847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "3efcadd7f4c76414",
+    "source_id": "nk-social",
+    "company_name": "招商银行·招银网络科技",
+    "title": "HRBP岗",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/382540?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-08T05:54:56.313959+00:00",
+    "last_seen": "2026-11-08T05:54:56.313959+00:00",
+    "archived_at": "2026-11-09T06:16:33.519847+00:00",
+    "match_score": 40
+  },
+  {
+    "dedup_key": "cb0d97ce72c886b7",
+    "source_id": "nk-social",
+    "company_name": "吉林省天麒信息工程有限公司",
+    "title": "运维工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/402054?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-06T06:33:51.565861+00:00",
+    "last_seen": "2026-11-08T05:54:56.313959+00:00",
+    "archived_at": "2026-11-09T06:16:33.519847+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "50c2fb546a3be0ed",
+    "source_id": "nk-social",
+    "company_name": "招商银行·招银网络科技",
+    "title": "Java软件开发工程",
+    "location": "成都",
+    "official_url": "https://www.nowcoder.com/jobs/detail/300780?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-08T05:54:56.313959+00:00",
+    "last_seen": "2026-11-08T05:54:56.313959+00:00",
+    "archived_at": "2026-11-09T06:16:33.519847+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "3b650b3f4246e0da",
+    "source_id": "nk-social",
+    "company_name": "TT语音",
+    "title": "测试开发工程师（ai质量）",
+    "location": "广州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/467919?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-08T05:54:56.313959+00:00",
+    "last_seen": "2026-11-08T05:54:56.313959+00:00",
+    "archived_at": "2026-11-09T06:16:33.519847+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "bb6c5f2b4b7599c5",
     "source_id": "cn-iguopin",
     "company_name": "中国数联物流信息有限公司",
@@ -126,18 +222,6 @@
     "title": "数据产品与解决方案岗",
     "location": "天津",
     "official_url": "https://www.iguopin.com/job/detail?id=209210227071910814",
-    "first_seen": "2026-11-05T06:37:55.110069+00:00",
-    "last_seen": "2026-11-05T06:37:55.110069+00:00",
-    "archived_at": "2026-11-06T06:33:51.565861+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "d246a15a42d08bc4",
-    "source_id": "nk-social",
-    "company_name": "北京小港科技",
-    "title": "初级产品经理",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/302292?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-11-05T06:37:55.110069+00:00",
     "last_seen": "2026-11-05T06:37:55.110069+00:00",
     "archived_at": "2026-11-06T06:33:51.565861+00:00",
@@ -720,18 +804,6 @@
     "match_score": 10
   },
   {
-    "dedup_key": "8d9d8823c5ecb129",
-    "source_id": "nk-social",
-    "company_name": "TT语音",
-    "title": "Agent 应用开发工程师（AI 社交方向）",
-    "location": "广州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/466818?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-31T05:33:00.865508+00:00",
-    "last_seen": "2026-10-31T05:33:00.865508+00:00",
-    "archived_at": "2026-11-01T05:56:13.600090+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "bf972b619aed5dcf",
     "source_id": "nk-social",
     "company_name": "河南路政商业运营服务有限公司",
@@ -1026,18 +1098,6 @@
     "title": "前端工程师（线上面试）",
     "location": "南京",
     "official_url": "https://www.nowcoder.com/jobs/detail/310684?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-29T05:41:25.819502+00:00",
-    "last_seen": "2026-10-29T05:41:25.819502+00:00",
-    "archived_at": "2026-10-30T05:40:57.942716+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "fb287c840bc33bba",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（线上面试）",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310683?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-29T05:41:25.819502+00:00",
     "last_seen": "2026-10-29T05:41:25.819502+00:00",
     "archived_at": "2026-10-30T05:40:57.942716+00:00",
@@ -3285,18 +3345,6 @@
     "first_seen": "2026-10-07T05:53:02.947025+00:00",
     "last_seen": "2026-10-07T05:53:02.947025+00:00",
     "archived_at": "2026-10-08T05:56:58.629133+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "035460d7b985a729",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（线上面试）",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310682?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-06T06:15:08.550795+00:00",
-    "last_seen": "2026-10-06T06:15:08.550795+00:00",
-    "archived_at": "2026-10-07T05:53:02.947025+00:00",
     "match_score": 0
   },
   {
