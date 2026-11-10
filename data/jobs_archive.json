@@ -1,5 +1,125 @@
 [
   {
+    "dedup_key": "4c0eef0bc95aed03",
+    "source_id": "nk-social",
+    "company_name": "数坤科技",
+    "title": "大模型高级算法工程师",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/386957?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "7a631e32fe982c17",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "预测规划算法工程师工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/392657?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 62
+  },
+  {
+    "dedup_key": "7ab374ce9b24e339",
+    "source_id": "nk-social",
+    "company_name": "沃孚信息科技（广州）有限公司",
+    "title": "Java服务端开发工程师",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/459677?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "59a9df6aff9a0efa",
+    "source_id": "nk-social",
+    "company_name": "京鑫工程",
+    "title": "规划设计工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/400024?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "d35f8616cbdb504f",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "后端开发（java C++ python C）",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/474284?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 56
+  },
+  {
+    "dedup_key": "e99f04e5a4fe9c6f",
+    "source_id": "cn-iguopin",
+    "company_name": "中国移动通信集团北京有限公司",
+    "title": "政企解决方案经理-政企客户部",
+    "location": "北京",
+    "official_url": "https://www.iguopin.com/job/detail?id=213410625731166246",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "8d6ed2ab0dd76195",
+    "source_id": "cn-iguopin",
+    "company_name": "中国移动通信集团北京有限公司",
+    "title": "政企解决方案经理-数字政府战略客户中心",
+    "location": "北京-东城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=213410669452591142",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "bbe6fed96e6f741b",
+    "source_id": "nk-social",
+    "company_name": "上海泰兰特企业管理咨询有限公司",
+    "title": "数字集成电路设计",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/373554?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "1ce0e55b48a6a761",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "Java开发工程师",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/306893?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "da9ad888b39f1066",
+    "source_id": "nk-social",
+    "company_name": "上海泰兰特企业管理咨询有限公司",
+    "title": "模拟设计（PLL）",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/399616?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-09T06:16:33.519847+00:00",
+    "archived_at": "2026-11-10T07:10:31.670673+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "d246a15a42d08bc4",
     "source_id": "nk-social",
     "company_name": "北京小港科技",
@@ -288,18 +408,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "4c0eef0bc95aed03",
-    "source_id": "nk-social",
-    "company_name": "数坤科技",
-    "title": "大模型高级算法工程师",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/386957?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-05T06:37:55.110069+00:00",
-    "last_seen": "2026-11-05T06:37:55.110069+00:00",
-    "archived_at": "2026-11-06T06:33:51.565861+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "0155af7fe36328c4",
     "source_id": "nk-social",
     "company_name": "上海科之锐人才咨询有限公司",
@@ -310,18 +418,6 @@
     "last_seen": "2026-11-05T06:37:55.110069+00:00",
     "archived_at": "2026-11-06T06:33:51.565861+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "7a631e32fe982c17",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "预测规划算法工程师工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/392657?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-05T06:37:55.110069+00:00",
-    "last_seen": "2026-11-05T06:37:55.110069+00:00",
-    "archived_at": "2026-11-06T06:33:51.565861+00:00",
-    "match_score": 62
   },
   {
     "dedup_key": "b355289bad871509",
@@ -1126,18 +1222,6 @@
     "last_seen": "2026-10-29T05:41:25.819502+00:00",
     "archived_at": "2026-10-30T05:40:57.942716+00:00",
     "match_score": 72
-  },
-  {
-    "dedup_key": "7ab374ce9b24e339",
-    "source_id": "nk-social",
-    "company_name": "沃孚信息科技（广州）有限公司",
-    "title": "Java服务端开发工程师",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/459677?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-28T05:33:44.975556+00:00",
-    "last_seen": "2026-10-28T05:33:44.975556+00:00",
-    "archived_at": "2026-10-29T05:41:25.819502+00:00",
-    "match_score": 0
   },
   {
     "dedup_key": "8eb49563a8fcec7e",
@@ -5074,18 +5158,6 @@
     "last_seen": "2026-09-20T04:50:34.419012+00:00",
     "archived_at": "2026-09-21T04:50:28.263886+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "59a9df6aff9a0efa",
-    "source_id": "nk-social",
-    "company_name": "京鑫工程",
-    "title": "规划设计工程师",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/400024?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-19T04:33:32.054232+00:00",
-    "last_seen": "2026-09-19T04:33:32.054232+00:00",
-    "archived_at": "2026-09-20T04:50:34.419012+00:00",
-    "match_score": 10
   },
   {
     "dedup_key": "038e6a404491a11e",
