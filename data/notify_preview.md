@@ -5,7 +5,7 @@
 
 信息台：https://lxysaber.github.io/ai-agent-job-radar/
 
-线索池：牛客待审核 106 条；信源需关注 6 个。
+线索池：牛客待审核 106 条；信源需关注 7 个。
 
 ## 新增 AI Agent/应用岗位
 - 暂无
