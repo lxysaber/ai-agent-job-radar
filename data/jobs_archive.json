@@ -1,5 +1,17 @@
 [
   {
+    "dedup_key": "59a9df6aff9a0efa",
+    "source_id": "nk-social",
+    "company_name": "京鑫工程",
+    "title": "规划设计工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/400024?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-11T06:05:41.561663+00:00",
+    "last_seen": "2026-11-11T06:05:41.561663+00:00",
+    "archived_at": "2026-11-12T07:04:12.051074+00:00",
+    "match_score": 10
+  },
+  {
     "dedup_key": "3909bdf3e0fdf877",
     "source_id": "nk-social",
     "company_name": "无线互联",
@@ -130,18 +142,6 @@
     "last_seen": "2026-11-09T06:16:33.519847+00:00",
     "archived_at": "2026-11-10T07:10:31.670673+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "59a9df6aff9a0efa",
-    "source_id": "nk-social",
-    "company_name": "京鑫工程",
-    "title": "规划设计工程师",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/400024?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-09T06:16:33.519847+00:00",
-    "last_seen": "2026-11-09T06:16:33.519847+00:00",
-    "archived_at": "2026-11-10T07:10:31.670673+00:00",
-    "match_score": 10
   },
   {
     "dedup_key": "d35f8616cbdb504f",
