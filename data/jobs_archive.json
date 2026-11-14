@@ -1,5 +1,89 @@
 [
   {
+    "dedup_key": "3909bdf3e0fdf877",
+    "source_id": "nk-social",
+    "company_name": "无线互联",
+    "title": "短视频编导 & 账号运营",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/471848?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-12T07:04:12.051074+00:00",
+    "last_seen": "2026-11-12T07:04:12.051074+00:00",
+    "archived_at": "2026-11-14T06:12:25.971662+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "d65262be53f3a4eb",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "软件工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/395739?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-10T07:10:31.670673+00:00",
+    "last_seen": "2026-11-12T07:04:12.051074+00:00",
+    "archived_at": "2026-11-14T06:12:25.971662+00:00",
+    "match_score": 52
+  },
+  {
+    "dedup_key": "0155af7fe36328c4",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（14薪）",
+    "location": "西安",
+    "official_url": "https://www.nowcoder.com/jobs/detail/309682?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-12T07:04:12.051074+00:00",
+    "last_seen": "2026-11-12T07:04:12.051074+00:00",
+    "archived_at": "2026-11-14T06:12:25.971662+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "6de5911e8e8cb8f6",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "产品经理",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/363056?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-09T06:16:33.519847+00:00",
+    "last_seen": "2026-11-12T07:04:12.051074+00:00",
+    "archived_at": "2026-11-14T06:12:25.971662+00:00",
+    "match_score": 47
+  },
+  {
+    "dedup_key": "f6122bfe9806f552",
+    "source_id": "nk-social",
+    "company_name": "图知天下",
+    "title": "项目经理",
+    "location": "济南",
+    "official_url": "https://www.nowcoder.com/jobs/detail/464592?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-12T07:04:12.051074+00:00",
+    "last_seen": "2026-11-12T07:04:12.051074+00:00",
+    "archived_at": "2026-11-14T06:12:25.971662+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "7c40de7962769fed",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "测试 （高薪 双休）",
+    "location": "武汉",
+    "official_url": "https://www.nowcoder.com/jobs/detail/309701?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-12T07:04:12.051074+00:00",
+    "last_seen": "2026-11-12T07:04:12.051074+00:00",
+    "archived_at": "2026-11-14T06:12:25.971662+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "738d7502f099a678",
+    "source_id": "nk-social",
+    "company_name": "腾娱互动",
+    "title": "光环-和平精英-3D场景建筑设计师（成都",
+    "location": "成都",
+    "official_url": "https://www.nowcoder.com/jobs/detail/475277?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-12T07:04:12.051074+00:00",
+    "last_seen": "2026-11-12T07:04:12.051074+00:00",
+    "archived_at": "2026-11-14T06:12:25.971662+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "59a9df6aff9a0efa",
     "source_id": "nk-social",
     "company_name": "京鑫工程",
@@ -10,18 +94,6 @@
     "last_seen": "2026-11-11T06:05:41.561663+00:00",
     "archived_at": "2026-11-12T07:04:12.051074+00:00",
     "match_score": 10
-  },
-  {
-    "dedup_key": "3909bdf3e0fdf877",
-    "source_id": "nk-social",
-    "company_name": "无线互联",
-    "title": "短视频编导 & 账号运营",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/471848?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-10T07:10:31.670673+00:00",
-    "last_seen": "2026-11-10T07:10:31.670673+00:00",
-    "archived_at": "2026-11-11T06:05:41.561663+00:00",
-    "match_score": 0
   },
   {
     "dedup_key": "1685b54b1bb914b2",
@@ -456,18 +528,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "d65262be53f3a4eb",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "软件工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/395739?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-02T05:55:49.197974+00:00",
-    "last_seen": "2026-11-05T06:37:55.110069+00:00",
-    "archived_at": "2026-11-06T06:33:51.565861+00:00",
-    "match_score": 52
-  },
-  {
     "dedup_key": "840fe0b4692ddb64",
     "source_id": "cn-iguopin",
     "company_name": "中国数联物流信息有限公司",
@@ -486,18 +546,6 @@
     "title": "AI视频产品经理",
     "location": "杭州",
     "official_url": "https://www.nowcoder.com/jobs/detail/392100?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-05T06:37:55.110069+00:00",
-    "last_seen": "2026-11-05T06:37:55.110069+00:00",
-    "archived_at": "2026-11-06T06:33:51.565861+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "0155af7fe36328c4",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（14薪）",
-    "location": "西安",
-    "official_url": "https://www.nowcoder.com/jobs/detail/309682?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-11-05T06:37:55.110069+00:00",
     "last_seen": "2026-11-05T06:37:55.110069+00:00",
     "archived_at": "2026-11-06T06:33:51.565861+00:00",
@@ -550,18 +598,6 @@
     "last_seen": "2026-11-05T06:37:55.110069+00:00",
     "archived_at": "2026-11-06T06:33:51.565861+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "6de5911e8e8cb8f6",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "产品经理",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/363056?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-02T05:55:49.197974+00:00",
-    "last_seen": "2026-11-04T06:08:55.983851+00:00",
-    "archived_at": "2026-11-05T06:37:55.110069+00:00",
-    "match_score": 47
   },
   {
     "dedup_key": "bfd724c74b3ebdaf",
@@ -1378,18 +1414,6 @@
     "last_seen": "2026-10-26T04:40:13.675493+00:00",
     "archived_at": "2026-10-27T04:57:38.608135+00:00",
     "match_score": 20
-  },
-  {
-    "dedup_key": "f6122bfe9806f552",
-    "source_id": "nk-social",
-    "company_name": "图知天下",
-    "title": "项目经理",
-    "location": "济南",
-    "official_url": "https://www.nowcoder.com/jobs/detail/464592?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-26T04:40:13.675493+00:00",
-    "last_seen": "2026-10-26T04:40:13.675493+00:00",
-    "archived_at": "2026-10-27T04:57:38.608135+00:00",
-    "match_score": 0
   },
   {
     "dedup_key": "c1578010185e1564",
@@ -5191,18 +5215,6 @@
     "location": "北京",
     "official_url": "https://www.iguopin.com/job/detail?id=218506835416580281",
     "first_seen": "2026-09-17T04:48:18.057512+00:00",
-    "last_seen": "2026-09-20T04:50:34.419012+00:00",
-    "archived_at": "2026-09-21T04:50:28.263886+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "7c40de7962769fed",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "测试 （高薪 双休）",
-    "location": "武汉",
-    "official_url": "https://www.nowcoder.com/jobs/detail/309701?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-09-20T04:50:34.419012+00:00",
     "last_seen": "2026-09-20T04:50:34.419012+00:00",
     "archived_at": "2026-09-21T04:50:28.263886+00:00",
     "match_score": 0
