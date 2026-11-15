@@ -1,5 +1,53 @@
 [
   {
+    "dedup_key": "b9703512ca2a2395",
+    "source_id": "nk-social",
+    "company_name": "齐博法律贵州分公司",
+    "title": "贷后管理专员",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/452180?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-14T06:12:25.971662+00:00",
+    "last_seen": "2026-11-14T06:12:25.971662+00:00",
+    "archived_at": "2026-11-15T06:19:56.557401+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "7c40d2d9e4d9472f",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "前端工程师（线上面试）",
+    "location": "南京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310684?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-14T06:12:25.971662+00:00",
+    "last_seen": "2026-11-14T06:12:25.971662+00:00",
+    "archived_at": "2026-11-15T06:19:56.557401+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "d7c7d7698a6978e2",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（线上面试）",
+    "location": "成都",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310681?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-14T06:12:25.971662+00:00",
+    "last_seen": "2026-11-14T06:12:25.971662+00:00",
+    "archived_at": "2026-11-15T06:19:56.557401+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "1125e0a566cb9234",
+    "source_id": "cn-iguopin",
+    "company_name": "中国能源建设集团广东火电工程有限公司",
+    "title": "法务",
+    "location": "广州-黄埔区",
+    "official_url": "https://www.iguopin.com/job/detail?id=214134269117727636",
+    "first_seen": "2026-10-26T04:40:13.675493+00:00",
+    "last_seen": "2026-11-14T06:12:25.971662+00:00",
+    "archived_at": "2026-11-15T06:19:56.557401+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "3909bdf3e0fdf877",
     "source_id": "nk-social",
     "company_name": "无线互联",
@@ -984,18 +1032,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "b9703512ca2a2395",
-    "source_id": "nk-social",
-    "company_name": "齐博法律贵州分公司",
-    "title": "贷后管理专员",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/452180?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-31T05:33:00.865508+00:00",
-    "last_seen": "2026-10-31T05:33:00.865508+00:00",
-    "archived_at": "2026-11-01T05:56:13.600090+00:00",
-    "match_score": 10
-  },
-  {
     "dedup_key": "43edf0620196b605",
     "source_id": "nk-social",
     "company_name": "衡阳镭目科技",
@@ -1293,18 +1329,6 @@
     "first_seen": "2026-10-30T05:40:57.942716+00:00",
     "last_seen": "2026-10-30T05:40:57.942716+00:00",
     "archived_at": "2026-10-31T05:33:00.865508+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "7c40d2d9e4d9472f",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "前端工程师（线上面试）",
-    "location": "南京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310684?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-29T05:41:25.819502+00:00",
-    "last_seen": "2026-10-29T05:41:25.819502+00:00",
-    "archived_at": "2026-10-30T05:40:57.942716+00:00",
     "match_score": 0
   },
   {
@@ -3582,18 +3606,6 @@
     "title": "Java开发工程师（线上面试）",
     "location": "杭州",
     "official_url": "https://www.nowcoder.com/jobs/detail/310679?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-05T05:32:56.162194+00:00",
-    "last_seen": "2026-10-05T05:32:56.162194+00:00",
-    "archived_at": "2026-10-06T06:15:08.550795+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "d7c7d7698a6978e2",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（线上面试）",
-    "location": "成都",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310681?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-05T05:32:56.162194+00:00",
     "last_seen": "2026-10-05T05:32:56.162194+00:00",
     "archived_at": "2026-10-06T06:15:08.550795+00:00",
