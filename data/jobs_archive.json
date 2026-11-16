@@ -1,5 +1,53 @@
 [
   {
+    "dedup_key": "59a9df6aff9a0efa",
+    "source_id": "nk-social",
+    "company_name": "京鑫工程",
+    "title": "规划设计工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/400024?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-15T06:19:56.557401+00:00",
+    "last_seen": "2026-11-15T06:19:56.557401+00:00",
+    "archived_at": "2026-11-16T06:19:13.475859+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "fb287c840bc33bba",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（线上面试）",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310683?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-15T06:19:56.557401+00:00",
+    "last_seen": "2026-11-15T06:19:56.557401+00:00",
+    "archived_at": "2026-11-16T06:19:13.475859+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "035460d7b985a729",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（线上面试）",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310682?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-15T06:19:56.557401+00:00",
+    "last_seen": "2026-11-15T06:19:56.557401+00:00",
+    "archived_at": "2026-11-16T06:19:13.475859+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "957d952aa093008f",
+    "source_id": "cn-iguopin",
+    "company_name": "钢研智行（北京）科技有限公司",
+    "title": "仿真建模工程师/算法工程师-仿真建模方向",
+    "location": "北京-海淀区",
+    "official_url": "https://www.iguopin.com/job/detail?id=214288809037136889",
+    "first_seen": "2026-10-28T05:33:44.975556+00:00",
+    "last_seen": "2026-11-15T06:19:56.557401+00:00",
+    "archived_at": "2026-11-16T06:19:13.475859+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "b9703512ca2a2395",
     "source_id": "nk-social",
     "company_name": "齐博法律贵州分公司",
@@ -130,18 +178,6 @@
     "last_seen": "2026-11-12T07:04:12.051074+00:00",
     "archived_at": "2026-11-14T06:12:25.971662+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "59a9df6aff9a0efa",
-    "source_id": "nk-social",
-    "company_name": "京鑫工程",
-    "title": "规划设计工程师",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/400024?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-11T06:05:41.561663+00:00",
-    "last_seen": "2026-11-11T06:05:41.561663+00:00",
-    "archived_at": "2026-11-12T07:04:12.051074+00:00",
-    "match_score": 10
   },
   {
     "dedup_key": "1685b54b1bb914b2",
@@ -354,30 +390,6 @@
     "title": "Agent 应用开发工程师（AI 社交方向）",
     "location": "广州",
     "official_url": "https://www.nowcoder.com/jobs/detail/466818?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-08T05:54:56.313959+00:00",
-    "last_seen": "2026-11-08T05:54:56.313959+00:00",
-    "archived_at": "2026-11-09T06:16:33.519847+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "fb287c840bc33bba",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（线上面试）",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310683?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-08T05:54:56.313959+00:00",
-    "last_seen": "2026-11-08T05:54:56.313959+00:00",
-    "archived_at": "2026-11-09T06:16:33.519847+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "035460d7b985a729",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（线上面试）",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310682?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-11-08T05:54:56.313959+00:00",
     "last_seen": "2026-11-08T05:54:56.313959+00:00",
     "archived_at": "2026-11-09T06:16:33.519847+00:00",
@@ -9450,18 +9462,6 @@
     "title": "新型电力系统技术及产品研发工程师",
     "location": "北京-西城区",
     "official_url": "https://www.iguopin.com/job/detail?id=216464146739233287",
-    "first_seen": "2026-09-03T04:19:03.509466+00:00",
-    "last_seen": "2026-09-06T04:33:14.995424+00:00",
-    "archived_at": "2026-09-07T04:33:57.864836+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "957d952aa093008f",
-    "source_id": "cn-iguopin",
-    "company_name": "钢研智行（北京）科技有限公司",
-    "title": "仿真建模工程师/算法工程师-仿真建模方向",
-    "location": "北京-海淀区",
-    "official_url": "https://www.iguopin.com/job/detail?id=214288809037136889",
     "first_seen": "2026-09-03T04:19:03.509466+00:00",
     "last_seen": "2026-09-06T04:33:14.995424+00:00",
     "archived_at": "2026-09-07T04:33:57.864836+00:00",
