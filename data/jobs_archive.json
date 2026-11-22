@@ -1,5 +1,113 @@
 [
   {
+    "dedup_key": "b9703512ca2a2395",
+    "source_id": "nk-social",
+    "company_name": "齐博法律贵州分公司",
+    "title": "贷后管理专员",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/452180?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "5fd34cde8e9c2cc3",
+    "source_id": "nk-social",
+    "company_name": "同花顺",
+    "title": "AI视频产品经理",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/392100?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "bf972b619aed5dcf",
+    "source_id": "nk-social",
+    "company_name": "河南路政商业运营服务有限公司",
+    "title": "招聘专员 郑州中原区 有五险",
+    "location": "郑州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/442159?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "dcc41d0f24d08e52",
+    "source_id": "nk-social",
+    "company_name": "链家地产",
+    "title": "链家总部招募置业顾问",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/172878?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "374338f233981e77",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "测试工程师",
+    "location": "西安",
+    "official_url": "https://www.nowcoder.com/jobs/detail/309905?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "22c76d34fbfb215c",
+    "source_id": "nk-social",
+    "company_name": "招商银行·招银网络科技",
+    "title": "Java软件开发工程师",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/84031?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "1b1256f50c66073a",
+    "source_id": "nk-social",
+    "company_name": "辽宁泓晖客运服务有限公司",
+    "title": "铁路跟车服务人员+上几休几",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/447505?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "21bf01d6d019b713",
+    "source_id": "cn-iguopin",
+    "company_name": "横琴人才集团有限公司",
+    "title": "产品经理（真健康医疗）",
+    "location": "珠海市-横琴粤澳深度合作区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215123576531977557",
+    "first_seen": "2026-11-01T05:56:13.600090+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "c819216932567551",
+    "source_id": "cn-iguopin",
+    "company_name": "横琴人才集团有限公司",
+    "title": "ICCAD工程师（凌烟阁）",
+    "location": "珠海市-横琴粤澳深度合作区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215123643372406101",
+    "first_seen": "2026-11-17T07:49:23.103924+00:00",
+    "last_seen": "2026-11-21T06:58:43.391802+00:00",
+    "archived_at": "2026-11-22T06:39:05.294765+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "59a9df6aff9a0efa",
     "source_id": "nk-social",
     "company_name": "京鑫工程",
@@ -792,18 +900,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "b9703512ca2a2395",
-    "source_id": "nk-social",
-    "company_name": "齐博法律贵州分公司",
-    "title": "贷后管理专员",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/452180?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-14T06:12:25.971662+00:00",
-    "last_seen": "2026-11-14T06:12:25.971662+00:00",
-    "archived_at": "2026-11-15T06:19:56.557401+00:00",
-    "match_score": 10
-  },
-  {
     "dedup_key": "1125e0a566cb9234",
     "source_id": "cn-iguopin",
     "company_name": "中国能源建设集团广东火电工程有限公司",
@@ -1260,18 +1356,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "5fd34cde8e9c2cc3",
-    "source_id": "nk-social",
-    "company_name": "同花顺",
-    "title": "AI视频产品经理",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/392100?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-05T06:37:55.110069+00:00",
-    "last_seen": "2026-11-05T06:37:55.110069+00:00",
-    "archived_at": "2026-11-06T06:33:51.565861+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "b355289bad871509",
     "source_id": "nk-social",
     "company_name": "上海科之锐人才咨询有限公司",
@@ -1714,18 +1798,6 @@
     "last_seen": "2026-10-31T05:33:00.865508+00:00",
     "archived_at": "2026-11-01T05:56:13.600090+00:00",
     "match_score": 10
-  },
-  {
-    "dedup_key": "bf972b619aed5dcf",
-    "source_id": "nk-social",
-    "company_name": "河南路政商业运营服务有限公司",
-    "title": "招聘专员 郑州中原区 有五险",
-    "location": "郑州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/442159?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-31T05:33:00.865508+00:00",
-    "last_seen": "2026-10-31T05:33:00.865508+00:00",
-    "archived_at": "2026-11-01T05:56:13.600090+00:00",
-    "match_score": 0
   },
   {
     "dedup_key": "579a8854efaf7460",
@@ -2172,18 +2244,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "dcc41d0f24d08e52",
-    "source_id": "nk-social",
-    "company_name": "链家地产",
-    "title": "链家总部招募置业顾问",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/172878?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-25T04:35:00.072362+00:00",
-    "last_seen": "2026-10-25T04:35:00.072362+00:00",
-    "archived_at": "2026-10-26T04:40:13.675493+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "76bc47074457667e",
     "source_id": "cn-iguopin",
     "company_name": "中国移动通信集团北京有限公司",
@@ -2514,18 +2574,6 @@
     "title": "ETL工程师",
     "location": "西安",
     "official_url": "https://www.nowcoder.com/jobs/detail/467391?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-20T04:43:05.826847+00:00",
-    "last_seen": "2026-10-20T04:43:05.826847+00:00",
-    "archived_at": "2026-10-21T04:39:46.127301+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "374338f233981e77",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "测试工程师",
-    "location": "西安",
-    "official_url": "https://www.nowcoder.com/jobs/detail/309905?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-20T04:43:05.826847+00:00",
     "last_seen": "2026-10-20T04:43:05.826847+00:00",
     "archived_at": "2026-10-21T04:39:46.127301+00:00",
@@ -3906,18 +3954,6 @@
     "title": "前端软件开发工程师",
     "location": "杭州",
     "official_url": "https://www.nowcoder.com/jobs/detail/99947?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-11T05:40:44.840885+00:00",
-    "last_seen": "2026-10-11T05:40:44.840885+00:00",
-    "archived_at": "2026-10-12T05:50:43.035544+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "22c76d34fbfb215c",
-    "source_id": "nk-social",
-    "company_name": "招商银行·招银网络科技",
-    "title": "Java软件开发工程师",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/84031?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-10-11T05:40:44.840885+00:00",
     "last_seen": "2026-10-11T05:40:44.840885+00:00",
     "archived_at": "2026-10-12T05:50:43.035544+00:00",
