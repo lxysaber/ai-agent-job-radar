@@ -1,5 +1,89 @@
 [
   {
+    "dedup_key": "15fc9dcba5f34a2e",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "前端开发工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/304099?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-22T06:39:05.294765+00:00",
+    "archived_at": "2026-11-23T07:27:41.694430+00:00",
+    "match_score": 20
+  },
+  {
+    "dedup_key": "d246a15a42d08bc4",
+    "source_id": "nk-social",
+    "company_name": "北京小港科技",
+    "title": "初级产品经理",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/302292?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-22T06:39:05.294765+00:00",
+    "archived_at": "2026-11-23T07:27:41.694430+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "cb0d97ce72c886b7",
+    "source_id": "nk-social",
+    "company_name": "吉林省天麒信息工程有限公司",
+    "title": "运维工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/402054?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-22T06:39:05.294765+00:00",
+    "last_seen": "2026-11-22T06:39:05.294765+00:00",
+    "archived_at": "2026-11-23T07:27:41.694430+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "fb55353e14a0fd4d",
+    "source_id": "nk-social",
+    "company_name": "链家地产",
+    "title": "上市公司 招聘大客户经理离家近收入高上五险一金",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/192300?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-22T06:39:05.294765+00:00",
+    "last_seen": "2026-11-22T06:39:05.294765+00:00",
+    "archived_at": "2026-11-23T07:27:41.694430+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "d12b865a30550885",
+    "source_id": "nk-social",
+    "company_name": "招商银行·招银网络科技",
+    "title": "数仓开发工程师（基础数据模型方向）",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/99953?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-21T06:58:43.391802+00:00",
+    "last_seen": "2026-11-22T06:39:05.294765+00:00",
+    "archived_at": "2026-11-23T07:27:41.694430+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "2aa585ed1d5b544e",
+    "source_id": "nk-social",
+    "company_name": "北京渊澈太初智能科技有限公司",
+    "title": "手部力学传感研究员",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/475853?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-22T06:39:05.294765+00:00",
+    "last_seen": "2026-11-22T06:39:05.294765+00:00",
+    "archived_at": "2026-11-23T07:27:41.694430+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "17a973023634c5ad",
+    "source_id": "nk-social",
+    "company_name": "招商银行·招银网络科技",
+    "title": "测试开发工程师",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/99948?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-22T06:39:05.294765+00:00",
+    "last_seen": "2026-11-22T06:39:05.294765+00:00",
+    "archived_at": "2026-11-23T07:27:41.694430+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "b9703512ca2a2395",
     "source_id": "nk-social",
     "company_name": "齐博法律贵州分公司",
@@ -406,18 +490,6 @@
     "last_seen": "2026-11-18T07:19:40.857090+00:00",
     "archived_at": "2026-11-19T07:16:59.309164+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "15fc9dcba5f34a2e",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "前端开发工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/304099?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-18T07:19:40.857090+00:00",
-    "last_seen": "2026-11-18T07:19:40.857090+00:00",
-    "archived_at": "2026-11-19T07:16:59.309164+00:00",
-    "match_score": 20
   },
   {
     "dedup_key": "3e4db7037341bfbd",
@@ -840,18 +912,6 @@
     "match_score": 52
   },
   {
-    "dedup_key": "d246a15a42d08bc4",
-    "source_id": "nk-social",
-    "company_name": "北京小港科技",
-    "title": "初级产品经理",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/302292?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-12T07:04:12.051074+00:00",
-    "last_seen": "2026-11-16T06:19:13.475859+00:00",
-    "archived_at": "2026-11-18T07:19:40.857090+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "7804b120cb20c2e5",
     "source_id": "nk-social",
     "company_name": "数坤科技",
@@ -1162,18 +1222,6 @@
     "last_seen": "2026-11-08T05:54:56.313959+00:00",
     "archived_at": "2026-11-09T06:16:33.519847+00:00",
     "match_score": 40
-  },
-  {
-    "dedup_key": "cb0d97ce72c886b7",
-    "source_id": "nk-social",
-    "company_name": "吉林省天麒信息工程有限公司",
-    "title": "运维工程师",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/402054?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-06T06:33:51.565861+00:00",
-    "last_seen": "2026-11-08T05:54:56.313959+00:00",
-    "archived_at": "2026-11-09T06:16:33.519847+00:00",
-    "match_score": 10
   },
   {
     "dedup_key": "50c2fb546a3be0ed",
@@ -2073,18 +2121,6 @@
     "first_seen": "2026-10-30T05:40:57.942716+00:00",
     "last_seen": "2026-10-30T05:40:57.942716+00:00",
     "archived_at": "2026-10-31T05:33:00.865508+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "fb55353e14a0fd4d",
-    "source_id": "nk-social",
-    "company_name": "链家地产",
-    "title": "上市公司 招聘大客户经理离家近收入高上五险一金",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/192300?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-29T05:41:25.819502+00:00",
-    "last_seen": "2026-10-29T05:41:25.819502+00:00",
-    "archived_at": "2026-10-30T05:40:57.942716+00:00",
     "match_score": 0
   },
   {
@@ -4161,18 +4197,6 @@
     "first_seen": "2026-10-07T05:53:02.947025+00:00",
     "last_seen": "2026-10-07T05:53:02.947025+00:00",
     "archived_at": "2026-10-08T05:56:58.629133+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "d12b865a30550885",
-    "source_id": "nk-social",
-    "company_name": "招商银行·招银网络科技",
-    "title": "数仓开发工程师（基础数据模型方向）",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/99953?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-06T06:15:08.550795+00:00",
-    "last_seen": "2026-10-06T06:15:08.550795+00:00",
-    "archived_at": "2026-10-07T05:53:02.947025+00:00",
     "match_score": 0
   },
   {
