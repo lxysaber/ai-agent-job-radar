@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T08:23:10.780941+00:00",
-  "sources_total": 12,
+  "generated_at": "2026-11-25T10:32:02.027333+00:00",
+  "sources_total": 2,
   "sources_catalog_total": 45,
   "preserve_unselected": true,
-  "jobs_raw": 2382,
-  "snapshot_after_dedup": 2361,
-  "eligible_after_profile": 104,
-  "duplicates_removed": 21,
-  "excluded_by_profile": 2257,
+  "jobs_raw": 161,
+  "snapshot_after_dedup": 154,
+  "eligible_after_profile": 0,
+  "duplicates_removed": 7,
+  "excluded_by_profile": 154,
   "store_total": 124,
   "new_this_run": 0,
   "gone_total": 0,
@@ -47,145 +47,35 @@
   ],
   "alerts": [
     {
-      "source_id": "wd-nvidia",
-      "alert": "抓取量跌为 0（历史峰值 5，疑似改版/失效）"
+      "source_id": "nk-intern",
+      "alert": "抓取量骤降 160→20（疑似部分失效）"
     },
     {
-      "source_id": "nk-intern",
-      "alert": "抓取量骤降 160→19（疑似部分失效）"
+      "source_id": "wd-nvidia",
+      "alert": "抓取量跌为 0（历史峰值 5，疑似改版/失效）"
     }
   ],
   "sources": [
     {
-      "source_id": "wd-nvidia",
-      "adapter": "workday",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:23:13.994152+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 5,
-      "alert": "抓取量跌为 0（历史峰值 5，疑似改版/失效）"
-    },
-    {
-      "source_id": "cn-bytedance",
-      "adapter": "bytedance",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:24:45.133878+00:00",
-      "last_error": "",
-      "last_count": 728,
-      "peak_count": 728,
-      "alert": ""
-    },
-    {
-      "source_id": "cn-tencent",
-      "adapter": "tencent",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:24:59.725851+00:00",
-      "last_error": "",
-      "last_count": 376,
-      "peak_count": 384,
-      "alert": ""
-    },
-    {
-      "source_id": "cn-tencent-campus",
-      "adapter": "tencent_campus",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:25:06.371653+00:00",
-      "last_error": "",
-      "last_count": 800,
-      "peak_count": 800,
-      "alert": ""
-    },
-    {
-      "source_id": "cn-sensetime",
-      "adapter": "beisen",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:25:08.099019+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 0,
-      "alert": ""
-    },
-    {
-      "source_id": "edu-sysu",
-      "adapter": "uni_career",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:26:18.164198+00:00",
-      "last_error": "",
-      "last_count": 25,
-      "peak_count": 25,
-      "alert": ""
-    },
-    {
-      "source_id": "gov-ncss",
-      "adapter": "ncss",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:26:31.460952+00:00",
-      "last_error": "",
-      "last_count": 165,
-      "peak_count": 180,
-      "alert": ""
-    },
-    {
-      "source_id": "gov-sasac",
-      "adapter": "gov_notice",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:26:50.450303+00:00",
-      "last_error": "",
-      "last_count": 28,
-      "peak_count": 30,
-      "alert": ""
-    },
-    {
-      "source_id": "gov-qyzp",
-      "adapter": "gov_notice",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:27:16.737988+00:00",
-      "last_error": "",
-      "last_count": 20,
-      "peak_count": 21,
-      "alert": ""
-    },
-    {
-      "source_id": "cn-iguopin",
-      "adapter": "iguopin",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-11-25T08:27:46.031314+00:00",
-      "last_error": "",
-      "last_count": 240,
-      "peak_count": 240,
-      "alert": ""
-    },
-    {
-      "source_id": "nk-social",
+      "source_id": "nk-intern",
       "adapter": "nowcoder",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_success_at": "2026-11-24T09:52:48.605859+00:00",
-      "last_error": "RuntimeError: 未安装 playwright；请运行 `pip install playwright && python -m playwright install chromium`",
-      "last_count": 20,
-      "peak_count": 20,
-      "alert": ""
-    },
-    {
-      "source_id": "cn-huawei-campus",
-      "adapter": "huawei",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-11-25T08:27:49.601494+00:00",
+      "last_success_at": "2026-11-25T10:32:04.916853+00:00",
       "last_error": "",
-      "last_count": 0,
-      "peak_count": 0,
+      "last_count": 20,
+      "peak_count": 160,
+      "alert": "抓取量骤降 160→20（疑似部分失效）"
+    },
+    {
+      "source_id": "sxs-intern",
+      "adapter": "shixiseng",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T10:32:29.279247+00:00",
+      "last_error": "",
+      "last_count": 141,
+      "peak_count": 155,
       "alert": ""
     },
     {
@@ -198,6 +88,18 @@
       "source_id": "gh-gitlab",
       "adapter": "greenhouse",
       "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "wd-nvidia",
+      "adapter": "workday",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:23:13.994152+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 5,
+      "alert": "抓取量跌为 0（历史峰值 5，疑似改版/失效）",
       "not_run": true
     },
     {
@@ -249,6 +151,42 @@
       "not_run": true
     },
     {
+      "source_id": "cn-bytedance",
+      "adapter": "bytedance",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:24:45.133878+00:00",
+      "last_error": "",
+      "last_count": 728,
+      "peak_count": 728,
+      "alert": "",
+      "not_run": true
+    },
+    {
+      "source_id": "cn-tencent",
+      "adapter": "tencent",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:24:59.725851+00:00",
+      "last_error": "",
+      "last_count": 376,
+      "peak_count": 384,
+      "alert": "",
+      "not_run": true
+    },
+    {
+      "source_id": "cn-tencent-campus",
+      "adapter": "tencent_campus",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:25:06.371653+00:00",
+      "last_error": "",
+      "last_count": 800,
+      "peak_count": 800,
+      "alert": "",
+      "not_run": true
+    },
+    {
       "source_id": "cn-jd",
       "adapter": "jd",
       "status": "active",
@@ -264,6 +202,18 @@
       "source_id": "cn-nio",
       "adapter": "feishu",
       "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "cn-sensetime",
+      "adapter": "beisen",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:25:08.099019+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 0,
+      "alert": "",
       "not_run": true
     },
     {
@@ -288,6 +238,18 @@
       "source_id": "cn-sgcc",
       "adapter": "public_notice",
       "status": "blocked",
+      "not_run": true
+    },
+    {
+      "source_id": "edu-sysu",
+      "adapter": "uni_career",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:26:18.164198+00:00",
+      "last_error": "",
+      "last_count": 25,
+      "peak_count": 25,
+      "alert": "",
       "not_run": true
     },
     {
@@ -345,32 +307,68 @@
       "not_run": true
     },
     {
+      "source_id": "gov-ncss",
+      "adapter": "ncss",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:26:31.460952+00:00",
+      "last_error": "",
+      "last_count": 165,
+      "peak_count": 180,
+      "alert": "",
+      "not_run": true
+    },
+    {
       "source_id": "gov-mohrss",
       "adapter": "mohrss",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "nk-intern",
-      "adapter": "nowcoder",
+      "source_id": "gov-sasac",
+      "adapter": "gov_notice",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-11-22T08:53:52.887627+00:00",
+      "last_success_at": "2026-11-25T08:26:50.450303+00:00",
       "last_error": "",
-      "last_count": 19,
-      "peak_count": 160,
-      "alert": "抓取量骤降 160→19（疑似部分失效）",
+      "last_count": 28,
+      "peak_count": 30,
+      "alert": "",
       "not_run": true
     },
     {
-      "source_id": "sxs-intern",
-      "adapter": "shixiseng",
+      "source_id": "gov-qyzp",
+      "adapter": "gov_notice",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-11-22T08:54:20.566801+00:00",
+      "last_success_at": "2026-11-25T08:27:16.737988+00:00",
       "last_error": "",
-      "last_count": 142,
-      "peak_count": 155,
+      "last_count": 20,
+      "peak_count": 21,
+      "alert": "",
+      "not_run": true
+    },
+    {
+      "source_id": "cn-iguopin",
+      "adapter": "iguopin",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:27:46.031314+00:00",
+      "last_error": "",
+      "last_count": 240,
+      "peak_count": 240,
+      "alert": "",
+      "not_run": true
+    },
+    {
+      "source_id": "nk-social",
+      "adapter": "nowcoder",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_success_at": "2026-11-24T09:52:48.605859+00:00",
+      "last_error": "RuntimeError: 未安装 playwright；请运行 `pip install playwright && python -m playwright install chromium`",
+      "last_count": 20,
+      "peak_count": 20,
       "alert": "",
       "not_run": true
     },
@@ -384,6 +382,18 @@
       "source_id": "cn-sinopec",
       "adapter": "public_notice",
       "status": "blocked",
+      "not_run": true
+    },
+    {
+      "source_id": "cn-huawei-campus",
+      "adapter": "huawei",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-25T08:27:49.601494+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 0,
+      "alert": "",
       "not_run": true
     },
     {
