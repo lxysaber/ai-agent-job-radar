@@ -1,5 +1,173 @@
 [
   {
+    "dedup_key": "39df7a6a1438050c",
+    "source_id": "nk-social",
+    "company_name": "华为软件技术有限公司",
+    "title": "Java开发工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/376884?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 110
+  },
+  {
+    "dedup_key": "fb287c840bc33bba",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（线上面试）",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310683?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "d7c7d7698a6978e2",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试工程师（线上面试）",
+    "location": "成都",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310681?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "ee23c5dabccd09d0",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "Java开发工程师（线上面试）",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/310679?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "ac6f3eed84ac0d8c",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "软件测试（年薪20-50W线上面试）",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/328467?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "54160eef4f0b0db1",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "急招Java开发（年薪20-50W线上面试）",
+    "location": "武汉",
+    "official_url": "https://www.nowcoder.com/jobs/detail/328454?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "21c732dd2cfea5d0",
+    "source_id": "nk-social",
+    "company_name": "货拉拉",
+    "title": "产品产品运营",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/458038?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 62
+  },
+  {
+    "dedup_key": "8da77832c09f462f",
+    "source_id": "nk-social",
+    "company_name": "上海科之锐人才咨询有限公司",
+    "title": "急招Java开发（年薪20-50W线上面试）",
+    "location": "成都",
+    "official_url": "https://www.nowcoder.com/jobs/detail/328470?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "d50fcd927e20badd",
+    "source_id": "nk-social",
+    "company_name": "华为软件技术有限公司",
+    "title": "软件测试工程师",
+    "location": "南京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/424826?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "5a0ec8700fac17c0",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "前后端软件开发工程师【双休+年终奖】",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/343594?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "96aa4c559f3fded1",
+    "source_id": "nk-social",
+    "company_name": "杭州勒芒科技有限公司",
+    "title": "机器人出货检验员",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/475856?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "96493af999a973d6",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "软件开发工程师【2-4个月年终奖】",
+    "location": "东莞",
+    "official_url": "https://www.nowcoder.com/jobs/detail/342571?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "98094e62ae16d822",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "软件开发工程师【2-4个月年终奖】",
+    "location": "武汉",
+    "official_url": "https://www.nowcoder.com/jobs/detail/342569?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "0e424a6622bf5bfe",
+    "source_id": "nk-social",
+    "company_name": "科锐国际",
+    "title": "后端/前端开发【双休 年终奖】",
+    "location": "杭州",
+    "official_url": "https://www.nowcoder.com/jobs/detail/341813?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-24T09:47:43.230590+00:00",
+    "last_seen": "2026-11-24T09:47:43.230590+00:00",
+    "archived_at": "2026-11-26T08:08:17.249786+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "3909bdf3e0fdf877",
     "source_id": "nk-social",
     "company_name": "无线互联",
@@ -300,18 +468,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "39df7a6a1438050c",
-    "source_id": "nk-social",
-    "company_name": "华为软件技术有限公司",
-    "title": "Java开发工程师",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/376884?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-20T07:05:52.669146+00:00",
-    "last_seen": "2026-11-20T07:05:52.669146+00:00",
-    "archived_at": "2026-11-21T06:58:43.391802+00:00",
-    "match_score": 110
-  },
-  {
     "dedup_key": "d7cd02afab0ced25",
     "source_id": "nk-social",
     "company_name": "北京外企德科人力资源服务上海有限公司",
@@ -360,18 +516,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "fb287c840bc33bba",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（线上面试）",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310683?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-19T07:16:59.309164+00:00",
-    "last_seen": "2026-11-19T07:16:59.309164+00:00",
-    "archived_at": "2026-11-20T07:05:52.669146+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "035460d7b985a729",
     "source_id": "nk-social",
     "company_name": "上海科之锐人才咨询有限公司",
@@ -396,36 +540,12 @@
     "match_score": 0
   },
   {
-    "dedup_key": "d7c7d7698a6978e2",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试工程师（线上面试）",
-    "location": "成都",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310681?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-19T07:16:59.309164+00:00",
-    "last_seen": "2026-11-19T07:16:59.309164+00:00",
-    "archived_at": "2026-11-20T07:05:52.669146+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "2d7fd840c8cdbd51",
     "source_id": "nk-social",
     "company_name": "科锐国际",
     "title": "Python【25届也可投，大厂高薪，周末双休】",
     "location": "武汉",
     "official_url": "https://www.nowcoder.com/jobs/detail/255846?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-19T07:16:59.309164+00:00",
-    "last_seen": "2026-11-19T07:16:59.309164+00:00",
-    "archived_at": "2026-11-20T07:05:52.669146+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "ee23c5dabccd09d0",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "Java开发工程师（线上面试）",
-    "location": "杭州",
-    "official_url": "https://www.nowcoder.com/jobs/detail/310679?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-11-19T07:16:59.309164+00:00",
     "last_seen": "2026-11-19T07:16:59.309164+00:00",
     "archived_at": "2026-11-20T07:05:52.669146+00:00",
@@ -480,36 +600,12 @@
     "match_score": 0
   },
   {
-    "dedup_key": "ac6f3eed84ac0d8c",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "软件测试（年薪20-50W线上面试）",
-    "location": "上海",
-    "official_url": "https://www.nowcoder.com/jobs/detail/328467?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-19T07:16:59.309164+00:00",
-    "last_seen": "2026-11-19T07:16:59.309164+00:00",
-    "archived_at": "2026-11-20T07:05:52.669146+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "728337009d25ff5b",
     "source_id": "nk-social",
     "company_name": "上海科之锐人才咨询有限公司",
     "title": "急招Java开发（年薪20-50W线上面试）",
     "location": "西安",
     "official_url": "https://www.nowcoder.com/jobs/detail/328451?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-19T07:16:59.309164+00:00",
-    "last_seen": "2026-11-19T07:16:59.309164+00:00",
-    "archived_at": "2026-11-20T07:05:52.669146+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "54160eef4f0b0db1",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "急招Java开发（年薪20-50W线上面试）",
-    "location": "武汉",
-    "official_url": "https://www.nowcoder.com/jobs/detail/328454?deliverSource=1&pageSource=5001&channel=npJobTab",
     "first_seen": "2026-11-19T07:16:59.309164+00:00",
     "last_seen": "2026-11-19T07:16:59.309164+00:00",
     "archived_at": "2026-11-20T07:05:52.669146+00:00",
@@ -972,18 +1068,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "21c732dd2cfea5d0",
-    "source_id": "nk-social",
-    "company_name": "货拉拉",
-    "title": "产品产品运营",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/458038?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-16T06:19:13.475859+00:00",
-    "last_seen": "2026-11-16T06:19:13.475859+00:00",
-    "archived_at": "2026-11-18T07:19:40.857090+00:00",
-    "match_score": 62
-  },
-  {
     "dedup_key": "957d952aa093008f",
     "source_id": "cn-iguopin",
     "company_name": "钢研智行（北京）科技有限公司",
@@ -1330,18 +1414,6 @@
     "last_seen": "2026-11-06T06:33:51.565861+00:00",
     "archived_at": "2026-11-08T05:54:56.313959+00:00",
     "match_score": 58
-  },
-  {
-    "dedup_key": "8da77832c09f462f",
-    "source_id": "nk-social",
-    "company_name": "上海科之锐人才咨询有限公司",
-    "title": "急招Java开发（年薪20-50W线上面试）",
-    "location": "成都",
-    "official_url": "https://www.nowcoder.com/jobs/detail/328470?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-06T06:33:51.565861+00:00",
-    "last_seen": "2026-11-06T06:33:51.565861+00:00",
-    "archived_at": "2026-11-08T05:54:56.313959+00:00",
-    "match_score": 0
   },
   {
     "dedup_key": "7cb38c96d5bb2155",
@@ -3031,18 +3103,6 @@
     "location": "北京-西城区",
     "official_url": "https://www.iguopin.com/job/detail?id=215954103719690429",
     "first_seen": "2026-10-11T05:40:44.840885+00:00",
-    "last_seen": "2026-10-14T04:47:45.585743+00:00",
-    "archived_at": "2026-10-15T04:31:48.713414+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "d50fcd927e20badd",
-    "source_id": "nk-social",
-    "company_name": "华为软件技术有限公司",
-    "title": "软件测试工程师",
-    "location": "南京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/424826?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-10-13T06:44:11.166732+00:00",
     "last_seen": "2026-10-14T04:47:45.585743+00:00",
     "archived_at": "2026-10-15T04:31:48.713414+00:00",
     "match_score": 0
