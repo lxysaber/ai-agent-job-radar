@@ -1,5 +1,77 @@
 [
   {
+    "dedup_key": "d246a15a42d08bc4",
+    "source_id": "nk-social",
+    "company_name": "北京小港科技",
+    "title": "初级产品经理",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/302292?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-26T08:08:17.249786+00:00",
+    "last_seen": "2026-11-27T08:18:19.056401+00:00",
+    "archived_at": "2026-11-28T07:39:41.575305+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "59a9df6aff9a0efa",
+    "source_id": "nk-social",
+    "company_name": "京鑫工程",
+    "title": "规划设计工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/400024?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-26T08:08:17.249786+00:00",
+    "last_seen": "2026-11-27T08:18:19.056401+00:00",
+    "archived_at": "2026-11-28T07:39:41.575305+00:00",
+    "match_score": 10
+  },
+  {
+    "dedup_key": "6de5911e8e8cb8f6",
+    "source_id": "nk-social",
+    "company_name": "元戎启行",
+    "title": "产品经理",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/363056?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-27T08:18:19.056401+00:00",
+    "last_seen": "2026-11-27T08:18:19.056401+00:00",
+    "archived_at": "2026-11-28T07:39:41.575305+00:00",
+    "match_score": 47
+  },
+  {
+    "dedup_key": "5a332bb5c6de717a",
+    "source_id": "nk-social",
+    "company_name": "杭州华为企业通信技术有限公司",
+    "title": "软件开发工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/476020?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-27T08:18:19.056401+00:00",
+    "last_seen": "2026-11-27T08:18:19.056401+00:00",
+    "archived_at": "2026-11-28T07:39:41.575305+00:00",
+    "match_score": 80
+  },
+  {
+    "dedup_key": "a63d4fc6d06af745",
+    "source_id": "nk-social",
+    "company_name": "泽尔测试",
+    "title": "汽车电子工程师被动安全销售工程师",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/473864?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-27T08:18:19.056401+00:00",
+    "last_seen": "2026-11-27T08:18:19.056401+00:00",
+    "archived_at": "2026-11-28T07:39:41.575305+00:00",
+    "match_score": 28
+  },
+  {
+    "dedup_key": "e801a4f7c3cbdfff",
+    "source_id": "nk-social",
+    "company_name": "辽宁省蕙聘人力资源管理有限公司",
+    "title": "科研人员",
+    "location": "",
+    "official_url": "https://www.nowcoder.com/jobs/detail/476110?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "first_seen": "2026-11-27T08:18:19.056401+00:00",
+    "last_seen": "2026-11-27T08:18:19.056401+00:00",
+    "archived_at": "2026-11-28T07:39:41.575305+00:00",
+    "match_score": 10
+  },
+  {
     "dedup_key": "3909bdf3e0fdf877",
     "source_id": "nk-social",
     "company_name": "无线互联",
@@ -288,18 +360,6 @@
     "match_score": 20
   },
   {
-    "dedup_key": "d246a15a42d08bc4",
-    "source_id": "nk-social",
-    "company_name": "北京小港科技",
-    "title": "初级产品经理",
-    "location": "北京",
-    "official_url": "https://www.nowcoder.com/jobs/detail/302292?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-21T06:58:43.391802+00:00",
-    "last_seen": "2026-11-22T06:39:05.294765+00:00",
-    "archived_at": "2026-11-23T07:27:41.694430+00:00",
-    "match_score": 0
-  },
-  {
     "dedup_key": "cb0d97ce72c886b7",
     "source_id": "nk-social",
     "company_name": "吉林省天麒信息工程有限公司",
@@ -466,30 +526,6 @@
     "last_seen": "2026-11-21T06:58:43.391802+00:00",
     "archived_at": "2026-11-22T06:39:05.294765+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "59a9df6aff9a0efa",
-    "source_id": "nk-social",
-    "company_name": "京鑫工程",
-    "title": "规划设计工程师",
-    "location": "",
-    "official_url": "https://www.nowcoder.com/jobs/detail/400024?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-20T07:05:52.669146+00:00",
-    "last_seen": "2026-11-20T07:05:52.669146+00:00",
-    "archived_at": "2026-11-21T06:58:43.391802+00:00",
-    "match_score": 10
-  },
-  {
-    "dedup_key": "6de5911e8e8cb8f6",
-    "source_id": "nk-social",
-    "company_name": "元戎启行",
-    "title": "产品经理",
-    "location": "深圳",
-    "official_url": "https://www.nowcoder.com/jobs/detail/363056?deliverSource=1&pageSource=5001&channel=npJobTab",
-    "first_seen": "2026-11-20T07:05:52.669146+00:00",
-    "last_seen": "2026-11-20T07:05:52.669146+00:00",
-    "archived_at": "2026-11-21T06:58:43.391802+00:00",
-    "match_score": 47
   },
   {
     "dedup_key": "75d9686735a6d18c",
